@@ -1,0 +1,1390 @@
+dis,dis_name,dis_group,dis_group_name,dis_system,dis_system_name,dis_name_eng,SexDisease,chronic
+A00,霍乱,A00-A09,肠道传染病,A00-B99,传染病和寄生虫病,Cholera,0,0
+A01,伤寒和副伤寒,A00-A09,肠道传染病,A00-B99,传染病和寄生虫病,Typhoid and paratyphoid fevers,0,0
+A02,其他沙门菌感染,A00-A09,肠道传染病,A00-B99,传染病和寄生虫病,Other salmonella infections,0,0
+A03,细菌性痢疾,A00-A09,肠道传染病,A00-B99,传染病和寄生虫病,Shigellosis,0,0
+A04,其他细菌性肠道感染,A00-A09,肠道传染病,A00-B99,传染病和寄生虫病,Other bacterial intestinal infections,0,0
+A05,"其他细菌性食物中毒,不可归类在他处者",A00-A09,肠道传染病,A00-B99,传染病和寄生虫病,"Other bacterial foodborne intoxications, not elsewhere classified",0,0
+A06,阿米巴病,A00-A09,肠道传染病,A00-B99,传染病和寄生虫病,Amoebiasis,0,0
+A07,其他原虫性肠道疾病,A00-A09,肠道传染病,A00-B99,传染病和寄生虫病,Other protozoal intestinal diseases,0,0
+A08,病毒性和其他特指的肠道感染,A00-A09,肠道传染病,A00-B99,传染病和寄生虫病,Viral and other specified intestinal infections,0,0
+A09,其他传染性和未特指病因的胃肠炎和结肠炎,A00-A09,肠道传染病,A00-B99,传染病和寄生虫病,Diarrhoea and gastroenteritis of presumed infectious origin,0,0
+A15,"呼吸道结核,经细菌学和组织学证实",A15-A19,结核病,A00-B99,传染病和寄生虫病,"Respiratory tuberculosis, bacteriologically and histologically confirmed",0,0
+A16,"呼吸道结核,未经细菌学或组织学所证实",A15-A19,结核病,A00-B99,传染病和寄生虫病,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",0,0
+A17,神经系统的结核,A15-A19,结核病,A00-B99,传染病和寄生虫病,Tuberculosis of nervous system,0,0
+A18,其他器官的结核,A15-A19,结核病,A00-B99,传染病和寄生虫病,Tuberculosis of other organs,0,0
+A19,粟粒性结核,A15-A19,结核病,A00-B99,传染病和寄生虫病,Miliary tuberculosis,0,0
+A20,鼠疫,A20-A28,某些动物源性细菌性疾病,A00-B99,传染病和寄生虫病,Plague,0,0
+A21,土拉菌病[兔热病],A20-A28,某些动物源性细菌性疾病,A00-B99,传染病和寄生虫病,Tularaemia,0,0
+A22,炭疽,A20-A28,某些动物源性细菌性疾病,A00-B99,传染病和寄生虫病,Anthrax,0,0
+A23,布氏菌病,A20-A28,某些动物源性细菌性疾病,A00-B99,传染病和寄生虫病,Brucellosis,0,0
+A24,鼻疽和类鼻疽,A20-A28,某些动物源性细菌性疾病,A00-B99,传染病和寄生虫病,Glanders and melioidosis,0,0
+A25,鼠咬热,A20-A28,某些动物源性细菌性疾病,A00-B99,传染病和寄生虫病,Rat-bite fevers,0,0
+A26,类丹毒,A20-A28,某些动物源性细菌性疾病,A00-B99,传染病和寄生虫病,Erysipeloid,0,0
+A27,钩端螺旋体病,A20-A28,某些动物源性细菌性疾病,A00-B99,传染病和寄生虫病,Leptospirosis,0,0
+A28,"其他动物源性细菌性疾病,不可归类在他处者",A20-A28,某些动物源性细菌性疾病,A00-B99,传染病和寄生虫病,"Other zoonotic bacterial diseases, not elsewhere classified",0,0
+A30,麻风[汉森病],A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,Leprosy [Hansen's disease],0,0
+A31,其他分枝杆菌感染,A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,Infection due to other mycobacteria,0,0
+A32,利斯特菌病,A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,Listeriosis,0,0
+A33,新生儿破伤风,A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,Tetanus neonatorum,0,0
+A34,产科破伤风,A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,Obstetrical tetanus,2,0
+A35,其他破伤风,A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,Other tetanus,0,0
+A36,白喉,A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,Diphtheria,0,0
+A37,百日咳,A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,Whooping cough,0,0
+A38,猩红热,A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,Scarlet fever,0,0
+A39,脑膜炎球菌感染,A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,Meningococcal infection,0,0
+A40,链球菌性败血症,A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,Streptococcal septicaemia,0,0
+A41,其他脓毒病,A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,Other septicaemia,0,0
+A42,放线菌病,A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,Actinomycosis,0,0
+A43,诺卡菌病,A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,Nocardiosis,0,0
+A44,巴尔通体病,A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,Bartonellosis,0,0
+A46,丹毒,A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,Erysipelas,0,0
+A48,"其他细菌性疾病,不可归类在他处者",A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,"Other bacterial diseases, not elsewhere classified",0,0
+A49,未特指部位的细菌性感染,A30-A49,其他细菌性疾病,A00-B99,传染病和寄生虫病,Bacterial infection of unspecified site,0,0
+A50,先天性梅毒,A50-A64,主要为性传播模式的感染,A00-B99,传染病和寄生虫病,Congenital syphilis,0,0
+A51,早期梅毒,A50-A64,主要为性传播模式的感染,A00-B99,传染病和寄生虫病,Early syphilis,0,0
+A52,晚期梅毒,A50-A64,主要为性传播模式的感染,A00-B99,传染病和寄生虫病,Late syphilis,0,2
+A53,其他和未特指的梅毒,A50-A64,主要为性传播模式的感染,A00-B99,传染病和寄生虫病,Other and unspecified syphilis,0,2
+A54,淋球菌感染,A50-A64,主要为性传播模式的感染,A00-B99,传染病和寄生虫病,Gonococcal infection,0,0
+A55,衣原体(性病性)淋巴肉芽肿,A50-A64,主要为性传播模式的感染,A00-B99,传染病和寄生虫病,Chlamydial lymphogranuloma (venereum),0,0
+A56,其他性传播的衣原体疾病,A50-A64,主要为性传播模式的感染,A00-B99,传染病和寄生虫病,Other sexually transmitted chlamydial diseases,0,0
+A57,软下疳,A50-A64,主要为性传播模式的感染,A00-B99,传染病和寄生虫病,Chancroid,0,0
+A58,腹股沟肉芽肿,A50-A64,主要为性传播模式的感染,A00-B99,传染病和寄生虫病,Granuloma inguinale,0,0
+A59,滴虫病[毛滴虫病],A50-A64,主要为性传播模式的感染,A00-B99,传染病和寄生虫病,Trichomoniasis,0,0
+A60,肛门生殖器的疱疹病毒[单纯疱疹]感染,A50-A64,主要为性传播模式的感染,A00-B99,传染病和寄生虫病,Anogenital herpesviral [herpes simplex] infection,0,1
+A63,"其他主要为性传播的疾病,不可归类在他处者",A50-A64,主要为性传播模式的感染,A00-B99,传染病和寄生虫病,"Other predominantly sexually transmitted diseases, not elsewhere classified",0,0
+A64,未特指的性传播疾病,A50-A64,主要为性传播模式的感染,A00-B99,传染病和寄生虫病,Unspecified sexually transmitted disease,0,0
+A65,非性病性梅毒,A65-A69,其他螺旋体病,A00-B99,传染病和寄生虫病,Nonvenereal syphilis,0,0
+A66,雅司病,A65-A69,其他螺旋体病,A00-B99,传染病和寄生虫病,Yaws,0,0
+A67,品他病,A65-A69,其他螺旋体病,A00-B99,传染病和寄生虫病,Pinta [carate],0,0
+A68,回归热,A65-A69,其他螺旋体病,A00-B99,传染病和寄生虫病,Relapsing fevers,0,0
+A69,其他螺旋体感染,A65-A69,其他螺旋体病,A00-B99,传染病和寄生虫病,Other spirochaetal infections,0,0
+A70,鹦鹉热衣原体感染,A70-A74,由衣原体引起的其他疾病,A00-B99,传染病和寄生虫病,Chlamydia psittaci infection,0,0
+A71,沙眼,A70-A74,由衣原体引起的其他疾病,A00-B99,传染病和寄生虫病,Trachoma,0,1
+A74,由衣原体引起的其他疾病,A70-A74,由衣原体引起的其他疾病,A00-B99,传染病和寄生虫病,Other diseases caused by chlamydiae,0,0
+A75,斑疹伤寒,A75-A79,立克次体病,A00-B99,传染病和寄生虫病,Typhus fever,0,0
+A77,斑疹热[蜱媒介的立克次体病],A75-A79,立克次体病,A00-B99,传染病和寄生虫病,Spotted fever [tick-borne rickettsioses],0,0
+A78,Q热,A75-A79,立克次体病,A00-B99,传染病和寄生虫病,Q fever,0,0
+A79,其他立克次体病,A75-A79,立克次体病,A00-B99,传染病和寄生虫病,Other rickettsioses,0,0
+A80,急性脊髓灰质炎,A80-A89,中枢神经系统的病毒性感染,A00-B99,传染病和寄生虫病,Acute poliomyelitis,0,0
+A81,中枢神经系统的非典型病毒感染,A80-A89,中枢神经系统的病毒性感染,A00-B99,传染病和寄生虫病,Atypical virus infections of central nervous system,0,1
+A82,狂犬病,A80-A89,中枢神经系统的病毒性感染,A00-B99,传染病和寄生虫病,Rabies,0,0
+A83,蚊媒介的病毒性脑炎,A80-A89,中枢神经系统的病毒性感染,A00-B99,传染病和寄生虫病,Mosquito-borne viral encephalitis,0,0
+A84,蜱媒介的病毒性脑炎,A80-A89,中枢神经系统的病毒性感染,A00-B99,传染病和寄生虫病,Tick-borne viral encephalitis,0,0
+A85,"其他病毒性脑炎,不可归类在他处者",A80-A89,中枢神经系统的病毒性感染,A00-B99,传染病和寄生虫病,"Other viral encephalitis, not elsewhere classified",0,0
+A86,未特指的病毒性脑炎,A80-A89,中枢神经系统的病毒性感染,A00-B99,传染病和寄生虫病,Unspecified viral encephalitis,0,0
+A87,病毒性脑膜炎,A80-A89,中枢神经系统的病毒性感染,A00-B99,传染病和寄生虫病,Viral meningitis,0,0
+A88,"中枢神经系统的其他病毒性感染,不可归类在他处者",A80-A89,中枢神经系统的病毒性感染,A00-B99,传染病和寄生虫病,"Other viral infections of central nervous system, not elsewhere classified",0,0
+A89,中枢神经系统未特指的病毒性感染,A80-A89,中枢神经系统的病毒性感染,A00-B99,传染病和寄生虫病,Unspecified viral infection of central nervous system,0,0
+A90,登革热[古典登革热],A90-A99,节肢动物媒介的病毒性发热和病毒性出血热,A00-B99,传染病和寄生虫病,Dengue fever [classical dengue],0,0
+A91,登革出血热,A90-A99,节肢动物媒介的病毒性发热和病毒性出血热,A00-B99,传染病和寄生虫病,Dengue haemorrhagic fever,0,0
+A92,其他蚊媒介的病毒性发热,A90-A99,节肢动物媒介的病毒性发热和病毒性出血热,A00-B99,传染病和寄生虫病,Other mosquito-borne viral fevers,0,0
+A93,"其他节肢动物媒介的病毒性发热,不可归类在他处者",A90-A99,节肢动物媒介的病毒性发热和病毒性出血热,A00-B99,传染病和寄生虫病,"Other arthropod-borne viral fevers, not elsewhere classified",0,0
+A94,未特指的节肢动物媒介的病毒性发热,A90-A99,节肢动物媒介的病毒性发热和病毒性出血热,A00-B99,传染病和寄生虫病,Unspecified arthropod-borne viral fever,0,0
+A95,黄热病,A90-A99,节肢动物媒介的病毒性发热和病毒性出血热,A00-B99,传染病和寄生虫病,Yellow fever,0,0
+A96,沙粒病毒性出血热,A90-A99,节肢动物媒介的病毒性发热和病毒性出血热,A00-B99,传染病和寄生虫病,Arenaviral haemorrhagic fever,0,0
+A98,"其他病毒性出血热,不可归类在他处者",A90-A99,节肢动物媒介的病毒性发热和病毒性出血热,A00-B99,传染病和寄生虫病,"Other viral haemorrhagic fevers, not elsewhere classified",0,0
+A99,未特指的病毒性出血热,A90-A99,节肢动物媒介的病毒性发热和病毒性出血热,A00-B99,传染病和寄生虫病,Unspecified viral haemorrhagic fever,0,0
+B00,疱疹病毒[单纯疱疹]感染,B00-B09,特征为皮肤和粘膜损害的病毒性感染,A00-B99,传染病和寄生虫病,Herpesviral [herpes simplex] infections,0,0
+B01,水痘,B00-B09,特征为皮肤和粘膜损害的病毒性感染,A00-B99,传染病和寄生虫病,Varicella [chickenpox],0,0
+B02,带状疱疹,B00-B09,特征为皮肤和粘膜损害的病毒性感染,A00-B99,传染病和寄生虫病,Zoster [herpes zoster],0,0
+B03,天花,B00-B09,特征为皮肤和粘膜损害的病毒性感染,A00-B99,传染病和寄生虫病,Smallpox,0,0
+B04,猴痘,B00-B09,特征为皮肤和粘膜损害的病毒性感染,A00-B99,传染病和寄生虫病,Monkeypox,0,0
+B05,麻疹,B00-B09,特征为皮肤和粘膜损害的病毒性感染,A00-B99,传染病和寄生虫病,Measles,0,0
+B06,风疹,B00-B09,特征为皮肤和粘膜损害的病毒性感染,A00-B99,传染病和寄生虫病,Rubella [German measles],0,0
+B07,病毒性疣,B00-B09,特征为皮肤和粘膜损害的病毒性感染,A00-B99,传染病和寄生虫病,Viral warts,0,0
+B08,"其他以皮肤和粘膜损害为特征的病毒性感染,不可归类在他处者",B00-B09,特征为皮肤和粘膜损害的病毒性感染,A00-B99,传染病和寄生虫病,"Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",0,0
+B09,未特指的以皮肤和粘膜损害为特征的病毒性感染,B00-B09,特征为皮肤和粘膜损害的病毒性感染,A00-B99,传染病和寄生虫病,Unspecified viral infection characterized by skin and mucous membrane lesions,0,0
+B15,急性甲型肝炎,B15-B19,病毒性肝炎,A00-B99,传染病和寄生虫病,Acute hepatitis A,0,0
+B16,急性乙型肝炎,B15-B19,病毒性肝炎,A00-B99,传染病和寄生虫病,Acute hepatitis B,0,0
+B17,其他急性病毒性肝炎,B15-B19,病毒性肝炎,A00-B99,传染病和寄生虫病,Other acute viral hepatitis,0,0
+B18,慢性病毒性肝炎,B15-B19,病毒性肝炎,A00-B99,传染病和寄生虫病,Chronic viral hepatitis,0,2
+B19,未特指的病毒性肝炎,B15-B19,病毒性肝炎,A00-B99,传染病和寄生虫病,Unspecified viral hepatitis,0,0
+B20,人类免疫缺陷病毒[HIV]病造成的传染病和寄生虫病,B20-B24,HIV,A00-B99,传染病和寄生虫病,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,0,1
+B21,人类免疫缺陷病毒[HIV]病造成的恶性肿瘤,B20-B24,HIV,A00-B99,传染病和寄生虫病,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,0,1
+B22,人类免疫缺陷病毒[HIV]病造成的其他特指的疾病,B20-B24,HIV,A00-B99,传染病和寄生虫病,Human immunodeficiency virus [HIV] disease resulting in other specified diseases,0,1
+B23,人类免疫缺陷病毒[HIV]病造成的其他情况,B20-B24,HIV,A00-B99,传染病和寄生虫病,Human immunodeficiency virus [HIV] disease resulting in other conditions,0,1
+B24,未特指的人类免疫缺陷病毒[HIV]病,B20-B24,HIV,A00-B99,传染病和寄生虫病,Unspecified human immunodeficiency virus [HIV] disease,0,1
+B25,巨细胞病毒病,B25-B34,其他病毒性疾病,A00-B99,传染病和寄生虫病,Cytomegaloviral disease,0,2
+B26,流行牲腮腺炎,B25-B34,其他病毒性疾病,A00-B99,传染病和寄生虫病,Mumps,0,0
+B27,传染性单核细胞增多症,B25-B34,其他病毒性疾病,A00-B99,传染病和寄生虫病,Infectious mononucleosis,0,0
+B30,病毒性结膜炎,B25-B34,其他病毒性疾病,A00-B99,传染病和寄生虫病,Viral conjunctivitis,0,0
+B33,"其他病毒性疾病,不可归类在他处者",B25-B34,其他病毒性疾病,A00-B99,传染病和寄生虫病,"Other viral diseases, not elsewhere classified",0,0
+B34,未特指部位的病毒性感染,B25-B34,其他病毒性疾病,A00-B99,传染病和寄生虫病,Viral infection of unspecified site,0,0
+B35,皮肤癣菌病,B35-B49,真菌病,A00-B99,传染病和寄生虫病,Dermatophytosis,0,0
+B36,其他浅部真菌病,B35-B49,真菌病,A00-B99,传染病和寄生虫病,Other superficial mycoses,0,0
+B37,念珠菌病,B35-B49,真菌病,A00-B99,传染病和寄生虫病,Candidiasis,0,0
+B38,肺球孢子菌病,B35-B49,真菌病,A00-B99,传染病和寄生虫病,Coccidioidomycosis,0,2
+B39,组织胞浆菌病,B35-B49,真菌病,A00-B99,传染病和寄生虫病,Histoplasmosis,0,0
+B40,芽生菌病,B35-B49,真菌病,A00-B99,传染病和寄生虫病,Blastomycosis,0,0
+B41,副球孢子菌病,B35-B49,真菌病,A00-B99,传染病和寄生虫病,Paracoccidioidomycosis,0,0
+B42,孢子丝菌病,B35-B49,真菌病,A00-B99,传染病和寄生虫病,Sporotrichosis,0,0
+B43,着色真菌病与棕色真菌病性脓肿,B35-B49,真菌病,A00-B99,传染病和寄生虫病,Chromomycosis and phaeomycotic abscess,0,0
+B44,曲霉病,B35-B49,真菌病,A00-B99,传染病和寄生虫病,Aspergillosis,0,2
+B45,隐球菌病,B35-B49,真菌病,A00-B99,传染病和寄生虫病,Cryptococcosis,0,0
+B46,接合菌病,B35-B49,真菌病,A00-B99,传染病和寄生虫病,Zygomycosis,0,0
+B47,足菌肿[足分枝菌病],B35-B49,真菌病,A00-B99,传染病和寄生虫病,Mycetoma,0,0
+B48,"其他真菌病,不可归类在他处者",B35-B49,真菌病,A00-B99,传染病和寄生虫病,"Other mycoses, not elsewhere classified",0,0
+B49,未特指的真菌病,B35-B49,真菌病,A00-B99,传染病和寄生虫病,Unspecified mycosis,0,0
+B50,恶性疟原虫疟疾,B50-B64,原虫性疾病,A00-B99,传染病和寄生虫病,Plasmodium falciparum malaria,0,0
+B51,间日疟原虫疟疾,B50-B64,原虫性疾病,A00-B99,传染病和寄生虫病,Plasmodium vivax malaria,0,0
+B52,三日疟原虫疟疾,B50-B64,原虫性疾病,A00-B99,传染病和寄生虫病,Plasmodium malariae malaria,0,2
+B53,其他经寄生虫学证实的疟疾,B50-B64,原虫性疾病,A00-B99,传染病和寄生虫病,Other parasitologically confirmed malaria,0,0
+B54,未特指的疟疾,B50-B64,原虫性疾病,A00-B99,传染病和寄生虫病,Unspecified malaria,0,0
+B55,利什曼病,B50-B64,原虫性疾病,A00-B99,传染病和寄生虫病,Leishmaniasis,0,0
+B56,非洲锥虫病,B50-B64,原虫性疾病,A00-B99,传染病和寄生虫病,African trypanosomiasis,0,0
+B57,查加斯病,B50-B64,原虫性疾病,A00-B99,传染病和寄生虫病,Chagas' disease,0,0
+B58,弓形虫病[弓形体病],B50-B64,原虫性疾病,A00-B99,传染病和寄生虫病,Toxoplasmosis,0,0
+B59,肺孢子虫病,B50-B64,原虫性疾病,A00-B99,传染病和寄生虫病,Pneumocystosis,0,0
+B60,"其他原虫性疾病,不可归类在他处者",B50-B64,原虫性疾病,A00-B99,传染病和寄生虫病,"Other protozoal diseases, not elsewhere classified",0,2
+B64,未特指的原虫性疾病,B50-B64,原虫性疾病,A00-B99,传染病和寄生虫病,Unspecified protozoal disease,0,0
+B65,血吸虫病[裂体吸虫病],B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Schistosomiasis [bilharziasis],0,0
+B66,其他吸虫感染,B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Other fluke infections,0,0
+B67,棘球蚴病,B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Echinococcosis,0,0
+B68,绦虫病,B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Taeniasis,0,0
+B69,囊虫病[囊尾蚴病],B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Cysticercosis,0,0
+B70,裂头绦虫病和裂头蚴病,B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Diphyllobothriasis and sparganosis,0,0
+B71,其他绦虫感染,B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Other cestode infections,0,0
+B72,龙线虫病,B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Dracunculiasis,0,0
+B73,盘尾丝虫病,B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Onchocerciasis,0,0
+B74,丝虫病,B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Filariasis,0,0
+B75,旋毛虫病,B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Trichinellosis,0,0
+B76,钩虫病,B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Hookworm diseases,0,0
+B77,蛔虫病,B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Ascariasis,0,0
+B78,类圆线虫病,B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Strongyloidiasis,0,0
+B79,鞭虫病,B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Trichuriasis,0,0
+B80,蛲虫病,B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Enterobiasis,0,0
+B81,"其他肠道蠕虫病,不可归类在他处者",B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,"Other intestinal helminthiases, not elsewhere classified",0,0
+B82,未特指的肠道寄生虫病,B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Unspecified intestinal parasitism,0,0
+B83,其他蠕虫病,B65-B83,蠕虫病,A00-B99,传染病和寄生虫病,Other helminthiases,0,0
+B85,虱病和阴虱病,B85-B89,虱病、螨病和其他病虫侵染,A00-B99,传染病和寄生虫病,Pediculosis and phthiriasis,0,0
+B86,疥疮,B85-B89,虱病、螨病和其他病虫侵染,A00-B99,传染病和寄生虫病,Scabies,0,0
+B87,蝇蛆病,B85-B89,虱病、螨病和其他病虫侵染,A00-B99,传染病和寄生虫病,Myiasis,0,0
+B88,其他病虫侵染,B85-B89,虱病、螨病和其他病虫侵染,A00-B99,传染病和寄生虫病,Other infestations,0,0
+B89,未特指的寄生虫病,B85-B89,虱病、螨病和其他病虫侵染,A00-B99,传染病和寄生虫病,Unspecified parasitic disease,0,0
+B90,结核病后遗症,B90-B94,传染病和寄生虫病的后遗症,A00-B99,传染病和寄生虫病,Sequelae of tuberculosis,0,1
+B91,脊髓灰质炎的后遗症,B90-B94,传染病和寄生虫病的后遗症,A00-B99,传染病和寄生虫病,Sequelae of poliomyelitis,0,1
+B92,麻风的后遗症,B90-B94,传染病和寄生虫病的后遗症,A00-B99,传染病和寄生虫病,Sequelae of leprosy,0,1
+B94,其他和未特指的传染病和寄生虫病的后遗症,B90-B94,传染病和寄生虫病的后遗症,A00-B99,传染病和寄生虫病,Sequelae of other and unspecified infectious and parasitic diseases,0,1
+B95,链球菌和葡萄球菌作为分类于其他章疾病的原因,B95-B97,细菌、病毒和其他传染性病原体,A00-B99,传染病和寄生虫病,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,0,0
+B96,其他特指细菌性病原体作为分类于其他章疾病的原因,B95-B97,细菌、病毒和其他传染性病原体,A00-B99,传染病和寄生虫病,Other bacterial agents as the cause of diseases classified to other chapters,0,0
+B97,病毒性病原体作为分类于其他章疾病的原因,B95-B97,细菌、病毒和其他传染性病原体,A00-B99,传染病和寄生虫病,Viral agents as the cause of diseases classified to other chapters,0,0
+B99,其他和未特指的传染病,B99,其他传染病,A00-B99,传染病和寄生虫病,Other and unspecified infectious diseases,0,0
+C00,唇恶性肿瘤,C00-C14,唇、口腔和咽恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of lip,0,1
+C01,舌根恶性肿瘤,C00-C14,唇、口腔和咽恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of base of tongue,0,1
+C02,舌其他和未特指部位的恶性肿瘤,C00-C14,唇、口腔和咽恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of other and unspecified parts of tongue,0,1
+C03,牙龈恶性肿瘤,C00-C14,唇、口腔和咽恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of gum,0,1
+C04,口底恶性肿瘤,C00-C14,唇、口腔和咽恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of floor of mouth,0,1
+C05,腭恶性肿瘤,C00-C14,唇、口腔和咽恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of palate,0,1
+C06,口其他和未特指部位的恶性肿瘤,C00-C14,唇、口腔和咽恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of other and unspecified parts of mouth,0,1
+C07,腮腺恶性肿瘤,C00-C14,唇、口腔和咽恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of parotid gland,0,1
+C08,大涎腺其他和未特指的恶性肿瘤,C00-C14,唇、口腔和咽恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of other and unspecified major salivary glands,0,1
+C09,扁桃体恶性肿瘤,C00-C14,唇、口腔和咽恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of tonsil,0,1
+C10,口咽恶性肿瘤,C00-C14,唇、口腔和咽恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of oropharynx,0,1
+C11,鼻咽恶性肿瘤,C00-C14,唇、口腔和咽恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of nasopharynx,0,1
+C12,梨状窦恶性肿瘤,C00-C14,唇、口腔和咽恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of piriform sinus,0,1
+C13,咽下部恶性肿瘤,C00-C14,唇、口腔和咽恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of hypopharynx,0,1
+C14,唇、口腔和咽其他和部位不明的恶性肿瘤,C00-C14,唇、口腔和咽恶性肿瘤,C00-D48,肿瘤,"Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx",0,1
+C15,食管恶性肿瘤,C15-C26,消化器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of oesophagus,0,1
+C16,胃恶性肿瘤,C15-C26,消化器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of stomach,0,1
+C17,小肠恶性肿瘤,C15-C26,消化器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of small intestine,0,1
+C18,结肠恶性肿瘤,C15-C26,消化器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of colon,0,1
+C19,直肠乙状结肠连接处恶性肿瘤,C15-C26,消化器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of rectosigmoid junction,0,1
+C20,直肠恶性肿瘤,C15-C26,消化器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of rectum,0,1
+C21,肛门和肛管的恶性肿瘤,C15-C26,消化器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of anus and anal canal,0,1
+C22,肝和肝内胆管恶性肿瘤,C15-C26,消化器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of liver and intrahepatic bile ducts,0,1
+C23,胆囊恶性肿瘤,C15-C26,消化器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of gallbladder,0,1
+C24,胆道其他和未特指部位的恶性肿瘤,C15-C26,消化器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of other and unspecified parts of biliary tract,0,1
+C25,胰恶性肿瘤,C15-C26,消化器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of pancreas,0,1
+C26,消化器官其他和不明确的恶性肿瘤,C15-C26,消化器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of other and ill-defined digestive organs,0,1
+C30,鼻腔和中耳恶性肿瘤,C30-C39,呼吸和胸腔内器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of nasal cavity and middle ear,0,1
+C31,鼻旁窦恶性肿瘤,C30-C39,呼吸和胸腔内器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of accessory sinuses,0,1
+C32,喉恶性肿瘤,C30-C39,呼吸和胸腔内器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of larynx,0,1
+C33,气管恶性肿瘤,C30-C39,呼吸和胸腔内器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of trachea,0,1
+C34,支气管和肺恶性肿瘤,C30-C39,呼吸和胸腔内器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of bronchus and lung,0,1
+C37,胸腺恶性肿瘤,C30-C39,呼吸和胸腔内器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of thymus,0,1
+C38,心脏、纵隔和胸膜恶性肿瘤,C30-C39,呼吸和胸腔内器官恶性肿瘤,C00-D48,肿瘤,"Malignant neoplasm of heart, mediastinum and pleura",0,1
+C39,呼吸系统和胸腔内器官其他和不明确部位的恶性肿瘤,C30-C39,呼吸和胸腔内器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs,0,1
+C40,四肢骨和关节软骨恶性肿瘤,C40-C41,骨和关节软骨恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of bone and articular cartilage of limbs,0,1
+C41,骨和关节软骨其他和未特指部位的恶性肿瘤,C40-C41,骨和关节软骨恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,0,1
+C43,皮肤恶性黑色素瘤,C43-C44,皮肤黑色素瘤和其他恶性肿瘤,C00-D48,肿瘤,Malignant melanoma of skin,0,1
+C44,皮肤其他恶性肿瘤,C43-C44,皮肤黑色素瘤和其他恶性肿瘤,C00-D48,肿瘤,Other malignant neoplasms of skin,0,0
+C45,间皮瘤,C45-C49,间皮组织和软组织恶性肿瘤,C00-D48,肿瘤,Mesothelioma,0,1
+C46,卡波西肉瘤,C45-C49,间皮组织和软组织恶性肿瘤,C00-D48,肿瘤,Kaposi's sarcoma,0,1
+C47,周围神经和自主神经系统恶性肿瘤,C45-C49,间皮组织和软组织恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of peripheral nerves and autonomic nervous system,0,1
+C48,腹膜后腔和腹膜恶性肿瘤,C45-C49,间皮组织和软组织恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of retroperitoneum and peritoneum,0,1
+C49,其他结缔组织和软组织恶性肿瘤,C45-C49,间皮组织和软组织恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of other connective and soft tissue,0,1
+C50,乳房恶性肿瘤,C50,乳房恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of breast,2,1
+C51,外阴恶性肿瘤,C51-C58,女性生殖器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of vulva,2,1
+C52,阴道恶性肿瘤,C51-C58,女性生殖器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of vagina,2,1
+C53,宫颈恶性肿瘤,C51-C58,女性生殖器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of cervix uteri,2,1
+C54,子宫体恶性肿瘤,C51-C58,女性生殖器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of corpus uteri,2,1
+C55,子宫部位未特指的恶性肿瘤,C51-C58,女性生殖器官恶性肿瘤,C00-D48,肿瘤,"Malignant neoplasm of uterus, part unspecified",2,1
+C56,卵巢恶性肿瘤,C51-C58,女性生殖器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of ovary,2,1
+C57,女性生殖器官其他和未特指的恶性肿瘤,C51-C58,女性生殖器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of other and unspecified female genital organs,2,1
+C58,胎盘恶性肿瘤,C51-C58,女性生殖器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of placenta,2,1
+C60,阴茎恶性肿瘤,C60-C63,男性生殖器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of penis,1,1
+C61,前列腺恶性肿瘤,C60-C63,男性生殖器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of prostate,1,1
+C62,睾丸恶性肿瘤,C60-C63,男性生殖器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of testis,1,1
+C63,男性生殖器官其他和未特指的恶性肿瘤,C60-C63,男性生殖器官恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of other and unspecified male genital organs,1,1
+C64,肾(除外肾盂)恶性肿瘤,C64-C68,泌尿道恶性肿瘤,C00-D48,肿瘤,"Malignant neoplasm of kidney, except renal pelvis",0,1
+C65,肾盂恶性肿瘤,C64-C68,泌尿道恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of renal pelvis,0,1
+C66,输尿管恶性肿瘤,C64-C68,泌尿道恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of ureter,0,1
+C67,膀胱恶性肿瘤,C64-C68,泌尿道恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of bladder,0,1
+C68,泌尿器官其他和未特指的恶性肿瘤,C64-C68,泌尿道恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of other and unspecified urinary organs,0,1
+C69,眼和附器恶性肿瘤,C69-C72,眼、脑和中枢神经系统其他部位的恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of eye and adnexa,0,1
+C70,脑脊膜恶性肿瘤,C69-C72,眼、脑和中枢神经系统其他部位的恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of meninges,0,1
+C71,脑恶性肿瘤,C69-C72,眼、脑和中枢神经系统其他部位的恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of brain,0,1
+C72,脊髓、脑神经和中枢神经系统其他部位的恶性肿瘤,C69-C72,眼、脑和中枢神经系统其他部位的恶性肿瘤,C00-D48,肿瘤,"Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system",0,1
+C73,甲状腺恶性肿瘤,C73-C75,甲状腺和其他内分泌腺恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of thyroid gland,0,1
+C74,肾上腺恶性肫瘤,C73-C75,甲状腺和其他内分泌腺恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of adrenal gland,0,1
+C75,其他内分泌腺和有关结构的恶性肿瘤,C73-C75,甲状腺和其他内分泌腺恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of other endocrine glands and related structures,0,1
+C76,其他和不明确部位的恶性肿瘤,C76-C80,不明确、继发和未特指部位的恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm of other and ill-defined sites,0,1
+C77,淋巴结继发性和未特指的恶性肿瘤,C76-C80,不明确、继发和未特指部位的恶性肿瘤,C00-D48,肿瘤,Secondary and unspecified malignant neoplasm of lymph nodes,0,1
+C78,呼吸和消化器官的继发性恶性肿瘤,C76-C80,不明确、继发和未特指部位的恶性肿瘤,C00-D48,肿瘤,Secondary malignant neoplasm of respiratory and digestive organs,0,1
+C79,其他和不明确部位的继发性恶性肿瘤,C76-C80,不明确、继发和未特指部位的恶性肿瘤,C00-D48,肿瘤,Secondary malignant neoplasm of other sites,0,1
+C80,部位未特指的恶性肿瘤,C76-C80,不明确、继发和未特指部位的恶性肿瘤,C00-D48,肿瘤,Malignant neoplasm without specification of site,0,1
+C81,霍奇金[何杰金]淋巴瘤,C81-C96,淋巴、造血和有关组织的恶性肿瘤,C00-D48,肿瘤,Hodgkin's disease,0,1
+C82,滤泡性淋巴瘤,C81-C96,淋巴、造血和有关组织的恶性肿瘤,C00-D48,肿瘤,Follicular [nodular] non-Hodgkin's lymphoma,0,1
+C83,非滤泡性淋巴瘤,C81-C96,淋巴、造血和有关组织的恶性肿瘤,C00-D48,肿瘤,Diffuse non-Hodgkin's lymphoma,0,1
+C84,成熟T/NK细胞淋巴瘤,C81-C96,淋巴、造血和有关组织的恶性肿瘤,C00-D48,肿瘤,Peripheral and cutaneous T-cell lymphomas,0,1
+C85,非霍奇金淋巴瘤的其他和未特指类型,C81-C96,淋巴、造血和有关组织的恶性肿瘤,C00-D48,肿瘤,Other and unspecified types of non-Hodgkin's lymphoma,0,1
+C88,其他B细胞淋巴瘤[恶性免疫增生性疾病],C81-C96,淋巴、造血和有关组织的恶性肿瘤,C00-D48,肿瘤,Malignant immunoproliferative diseases,0,1
+C90,多发性骨髓瘤和恶性浆细胞肿瘤,C81-C96,淋巴、造血和有关组织的恶性肿瘤,C00-D48,肿瘤,Multiple myeloma and malignant plasma cell neoplasms,0,1
+C91,淋巴样白血病,C81-C96,淋巴、造血和有关组织的恶性肿瘤,C00-D48,肿瘤,Lymphoid leukaemia,0,1
+C92,髓样白血病,C81-C96,淋巴、造血和有关组织的恶性肿瘤,C00-D48,肿瘤,Myeloid leukaemia,0,1
+C93,单核细胞白血病,C81-C96,淋巴、造血和有关组织的恶性肿瘤,C00-D48,肿瘤,Monocytic leukaemia,0,1
+C94,特指细胞类型的其他白血病,C81-C96,淋巴、造血和有关组织的恶性肿瘤,C00-D48,肿瘤,Other leukaemias of specified cell type,0,2
+C95,未特指细胞类型的白血病,C81-C96,淋巴、造血和有关组织的恶性肿瘤,C00-D48,肿瘤,Leukaemia of unspecified cell type,0,1
+C96,淋巴、造血和有关组织其他和未特指的恶性肿瘤,C81-C96,淋巴、造血和有关组织的恶性肿瘤,C00-D48,肿瘤,"Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",0,1
+C97,独立(原发)多个部位的恶性肿瘤,C97,独立（原发）多个部位的恶性肿瘤,C00-D48,肿瘤,Malignant neoplasms of independent (primary) multiple sites,0,1
+D00,口腔、食管和胃原位癌,D00-D09,原位肿瘤,C00-D48,肿瘤,"Carcinoma in situ of oral cavity, oesophagus and stomach",0,1
+D01,消化器官其他和未特指的原位癌,D00-D09,原位肿瘤,C00-D48,肿瘤,Carcinoma in situ of other and unspecified digestive organs,0,1
+D02,中耳和呼吸系统原位癌,D00-D09,原位肿瘤,C00-D48,肿瘤,Carcinoma in situ of middle ear and respiratory system,0,1
+D03,原位黑色素瘤,D00-D09,原位肿瘤,C00-D48,肿瘤,Melanoma in situ,0,1
+D04,皮肤原位癌,D00-D09,原位肿瘤,C00-D48,肿瘤,Carcinoma in situ of skin,0,0
+D05,乳房原位癌,D00-D09,原位肿瘤,C00-D48,肿瘤,Carcinoma in situ of breast,2,1
+D06,宫颈原位癌,D00-D09,原位肿瘤,C00-D48,肿瘤,Carcinoma in situ of cervix uteri,2,0
+D07,生殖器官其他和未特指的原位癌,D00-D09,原位肿瘤,C00-D48,肿瘤,Carcinoma in situ of other and unspecified genital organs,0,1
+D09,其他和未特指部位的原位癌,D00-D09,原位肿瘤,C00-D48,肿瘤,Carcinoma in situ of other and unspecified sites,0,1
+D10,口和咽良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of mouth and pharynx,0,0
+D11,大涎腺良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of major salivary glands,0,0
+D12,结肠、直肠、肛门和肛管良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,"Benign neoplasm of colon, rectum, anus and anal canal",0,0
+D13,消化系统其他和不明确部位的良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of other and ill-defined parts of digestive system,0,0
+D14,中耳和呼吸系统良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of middle ear and respiratory system,0,0
+D15,胸腔内器官其他和未特指的良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of other and unspecified intrathoracic organs,0,0
+D16,骨和关节软骨良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of bone and articular cartilage,0,0
+D17,良性脂肪瘤样肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign lipomatous neoplasm,0,0
+D18,"血管瘤和淋巴管瘤,任何部位",D10-D36,良性肿瘤,C00-D48,肿瘤,"Haemangioma and lymphangioma, any site",0,0
+D19,间皮组织良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of mesothelial tissue,0,0
+D20,腹膜后腔和腹膜软组织良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,0,0
+D21,结缔组织和其他软组织的其他良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Other benign neoplasms of connective and other soft tissue,0,0
+D22,黑素细胞痣,D10-D36,良性肿瘤,C00-D48,肿瘤,Melanocytic naevi,0,0
+D23,皮肤其他良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Other benign neoplasms of skin,0,0
+D24,乳房良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of breast,2,0
+D25,子宫平滑肌瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Leiomyoma of uterus,2,0
+D26,子宫其他良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Other benign neoplasms of uterus,2,0
+D27,卵巢良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of ovary,2,0
+D28,女性生殖器官其他和未特指的良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of other and unspecified female genital organs,2,0
+D29,男性生殖器官良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of male genital organs,1,0
+D30,泌尿器官良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of urinary organs,0,0
+D31,眼和附器良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of eye and adnexa,0,0
+D32,脑脊膜良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of meninges,0,2
+D33,脑和中枢神经系统其他部位的良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of brain and other parts of central nervous system,0,2
+D34,甲状腺良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of thyroid gland,0,0
+D35,内分泌腺其他和未特指的良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of other and unspecified endocrine glands,0,0
+D36,其他和未特指部位的良性肿瘤,D10-D36,良性肿瘤,C00-D48,肿瘤,Benign neoplasm of other and unspecified sites,0,0
+D37,口腔和消化器官动态未定或动态未知的肿瘤,D37-D48,动态未定或动态未知的肿瘤,C00-D48,肿瘤,Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs,0,0
+D38,中耳、呼吸和胸腔内器官动态未定或动态未知的肿瘤,D37-D48,动态未定或动态未知的肿瘤,C00-D48,肿瘤,Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs,0,0
+D39,女性生殖器官动态未定或动态未知的肿瘤,D37-D48,动态未定或动态未知的肿瘤,C00-D48,肿瘤,Neoplasm of uncertain or unknown behaviour of female genital organs,2,0
+D40,男性生殖器官动态未定或动态未知的肿瘤,D37-D48,动态未定或动态未知的肿瘤,C00-D48,肿瘤,Neoplasm of uncertain or unknown behaviour of male genital organs,1,0
+D41,泌尿器官动态未定或动态未知的肿瘤,D37-D48,动态未定或动态未知的肿瘤,C00-D48,肿瘤,Neoplasm of uncertain or unknown behaviour of urinary organs,0,0
+D42,脑脊膜动态未定或动态未知的肿瘤,D37-D48,动态未定或动态未知的肿瘤,C00-D48,肿瘤,Neoplasm of uncertain or unknown behaviour of meninges,0,0
+D43,脑和中枢神经系统动态未定或动态未知的肿瘤,D37-D48,动态未定或动态未知的肿瘤,C00-D48,肿瘤,Neoplasm of uncertain or unknown behaviour of brain and central nervous system,0,1
+D44,内分泌腺动态未定或动态未知的肿瘤,D37-D48,动态未定或动态未知的肿瘤,C00-D48,肿瘤,Neoplasm of uncertain or unknown behaviour of endocrine glands,0,0
+D45,真性红细胞增多症,D37-D48,动态未定或动态未知的肿瘤,C00-D48,肿瘤,Polycythaemia vera,0,1
+D46,骨髓增生异常综合征,D37-D48,动态未定或动态未知的肿瘤,C00-D48,肿瘤,Myelodysplastic syndromes,0,0
+D47,淋巴、造血和有关组织动态未定或动态未知的其他肿瘤,D37-D48,动态未定或动态未知的肿瘤,C00-D48,肿瘤,"Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",0,2
+D48,其他和未特指部位的动态未定或动态未知的肿瘤,D37-D48,动态未定或动态未知的肿瘤,C00-D48,肿瘤,Neoplasm of uncertain or unknown behaviour of other and unspecified sites,0,0
+D50,缺铁性贫血,D50-D53,营养性贫血,D50-D89,血液及造血器官疾病,Iron deficiency anaemia,0,2
+D51,维生素B12缺乏性贫血,D50-D53,营养性贫血,D50-D89,血液及造血器官疾病,Vitamin B12 deficiency anaemia,0,0
+D52,叶酸盐缺乏性贫血,D50-D53,营养性贫血,D50-D89,血液及造血器官疾病,Folate deficiency anaemia,0,0
+D53,其他营养性贫血,D50-D53,营养性贫血,D50-D89,血液及造血器官疾病,Other nutritional anaemias,0,0
+D55,酶代谢紊乱性贫血,D55-D59,溶血性贫血,D50-D89,血液及造血器官疾病,Anaemia due to enzyme disorders,0,1
+D56,地中海贫血,D55-D59,溶血性贫血,D50-D89,血液及造血器官疾病,Thalassaemia,0,1
+D57,镰状细胞疾患,D55-D59,溶血性贫血,D50-D89,血液及造血器官疾病,Sickle-cell disorders,0,1
+D58,其他遗传性溶血性贫血,D55-D59,溶血性贫血,D50-D89,血液及造血器官疾病,Other hereditary haemolytic anaemias,0,1
+D59,后天性溶血性贫血,D55-D59,溶血性贫血,D50-D89,血液及造血器官疾病,Acquired haemolytic anaemia,0,1
+D60,后天性纯红细胞再生障碍[幼红细胞减少症],D60-D64,再生障碍性及其他贫血,D50-D89,血液及造血器官疾病,Acquired pure red cell aplasia [erythroblastopenia],0,1
+D61,其他再生障碍性贫血,D60-D64,再生障碍性及其他贫血,D50-D89,血液及造血器官疾病,Other aplastic anaemias,0,1
+D62,急性出血后贫血,D60-D64,再生障碍性及其他贫血,D50-D89,血液及造血器官疾病,Acute posthaemorrhagic anaemia,0,0
+D63,分类于他处的慢性疾病引起的贫血,D60-D64,再生障碍性及其他贫血,D50-D89,血液及造血器官疾病,Anaemia in chronic diseases classified elsewhere,0,1
+D64,其他贫血,D60-D64,再生障碍性及其他贫血,D50-D89,血液及造血器官疾病,Other anaemias,0,2
+D65,播散性血管内凝血[去纤维蛋白综合征],D65-D69,凝血缺陷、紫癜和其他出血性情况,D50-D89,血液及造血器官疾病,Disseminated intravascular coagulation [defibrination syndrome],0,1
+D66,遗传性因子Ⅶ缺乏,D65-D69,凝血缺陷、紫癜和其他出血性情况,D50-D89,血液及造血器官疾病,Hereditary factor VIII deficiency,0,1
+D67,遗传性因子lX缺乏,D65-D69,凝血缺陷、紫癜和其他出血性情况,D50-D89,血液及造血器官疾病,Hereditary factor IX deficiency,0,1
+D68,其他凝血缺陷,D65-D69,凝血缺陷、紫癜和其他出血性情况,D50-D89,血液及造血器官疾病,Other coagulation defects,0,1
+D69,紫癜和其他出血性情况,D65-D69,凝血缺陷、紫癜和其他出血性情况,D50-D89,血液及造血器官疾病,Purpura and other haemorrhagic conditions,0,2
+D70,粒细胞缺乏,D70-D77,其他血液和造血器官疾病,D50-D89,血液及造血器官疾病,Agranulocytosis,0,1
+D71,多形核中性粒细胞的功能紊乱,D70-D77,其他血液和造血器官疾病,D50-D89,血液及造血器官疾病,Functional disorders of polymorphonuclear neutrophils,0,1
+D72,其他白细胞疾患,D70-D77,其他血液和造血器官疾病,D50-D89,血液及造血器官疾病,Other disorders of white blood cells,0,1
+D73,脾疾病,D70-D77,其他血液和造血器官疾病,D50-D89,血液及造血器官疾病,Diseases of spleen,0,2
+D74,高铁血红蛋白血症,D70-D77,其他血液和造血器官疾病,D50-D89,血液及造血器官疾病,Methaemoglobinaemia,0,0
+D75,血液和造血器官的其他疾病,D70-D77,其他血液和造血器官疾病,D50-D89,血液及造血器官疾病,Other diseases of blood and blood-forming organs,0,2
+D76,与淋巴网状组织和网状组织细胞系统的某些疾病,D70-D77,其他血液和造血器官疾病,D50-D89,血液及造血器官疾病,Certain diseases involving lymphoreticular tissue and reticulohistiocytic system,0,1
+D77,分类于他处的疾病引起的血液和造血器官的其他疾患,D70-D77,其他血液和造血器官疾病,D50-D89,血液及造血器官疾病,Other disorders of blood and blood-forming organs in diseases classified elsewhere,0,1
+D80,抗体缺陷为主的免疫缺陷,D80-D89,涉及免疫机制的某些疾患,D50-D89,血液及造血器官疾病,Immunodeficiency with predominantly antibody defects,0,1
+D81,联合免疫缺陷,D80-D89,涉及免疫机制的某些疾患,D50-D89,血液及造血器官疾病,Combined immunodeficiencies,0,2
+D82,与其他严重缺陷有关的免疫缺陷,D80-D89,涉及免疫机制的某些疾患,D50-D89,血液及造血器官疾病,Immunodeficiency associated with other major defects,0,1
+D83,常见变异型免疫缺陷,D80-D89,涉及免疫机制的某些疾患,D50-D89,血液及造血器官疾病,Common variable immunodeficiency,0,1
+D84,其他免疫缺陷,D80-D89,涉及免疫机制的某些疾患,D50-D89,血液及造血器官疾病,Other immunodeficiencies,0,1
+D86,结节病,D80-D89,涉及免疫机制的某些疾患,D50-D89,血液及造血器官疾病,Sarcoidosis,0,1
+D89,"涉及免疫机制的其他疾患, 不可归类在他处者",D80-D89,涉及免疫机制的某些疾患,D50-D89,血液及造血器官疾病,"Other disorders involving the immune mechanism, not elsewhere classified",0,1
+E00,先天性碘缺乏综合征,E00-E07,甲状腺疾患,E00-E90,内分泌、营养和代谢疾病,Congenital iodine-deficiency syndrome,0,1
+E01,碘缺乏相关性甲状腺疾患和有关情况,E00-E07,甲状腺疾患,E00-E90,内分泌、营养和代谢疾病,Iodine-deficiency-related thyroid disorders and allied conditions,0,1
+E02,临床症状不明显[亚临床]的碘缺乏性甲状腺功能减退症,E00-E07,甲状腺疾患,E00-E90,内分泌、营养和代谢疾病,Subclinical iodine-deficiency hypothyroidism,0,1
+E03,其他甲状腺功能减退症,E00-E07,甲状腺疾患,E00-E90,内分泌、营养和代谢疾病,Other hypothyroidism,0,2
+E04,其他非毒性甲状腺肿,E00-E07,甲状腺疾患,E00-E90,内分泌、营养和代谢疾病,Other nontoxic goitre,0,1
+E05,甲状腺毒症[甲状腺功能亢进症],E00-E07,甲状腺疾患,E00-E90,内分泌、营养和代谢疾病,Thyrotoxicosis [hyperthyroidism],0,1
+E06,甲状腺炎,E00-E07,甲状腺疾患,E00-E90,内分泌、营养和代谢疾病,Thyroiditis,0,1
+E07,甲状腺的其他疾患,E00-E07,甲状腺疾患,E00-E90,内分泌、营养和代谢疾病,Other disorders of thyroid,0,2
+E10,胰岛素依赖型糖尿病,E10-E14,糖尿病,E00-E90,内分泌、营养和代谢疾病,Insulin-dependent diabetes mellitus,0,1
+E11,非胰岛素依赖型糖尿病,E10-E14,糖尿病,E00-E90,内分泌、营养和代谢疾病,Non-insulin-dependent diabetes mellitus,0,1
+E12,营养不良相关性糖尿病,E10-E14,糖尿病,E00-E90,内分泌、营养和代谢疾病,Malnutrition-related diabetes mellitus,0,1
+E13,其他特指的糖尿病,E10-E14,糖尿病,E00-E90,内分泌、营养和代谢疾病,Other specified diabetes mellitus,0,1
+E14,未特指的糖尿病,E10-E14,糖尿病,E00-E90,内分泌、营养和代谢疾病,Unspecified diabetes mellitus,0,1
+E15,非糖尿病低血糖性昏迷,E15-E16,葡萄糖调节和胰腺内分泌的其他疾患,E00-E90,内分泌、营养和代谢疾病,Nondiabetic hypoglycaemic coma,0,1
+E16,胰腺内分泌的其他疾患,E15-E16,葡萄糖调节和胰腺内分泌的其他疾患,E00-E90,内分泌、营养和代谢疾病,Other disorders of pancreatic internal secretion,0,1
+E20,甲状旁腺功能减退症,E20-E35,其他内分泌腺疾患,E00-E90,内分泌、营养和代谢疾病,Hypoparathyroidism,0,1
+E21,甲状旁腺功能亢进症和甲状旁腺的其他疾患,E20-E35,其他内分泌腺疾患,E00-E90,内分泌、营养和代谢疾病,Hyperparathyroidism and other disorders of parathyroid gland,0,1
+E22,垂体功能亢进,E20-E35,其他内分泌腺疾患,E00-E90,内分泌、营养和代谢疾病,Hyperfunction of pituitary gland,0,1
+E23,垂体功能减退和其他疾患,E20-E35,其他内分泌腺疾患,E00-E90,内分泌、营养和代谢疾病,Hypofunction and other disorders of pituitary gland,0,1
+E24,库欣综合征[皮质醇增多症],E20-E35,其他内分泌腺疾患,E00-E90,内分泌、营养和代谢疾病,Cushing's syndrome,0,1
+E25,肾上腺性征疾患,E20-E35,其他内分泌腺疾患,E00-E90,内分泌、营养和代谢疾病,Adrenogenital disorders,0,1
+E26,醛固酮过多症,E20-E35,其他内分泌腺疾患,E00-E90,内分泌、营养和代谢疾病,Hyperaldosteronism,0,1
+E27,其他肾上腺疾患,E20-E35,其他内分泌腺疾患,E00-E90,内分泌、营养和代谢疾病,Other disorders of adrenal gland,0,1
+E28,卵巢功能障碍,E20-E35,其他内分泌腺疾患,E00-E90,内分泌、营养和代谢疾病,Ovarian dysfunction,2,1
+E29,睾丸功能障碍,E20-E35,其他内分泌腺疾患,E00-E90,内分泌、营养和代谢疾病,Testicular dysfunction,1,1
+E30,"青春期疾患,不可归类在他处者",E20-E35,其他内分泌腺疾患,E00-E90,内分泌、营养和代谢疾病,"Disorders of puberty, not elsewhere classified",0,2
+E31,多腺体功能障碍,E20-E35,其他内分泌腺疾患,E00-E90,内分泌、营养和代谢疾病,Polyglandular dysfunction,0,1
+E32,胸腺病,E20-E35,其他内分泌腺疾患,E00-E90,内分泌、营养和代谢疾病,Diseases of thymus,0,2
+E34,其他内分泌疾患,E20-E35,其他内分泌腺疾患,E00-E90,内分泌、营养和代谢疾病,Other endocrine disorders,0,2
+E35,分类于他处的疾病引起的内分泌腺疾患,E20-E35,其他内分泌腺疾患,E00-E90,内分泌、营养和代谢疾病,Disorders of endocrine glands in diseases classified elsewhere,0,1
+E40,夸希奥科病[恶性营养不良病],E40-E46,营养不良,E00-E90,内分泌、营养和代谢疾病,Kwashiorkor,0,1
+E41,营养性消瘦,E40-E46,营养不良,E00-E90,内分泌、营养和代谢疾病,Nutritional marasmus,0,1
+E42,消瘦性夸希奥科病,E40-E46,营养不良,E00-E90,内分泌、营养和代谢疾病,Marasmic kwashiorkor,0,1
+E43,未特指的重度蛋白质-能量营养不良,E40-E46,营养不良,E00-E90,内分泌、营养和代谢疾病,Unspecified severe protein-energy malnutrition,0,1
+E44,中度和轻度蛋白质-能量营养不良,E40-E46,营养不良,E00-E90,内分泌、营养和代谢疾病,Protein-energy malnutrition of moderate and mild degree,0,1
+E45,继后于蛋白质-能量营养不良的发育迟缓,E40-E46,营养不良,E00-E90,内分泌、营养和代谢疾病,Retarded development following protein-energy malnutrition,0,1
+E46,未特指的蛋白质-能量营养不良,E40-E46,营养不良,E00-E90,内分泌、营养和代谢疾病,Unspecified protein-energy malnutrition,0,1
+E50,维生素A缺乏病,E50-E64,其他营养缺乏,E00-E90,内分泌、营养和代谢疾病,Vitamin A deficiency,0,2
+E51,硫胺素缺乏,E50-E64,其他营养缺乏,E00-E90,内分泌、营养和代谢疾病,Thiamine deficiency,0,0
+E52,烟酸缺乏[糙皮病],E50-E64,其他营养缺乏,E00-E90,内分泌、营养和代谢疾病,Niacin deficiency [pellagra],0,0
+E53,其他B族维生素缺乏病,E50-E64,其他营养缺乏,E00-E90,内分泌、营养和代谢疾病,Deficiency of other B group vitamins,0,0
+E54,抗坏血酸缺乏,E50-E64,其他营养缺乏,E00-E90,内分泌、营养和代谢疾病,Ascorbic acid deficiency,0,0
+E55,维生素D缺乏病,E50-E64,其他营养缺乏,E00-E90,内分泌、营养和代谢疾病,Vitamin D deficiency,0,1
+E56,其他维生素缺乏病,E50-E64,其他营养缺乏,E00-E90,内分泌、营养和代谢疾病,Other vitamin deficiencies,0,0
+E58,饮食性钙缺乏,E50-E64,其他营养缺乏,E00-E90,内分泌、营养和代谢疾病,Dietary calcium deficiency,0,0
+E59,饮食性硒缺乏,E50-E64,其他营养缺乏,E00-E90,内分泌、营养和代谢疾病,Dietary selenium deficiency,0,0
+E60,饮食性锌缺乏,E50-E64,其他营养缺乏,E00-E90,内分泌、营养和代谢疾病,Dietary zinc deficiency,0,0
+E61,其他营养元素缺乏,E50-E64,其他营养缺乏,E00-E90,内分泌、营养和代谢疾病,Deficiency of other nutrient elements,0,0
+E63,其他营养缺乏,E50-E64,其他营养缺乏,E00-E90,内分泌、营养和代谢疾病,Other nutritional deficiencies,0,0
+E64,营养不良和其他营养缺乏的后遗症,E50-E64,其他营养缺乏,E00-E90,内分泌、营养和代谢疾病,Sequelae of malnutrition and other nutritional deficiencies,0,2
+E65,局部多脂症,E65-E68,肥胖症和其他营养过度,E00-E90,内分泌、营养和代谢疾病,Localized adiposity,0,1
+E66,肥胖症,E65-E68,肥胖症和其他营养过度,E00-E90,内分泌、营养和代谢疾病,Obesity,0,2
+E67,其他营养过度,E65-E68,肥胖症和其他营养过度,E00-E90,内分泌、营养和代谢疾病,Other hyperalimentation,0,1
+E68,营养过度后遗症,E65-E68,肥胖症和其他营养过度,E00-E90,内分泌、营养和代谢疾病,Sequelae of hyperalimentation,0,1
+E70,芳香氨基酸代谢紊乱,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,Disorders of aromatic amino-acid metabolism,0,1
+E71,支链氨基酸代谢和脂肪酸代谢紊乱,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,Disorders of branched-chain amino-acid metabolism and fatty-acid metabolism,0,1
+E72,其他氨基酸代谢紊乱,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,Other disorders of amino-acid metabolism,0,1
+E73,乳糖不耐受,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,Lactose intolerance,0,1
+E74,其他碳水化合物代谢紊乱,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,Other disorders of carbohydrate metabolism,0,1
+E75,(神经)鞘脂类代谢紊乱和其他脂贮积疾患,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,Disorders of sphingolipid metabolism and other lipid storage disorders,0,1
+E76,糖胺聚糖代谢紊乱,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,Disorders of glycosaminoglycan metabolism,0,1
+E77,糖蛋白代谢紊乱,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,Disorders of glycoprotein metabolism,0,1
+E78,脂蛋白代谢紊乱和其他脂血症,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,Disorders of lipoprotein metabolism and other lipidaemias,0,1
+E79,嘌呤和嘧啶代谢紊乱,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,Disorders of purine and pyrimidine metabolism,0,2
+E80,卟啉和胆红素代谢紊乱,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,Disorders of porphyrin and bilirubin metabolism,0,1
+E83,矿物质代谢紊乱,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,Disorders of mineral metabolism,0,2
+E84,囊性纤维化病,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,Cystic fibrosis,0,1
+E85,淀粉样变,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,Amyloidosis,0,1
+E86,血容量缺失,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,Volume depletion,0,0
+E87,液体-电解质及酸碱平衡的其他紊乱,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,"Other disorders of fluid, electrolyte and acid-base balance",0,0
+E88,其他代谢紊乱,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,Other metabolic disorders,0,1
+E89,"操作后内分泌和代谢紊乱,不可归类在他处者",E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,"Postprocedural endocrine and metabolic disorders, not elsewhere classified",0,2
+E90,分类于他处的其他疾病引起的营养和代谢疾患,E70-E90,代谢紊乱,E00-E90,内分泌、营养和代谢疾病,Nutritional and metabolic disorders in diseases classified elsewhere,0,1
+F00,阿尔茨海默病性痴呆,F00-F09,器质性(包括症状性)精神障碍,F00-F99,精神和行为障碍,Dementia in Alzheimer's disease,0,1
+F01,血管性痴呆,F00-F09,器质性(包括症状性)精神障碍,F00-F99,精神和行为障碍,Vascular dementia,0,1
+F02,分类于他处的其他疾病引起的痴呆,F00-F09,器质性(包括症状性)精神障碍,F00-F99,精神和行为障碍,Dementia in other diseases classified elsewhere,0,1
+F03,未特指的痴呆,F00-F09,器质性(包括症状性)精神障碍,F00-F99,精神和行为障碍,Unspecified dementia,0,1
+F04,"器质性遗忘综合征,非由酒精和其他精神活性物质所致",F00-F09,器质性(包括症状性)精神障碍,F00-F99,精神和行为障碍,"Organic amnesic syndrome, not induced by alcohol and other psychoactive substances",0,1
+F05,"谵妄,非由酒精和其他精神活性物质所致",F00-F09,器质性(包括症状性)精神障碍,F00-F99,精神和行为障碍,"Delirium, not induced by alcohol and other psychoactive substances",0,1
+F06,脑损害和功能障碍及躯体疾病引起的其他精神障碍,F00-F09,器质性(包括症状性)精神障碍,F00-F99,精神和行为障碍,Other mental disorders due to brain damage and dysfunction and to physical disease,0,2
+F07,脑部疾病、损害和功能障碍引起的人格和行为障碍,F00-F09,器质性(包括症状性)精神障碍,F00-F99,精神和行为障碍,"Personality and behavioural disorders due to brain disease, damage and dysfunction",0,1
+F09,未特指的器质性或症状性精神障碍,F00-F09,器质性(包括症状性)精神障碍,F00-F99,精神和行为障碍,Unspecified organic or symptomatic mental disorder,0,1
+F10,使用酒精引起的精神和行为障碍,F10-F19,使用精神活性物质引起的精神和行为障碍,F00-F99,精神和行为障碍,Mental and behavioural disorders due to use of alcohol,0,2
+F11,使用阿片样物质引起的精神和行为障碍,F10-F19,使用精神活性物质引起的精神和行为障碍,F00-F99,精神和行为障碍,Mental and behavioural disorders due to use of opioids,0,2
+F12,使用大麻类物质引起的精神和行为障碍,F10-F19,使用精神活性物质引起的精神和行为障碍,F00-F99,精神和行为障碍,Mental and behavioural disorders due to use of cannabinoids,0,2
+F13,使用镇静剂或催眠剂引起的精神和行为障碍,F10-F19,使用精神活性物质引起的精神和行为障碍,F00-F99,精神和行为障碍,Mental and behavioural disorders due to use of sedatives or hypnotics,0,2
+F14,使用可卡因引起的精神和行为障碍,F10-F19,使用精神活性物质引起的精神和行为障碍,F00-F99,精神和行为障碍,Mental and behavioural disorders due to use of cocaine,0,2
+F15,使用其他兴奋剂(包括咖啡因)引起的精神和行为障碍,F10-F19,使用精神活性物质引起的精神和行为障碍,F00-F99,精神和行为障碍,"Mental and behavioural disorders due to use of other stimulants, including caffeine",0,2
+F16,使用致幻剂引起的精神和行为障碍,F10-F19,使用精神活性物质引起的精神和行为障碍,F00-F99,精神和行为障碍,Mental and behavioural disorders due to use of hallucinogens,0,2
+F17,使用烟草引起的精神和行为障碍,F10-F19,使用精神活性物质引起的精神和行为障碍,F00-F99,精神和行为障碍,Mental and behavioural disorders due to use of tobacco,0,1
+F18,使用挥发性溶剂引起的精神和行为障碍,F10-F19,使用精神活性物质引起的精神和行为障碍,F00-F99,精神和行为障碍,Mental and behavioural disorders due to use of volatile solvents,0,2
+F19,使用多种药物和其他精神活性物质引起的精神和行为障碍,F10-F19,使用精神活性物质引起的精神和行为障碍,F00-F99,精神和行为障碍,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,0,2
+F20,精神分裂症,F20-F29,精神分裂症、分裂型障碍和妄想性障碍,F00-F99,精神和行为障碍,Schizophrenia,0,1
+F21,分裂型障碍,F20-F29,精神分裂症、分裂型障碍和妄想性障碍,F00-F99,精神和行为障碍,Schizotypal disorder,0,1
+F22,持久的妄想性障碍,F20-F29,精神分裂症、分裂型障碍和妄想性障碍,F00-F99,精神和行为障碍,Persistent delusional disorders,0,1
+F23,急性而短暂的精神病性障碍,F20-F29,精神分裂症、分裂型障碍和妄想性障碍,F00-F99,精神和行为障碍,Acute and transient psychotic disorders,0,0
+F24,感应性妄想性障碍,F20-F29,精神分裂症、分裂型障碍和妄想性障碍,F00-F99,精神和行为障碍,Induced delusional disorder,0,1
+F25,分裂情感性障碍,F20-F29,精神分裂症、分裂型障碍和妄想性障碍,F00-F99,精神和行为障碍,Schizoaffective disorders,0,1
+F28,其他非器质性精神病性障碍,F20-F29,精神分裂症、分裂型障碍和妄想性障碍,F00-F99,精神和行为障碍,Other nonorganic psychotic disorders,0,1
+F29,未特指的非器质性精神病,F20-F29,精神分裂症、分裂型障碍和妄想性障碍,F00-F99,精神和行为障碍,Unspecified nonorganic psychosis,0,1
+F30,躁狂发作,F30-F39,心境[情感]障碍,F00-F99,精神和行为障碍,Manic episode,0,1
+F31,双相情感障碍,F30-F39,心境[情感]障碍,F00-F99,精神和行为障碍,Bipolar affective disorder,0,1
+F32,抑郁发作,F30-F39,心境[情感]障碍,F00-F99,精神和行为障碍,Depressive episode,0,1
+F33,复发性抑郁障碍,F30-F39,心境[情感]障碍,F00-F99,精神和行为障碍,Recurrent depressive disorder,0,1
+F34,持久的心境[情感]障碍,F30-F39,心境[情感]障碍,F00-F99,精神和行为障碍,Persistent mood [affective] disorders,0,1
+F38,其他心境[情感]障碍,F30-F39,心境[情感]障碍,F00-F99,精神和行为障碍,Other mood [affective] disorders,0,1
+F39,未特指的心境[情感]障碍,F30-F39,心境[情感]障碍,F00-F99,精神和行为障碍,Unspecified mood [affective] disorder,0,1
+F40,恐怖性焦虑障碍,F40-F48,神经症性、应激相关的以及躯体形式的障碍,F00-F99,精神和行为障碍,Phobic anxiety disorders,0,1
+F41,其他焦虑障碍,F40-F48,神经症性、应激相关的以及躯体形式的障碍,F00-F99,精神和行为障碍,Other anxiety disorders,0,1
+F42,强迫性障碍,F40-F48,神经症性、应激相关的以及躯体形式的障碍,F00-F99,精神和行为障碍,Obsessive-compulsive disorder,0,1
+F43,严重应激反应及适应障碍,F40-F48,神经症性、应激相关的以及躯体形式的障碍,F00-F99,精神和行为障碍,"Reaction to severe stress, and adjustment disorders",0,1
+F44,分离[转换]性障碍,F40-F48,神经症性、应激相关的以及躯体形式的障碍,F00-F99,精神和行为障碍,Dissociative [conversion] disorders,0,1
+F45,躯体形式障碍,F40-F48,神经症性、应激相关的以及躯体形式的障碍,F00-F99,精神和行为障碍,Somatoform disorders,0,1
+F48,其他神经症性障碍,F40-F48,神经症性、应激相关的以及躯体形式的障碍,F00-F99,精神和行为障碍,Other neurotic disorders,0,1
+F50,进食障碍,F50-F59,与生理紊乱和躯体因素有关的行为综合征,F00-F99,精神和行为障碍,Eating disorders,0,1
+F51,非器质性睡眠障碍,F50-F59,与生理紊乱和躯体因素有关的行为综合征,F00-F99,精神和行为障碍,Nonorganic sleep disorders,0,2
+F52,"性功能障碍,非由器质性障碍或疾病引起",F50-F59,与生理紊乱和躯体因素有关的行为综合征,F00-F99,精神和行为障碍,"Sexual dysfunction, not caused by organic disorder or disease",0,1
+F53,"与产褥期有关的精神和行为障碍,不可归类在他处者",F50-F59,与生理紊乱和躯体因素有关的行为综合征,F00-F99,精神和行为障碍,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",2,0
+F54,与归类在他处的障碍或疾病有关的心理和行为因素,F50-F59,与生理紊乱和躯体因素有关的行为综合征,F00-F99,精神和行为障碍,Psychological and behavioural factors associated with disorders or diseases classified elsewhere,0,1
+F55,非致依赖性物质滥用,F50-F59,与生理紊乱和躯体因素有关的行为综合征,F00-F99,精神和行为障碍,Abuse of non-dependence-producing substances,0,1
+F59,与生理紊乱和躯体因素有关的未特指的行为综合征,F50-F59,与生理紊乱和躯体因素有关的行为综合征,F00-F99,精神和行为障碍,Unspecified behavioural syndromes associated with physiological disturbances and physical factors,0,1
+F60,特异性人格障碍,F60-F69,成人人格和行为障碍,F00-F99,精神和行为障碍,Specific personality disorders,0,1
+F61,混合型和其他人格障碍,F60-F69,成人人格和行为障碍,F00-F99,精神和行为障碍,Mixed and other personality disorders,0,1
+F62,"持久性人格改变,非由脑损害和疾病所致",F60-F69,成人人格和行为障碍,F00-F99,精神和行为障碍,"Enduring personality changes, not attributable to brain damage and disease",0,1
+F63,习惯和冲动障碍,F60-F69,成人人格和行为障碍,F00-F99,精神和行为障碍,Habit and impulse disorders,0,1
+F64,性身份障碍,F60-F69,成人人格和行为障碍,F00-F99,精神和行为障碍,Gender identity disorders,0,1
+F65,性偏好障碍,F60-F69,成人人格和行为障碍,F00-F99,精神和行为障碍,Disorders of sexual preference,0,1
+F66,与性发育和性取向有关的心理和行为障碍,F60-F69,成人人格和行为障碍,F00-F99,精神和行为障碍,Psychological and behavioural disorders associated with sexual development and orientation,0,1
+F68,成人人格和行为的其他障碍,F60-F69,成人人格和行为障碍,F00-F99,精神和行为障碍,Other disorders of adult personality and behaviour,0,1
+F69,成人人格和行为障碍,F60-F69,成人人格和行为障碍,F00-F99,精神和行为障碍,Unspecified disorder of adult personality and behaviour,0,1
+F70,轻度精神发育迟缓,F70-F79,精神发育迟缓,F00-F99,精神和行为障碍,Mild mental retardation,0,1
+F71,中度精神发育迟缓,F70-F79,精神发育迟缓,F00-F99,精神和行为障碍,Moderate mental retardation,0,1
+F72,重度精神发育迟缓,F70-F79,精神发育迟缓,F00-F99,精神和行为障碍,Severe mental retardation,0,1
+F73,极重度精神发育迟缓,F70-F79,精神发育迟缓,F00-F99,精神和行为障碍,Profound mental retardation,0,1
+F78,其他精神发育迟缓,F70-F79,精神发育迟缓,F00-F99,精神和行为障碍,Other mental retardation,0,1
+F79,未特指的精神发育迟缓,F70-F79,精神发育迟缓,F00-F99,精神和行为障碍,Unspecified mental retardation,0,1
+F80,特定性言语和语言发育障碍,F80-F89,心理发育障碍,F00-F99,精神和行为障碍,Specific developmental disorders of speech and language,0,1
+F81,特定性学习技能发育障碍,F80-F89,心理发育障碍,F00-F99,精神和行为障碍,Specific developmental disorders of scholastic skills,0,1
+F82,特定性运动功能发育障碍,F80-F89,心理发育障碍,F00-F99,精神和行为障碍,Specific developmental disorder of motor function,0,1
+F83,混合性特定性发育障碍,F80-F89,心理发育障碍,F00-F99,精神和行为障碍,Mixed specific developmental disorders,0,1
+F84,弥漫性[综合性]发育障碍,F80-F89,心理发育障碍,F00-F99,精神和行为障碍,Pervasive developmental disorders,0,1
+F88,其他心理发育障碍,F80-F89,心理发育障碍,F00-F99,精神和行为障碍,Other disorders of psychological development,0,1
+F89,未特指的心理发育障碍,F80-F89,心理发育障碍,F00-F99,精神和行为障碍,Unspecified disorder of psychological development,0,1
+F90,多动性障碍,F90-F99,通常在童年租青少年期发病的行为和情绪障碍,F00-F99,精神和行为障碍,Hyperkinetic disorders,0,1
+F91,品行障碍,F90-F99,通常在童年租青少年期发病的行为和情绪障碍,F00-F99,精神和行为障碍,Conduct disorders,0,1
+F92,品行和情绪混合性障碍,F90-F99,通常在童年租青少年期发病的行为和情绪障碍,F00-F99,精神和行为障碍,Mixed disorders of conduct and emotions,0,1
+F93,特发于童年的情绪障碍,F90-F99,通常在童年租青少年期发病的行为和情绪障碍,F00-F99,精神和行为障碍,Emotional disorders with onset specific to childhood,0,1
+F94,特发于童年和青少年期的社会功能障碍,F90-F99,通常在童年租青少年期发病的行为和情绪障碍,F00-F99,精神和行为障碍,Disorders of social functioning with onset specific to childhood and adolescence,0,1
+F95,抽动障碍,F90-F99,通常在童年租青少年期发病的行为和情绪障碍,F00-F99,精神和行为障碍,Tic disorders,0,1
+F98,通常在童年和青少年期发病的其他行为和情绪障碍,F90-F99,通常在童年租青少年期发病的行为和情绪障碍,F00-F99,精神和行为障碍,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,0,1
+F99,未特指的精神障碍,F90-F99,通常在童年租青少年期发病的行为和情绪障碍,F00-F99,精神和行为障碍,"Mental disorder, not otherwise specified",0,1
+G00,"细菌性脑膜炎,不可归类在他处者",G00-G09,中枢神经系统炎性疾病,G00-G99,神经系统疾病,"Bacterial meningitis, not elsewhere classified",0,0
+G01,分类于他处的细菌性疾病引起的脑膜炎,G00-G09,中枢神经系统炎性疾病,G00-G99,神经系统疾病,Meningitis in bacterial diseases classified elsewhere,0,0
+G02,分类于他处的其他传染病和寄生虫病引起的脑膜炎,G00-G09,中枢神经系统炎性疾病,G00-G99,神经系统疾病,Meningitis in other infectious and parasitic diseases classified elsewhere,0,0
+G03,其他和未特指原因引起的脑膜炎,G00-G09,中枢神经系统炎性疾病,G00-G99,神经系统疾病,Meningitis due to other and unspecified causes,0,0
+G04,脑炎、脊髓炎和脑脊髓炎,G00-G09,中枢神经系统炎性疾病,G00-G99,神经系统疾病,"Encephalitis, myelitis and encephalomyelitis",0,2
+G05,分类于他处的疾病引起的脑炎、脊髓炎和脑脊髓炎,G00-G09,中枢神经系统炎性疾病,G00-G99,神经系统疾病,"Encephalitis, myelitis and encephalomyelitis in diseases classified elsewhere",0,0
+G06,颅内和椎管内脓肿及肉芽肿,G00-G09,中枢神经系统炎性疾病,G00-G99,神经系统疾病,Intracranial and intraspinal abscess and granuloma,0,0
+G08,颅内和椎管内的静脉炎和血栓性静脉炎,G00-G09,中枢神经系统炎性疾病,G00-G99,神经系统疾病,Intracranial and intraspinal phlebitis and thrombophlebitis,0,0
+G07,分类于他处的疾病引起的颅内、椎管内脓肿和肉芽肿,G00-G09,中枢神经系统炎性疾病,G00-G99,神经系统疾病,Intracranial and intraspinal abscess and granuloma in diseases classified elsewhere,0,0
+G09,中枢神经系统炎性疾病的后遗症,G00-G09,中枢神经系统炎性疾病,G00-G99,神经系统疾病,Sequelae of inflammatory diseases of central nervous system,0,0
+G10,亨廷顿病,G10-G13,主要影响中枢神经系统的全身性萎缩,G00-G99,神经系统疾病,Huntington's disease,0,1
+G11,遗传性共济失调,G10-G13,主要影响中枢神经系统的全身性萎缩,G00-G99,神经系统疾病,Hereditary ataxia,0,1
+G12,脊髓性肌萎缩和有关的综合征,G10-G13,主要影响中枢神经系统的全身性萎缩,G00-G99,神经系统疾病,Spinal muscular atrophy and related syndromes,0,1
+G13,脊髓性肌萎缩和有关的综合征,G10-G13,主要影响中枢神经系统的全身性萎缩,G00-G99,神经系统疾病,Systemic atrophies primarily affecting central nervous system in diseases classified elsewhere,0,1
+G20,帕金森病,G20-G26,锥体外系和运动疾患,G00-G99,神经系统疾病,Parkinson's disease,0,1
+G21,继发性帕金森综合征,G20-G26,锥体外系和运动疾患,G00-G99,神经系统疾病,Secondary parkinsonism,0,1
+G22,分类于他处的疾病引起的帕金森综合症,G20-G26,锥体外系和运动疾患,G00-G99,神经系统疾病,Parkinsonism in diseases classified elsewhere,0,1
+G23,其他的基底核变性疾病,G20-G26,锥体外系和运动疾患,G00-G99,神经系统疾病,Other degenerative diseases of basal ganglia,0,1
+G24,张力失常,G20-G26,锥体外系和运动疾患,G00-G99,神经系统疾病,Dystonia,0,2
+G25,其他锥体束外和运动疾患,G20-G26,锥体外系和运动疾患,G00-G99,神经系统疾病,Other extrapyramidal and movement disorders,0,1
+G26,分类于他处的疾病引起的锥体束外和运动疾患,G20-G26,锥体外系和运动疾患,G00-G99,神经系统疾病,Extrapyramidal and movement disorders in diseases classified elsewhere,0,1
+G30,阿尔茨海默病,G30-G32,神经系统的其他变性性疾病,G00-G99,神经系统疾病,Alzheimer's disease,0,1
+G31,"神经系统的其他变性性疾病,不可归类在他处者",G30-G32,神经系统的其他变性性疾病,G00-G99,神经系统疾病,"Other degenerative diseases of nervous system, not elsewhere classified",0,1
+G32,分类于他处的疾病引起的神经系统其他变性性疾病,G30-G32,神经系统的其他变性性疾病,G00-G99,神经系统疾病,Other degenerative disorders of nervous system in diseases classified elsewhere,0,2
+G35,多发性硬化,G35-G37,中枢神经系统的脱髓鞘疾病,G00-G99,神经系统疾病,Multiple sclerosis,0,1
+G36,其他急性播散性脱髓鞘,G35-G37,中枢神经系统的脱髓鞘疾病,G00-G99,神经系统疾病,Other acute disseminated demyelination,0,1
+G37,中枢神经系统的其他脱髓鞘疾病,G35-G37,中枢神经系统的脱髓鞘疾病,G00-G99,神经系统疾病,Other demyelinating diseases of central nervous system,0,2
+G40,癫癎[癫痫],G40-G47,发作性和阵发性疾患,G00-G99,神经系统疾病,Epilepsy,0,1
+G41,癫痫持续状态,G40-G47,发作性和阵发性疾患,G00-G99,神经系统疾病,Status epilepticus,0,1
+G43,偏头痛,G40-G47,发作性和阵发性疾患,G00-G99,神经系统疾病,Migraine,0,1
+G44,其他头痛综合征,G40-G47,发作性和阵发性疾患,G00-G99,神经系统疾病,Other headache syndromes,0,2
+G45,短暂性大脑缺血性发作和相关的综合征,G40-G47,发作性和阵发性疾患,G00-G99,神经系统疾病,Transient cerebral ischaemic attacks and related syndromes,0,1
+G46,脑血管疾病引起的脑血管综合征,G40-G47,发作性和阵发性疾患,G00-G99,神经系统疾病,Vascular syndromes of brain in cerebrovascular diseases,0,1
+G47,睡眠障碍,G40-G47,发作性和阵发性疾患,G00-G99,神经系统疾病,Sleep disorders,0,2
+G50,三叉神经疾患,G50-G59,神经、神经根和神经丛疾患,G00-G99,神经系统疾病,Disorders of trigeminal nerve,0,0
+G51,神经疾患,G50-G59,神经、神经根和神经丛疾患,G00-G99,神经系统疾病,Facial nerve disorders,0,0
+G52,其他脑神经疾患,G50-G59,神经、神经根和神经丛疾患,G00-G99,神经系统疾病,Disorders of other cranial nerves,0,0
+G53,分类于他处的疾病引起的脑神经疾患,G50-G59,神经、神经根和神经丛疾患,G00-G99,神经系统疾病,Cranial nerve disorders in diseases classified elsewhere,0,0
+G54,神经根和神经丛疾患,G50-G59,神经、神经根和神经丛疾患,G00-G99,神经系统疾病,Nerve root and plexus disorders,0,1
+G55,分类于他处的疾病引起的神经根和神经丛压迫,G50-G59,神经、神经根和神经丛疾患,G00-G99,神经系统疾病,Nerve root and plexus compressions in diseases classified elsewhere,0,1
+G56,上肢单神经病,G50-G59,神经、神经根和神经丛疾患,G00-G99,神经系统疾病,Mononeuropathies of upper limb,0,1
+G57,下肢单神经病,G50-G59,神经、神经根和神经丛疾患,G00-G99,神经系统疾病,Mononeuropathies of lower limb,0,1
+G58,其他单神经病,G50-G59,神经、神经根和神经丛疾患,G00-G99,神经系统疾病,Other mononeuropathies,0,1
+G59,分类于他处的疾病引起的单神经病,G50-G59,神经、神经根和神经丛疾患,G00-G99,神经系统疾病,Mononeuropathy in diseases classified elsewhere,0,1
+G60,遗传性和特发性神经病,G60-G64,多神经病和周围神经系统的其他疾患,G00-G99,神经系统疾病,Hereditary and idiopathic neuropathy,0,1
+G61,炎性多神经病,G60-G64,多神经病和周围神经系统的其他疾患,G00-G99,神经系统疾病,Inflammatory polyneuropathy,0,1
+G62,其他多神经病,G60-G64,多神经病和周围神经系统的其他疾患,G00-G99,神经系统疾病,Other polyneuropathies,0,1
+G63,周围神经系统的其他疾患,G60-G64,多神经病和周围神经系统的其他疾患,G00-G99,神经系统疾病,Polyneuropathy in diseases classified elsewhere,0,1
+G64,周围神经系统的其他疾患,G60-G64,多神经病和周围神经系统的其他疾患,G00-G99,神经系统疾病,Other disorders of peripheral nervous system,0,1
+G70,重症肌无力和其他肌神经疾患,G70-G73,肌神经接点和肌肉疾病,G00-G99,神经系统疾病,Myasthenia gravis and other myoneural disorders,0,2
+G71,肌肉的原发性疾患,G70-G73,肌神经接点和肌肉疾病,G00-G99,神经系统疾病,Primary disorders of muscles,0,1
+G72,其他肌病,G70-G73,肌神经接点和肌肉疾病,G00-G99,神经系统疾病,Other myopathies,0,2
+G73,分类于他处的疾病引起的肌神经接点和肌肉的疾患,G70-G73,肌神经接点和肌肉疾病,G00-G99,神经系统疾病,Disorders of myoneural junction and muscle in diseases classified elsewhere,0,2
+G80,大脑性瘫痪[脑瘫],G80-G83,大脑性瘫痪和其他麻痹[瘫痪] 综合征,G00-G99,神经系统疾病,Cerebral palsy,0,1
+G81,偏瘫,G80-G83,大脑性瘫痪和其他麻痹[瘫痪] 综合征,G00-G99,神经系统疾病,Hemiplegia,0,1
+G82,截瘫和四肢瘫,G80-G83,大脑性瘫痪和其他麻痹[瘫痪] 综合征,G00-G99,神经系统疾病,Paraplegia and tetraplegia,0,1
+G83,其他麻痹[瘫痪]综合征,G80-G83,大脑性瘫痪和其他麻痹[瘫痪] 综合征,G00-G99,神经系统疾病,Other paralytic syndromes,0,1
+G90,自主神经系统的疾患,G90-G99,神经系统的其他疾患,G00-G99,神经系统疾病,Disorders of autonomic nervous system,0,1
+G91,脑积水,G90-G99,神经系统的其他疾患,G00-G99,神经系统疾病,Hydrocephalus,0,1
+G92,中毒性脑病,G90-G99,神经系统的其他疾患,G00-G99,神经系统疾病,Toxic encephalopathy,0,0
+G93,脑的其他疾患,G90-G99,神经系统的其他疾患,G00-G99,神经系统疾病,Other disorders of brain,0,2
+G94,分类于他处的疾病引起的脑的其他疾患,G90-G99,神经系统的其他疾患,G00-G99,神经系统疾病,Other disorders of brain in diseases classified elsewhere,0,1
+G95,脊髓的其他疾病,G90-G99,神经系统的其他疾患,G00-G99,神经系统疾病,Other diseases of spinal cord,0,1
+G96,中枢神经系统的其他疾患,G90-G99,神经系统的其他疾患,G00-G99,神经系统疾病,Other disorders of central nervous system,0,0
+G97,"神经系统的操作后疾患,不可归类在他处者",G90-G99,神经系统的其他疾患,G00-G99,神经系统疾病,"Postprocedural disorders of nervous system, not elsewhere classified",0,0
+G98,"神经系统的其他疾患,不可归类在他处者",G90-G99,神经系统的其他疾患,G00-G99,神经系统疾病,"Other disorders of nervous system, not elsewhere classified",0,0
+G99,分类于他处的疾病引起的神经系统的其他疾患,G90-G99,神经系统的其他疾患,G00-G99,神经系统疾病,Other disorders of nervous system in diseases classified elsewhere,0,2
+H00,睑腺炎和睑板腺囊肿,H00-H06,眼睑、泪器系和眼眶疾患,H00-H59,眼和附器疾病,Hordeolum and chalazion,0,0
+H01,眼睑的其他炎症,H00-H06,眼睑、泪器系和眼眶疾患,H00-H59,眼和附器疾病,Other inflammation of eyelid,0,0
+H02,眼睑的其他疾患,H00-H06,眼睑、泪器系和眼眶疾患,H00-H59,眼和附器疾病,Other disorders of eyelid,0,0
+H03,分类于他处的疾病引起的眼睑疾患,H00-H06,眼睑、泪器系和眼眶疾患,H00-H59,眼和附器疾病,Disorders of eyelid in diseases classified elsewhere,0,0
+H04,泪器系疾患,H00-H06,眼睑、泪器系和眼眶疾患,H00-H59,眼和附器疾病,Disorders of lacrimal system,0,0
+H05,眼眶疾患,H00-H06,眼睑、泪器系和眼眶疾患,H00-H59,眼和附器疾病,Disorders of orbit,0,2
+H06,分类于他处的疾病引起的泪器系和眼眶疾患,H00-H06,眼睑、泪器系和眼眶疾患,H00-H59,眼和附器疾病,Disorders of lacrimal system and orbit in diseases classified elsewhere,0,2
+H10,结膜炎,H10-H13,结膜疾患,H00-H59,眼和附器疾病,Conjunctivitis,0,2
+H11,结膜的其他疾患,H10-H13,结膜疾患,H00-H59,眼和附器疾病,Other disorders of conjunctiva,0,0
+H13,分来与他处的疾病引起的结膜疾患,H10-H13,结膜疾患,H00-H59,眼和附器疾病,Disorders of conjunctiva in diseases classified elsewhere,0,2
+H15,巩膜疾患,H15-H22,巩膜、角膜、虹膜和睫状体疾患,H00-H59,眼和附器疾病,Disorders of sclera,0,2
+H16,角膜炎,H15-H22,巩膜、角膜、虹膜和睫状体疾患,H00-H59,眼和附器疾病,Keratitis,0,2
+H17,角膜瘢痕和混浊,H15-H22,巩膜、角膜、虹膜和睫状体疾患,H00-H59,眼和附器疾病,Corneal scars and opacities,0,0
+H18,角膜的其他疾患,H15-H22,巩膜、角膜、虹膜和睫状体疾患,H00-H59,眼和附器疾病,Other disorders of cornea,0,2
+H19,分类于他处的疾病引起的巩膜和角膜疾患,H15-H22,巩膜、角膜、虹膜和睫状体疾患,H00-H59,眼和附器疾病,Disorders of sclera and cornea in diseases classified elsewhere,0,2
+H20,虹膜睫状体炎,H15-H22,巩膜、角膜、虹膜和睫状体疾患,H00-H59,眼和附器疾病,Iridocyclitis,0,2
+H21,虹膜和睫状体的其他疾患,H15-H22,巩膜、角膜、虹膜和睫状体疾患,H00-H59,眼和附器疾病,Other disorders of iris and ciliary body,0,2
+H22,分类于他处的疾病引起的虹膜和睫状体疾患,H15-H22,巩膜、角膜、虹膜和睫状体疾患,H00-H59,眼和附器疾病,Disorders of iris and ciliary body in diseases classified elsewhere,0,0
+H25,老年性白内障,H25-H28,晶状体疾患,H00-H59,眼和附器疾病,Senile cataract,0,1
+H26,其他白内障,H25-H28,晶状体疾患,H00-H59,眼和附器疾病,Other cataract,0,1
+H27,晶状体的其他疾患,H25-H28,晶状体疾患,H00-H59,眼和附器疾病,Other disorders of lens,0,1
+H28,分类于他处的疾病引起的白内障和晶状体的其他疾患,H25-H28,晶状体疾患,H00-H59,眼和附器疾病,Cataract and other disorders of lens in diseases classified elsewhere,0,1
+H30,脉络膜视网膜炎,H30-H36,脉络膜和视网膜疾患,H00-H59,眼和附器疾病,Chorioretinal inflammation,0,1
+H31,脉络膜的其他疾患,H30-H36,脉络膜和视网膜疾患,H00-H59,眼和附器疾病,Other disorders of choroid,0,1
+H32,分类于他处的疾病引起的脉络膜视网膜疾患,H30-H36,脉络膜和视网膜疾患,H00-H59,眼和附器疾病,Chorioretinal disorders in diseases classified elsewhere,0,1
+H33,视网膜脱离和断裂,H30-H36,脉络膜和视网膜疾患,H00-H59,眼和附器疾病,Retinal detachments and breaks,0,2
+H34,视网膜血管阻塞,H30-H36,脉络膜和视网膜疾患,H00-H59,眼和附器疾病,Retinal vascular occlusions,0,1
+H35,其他视网膜疾患,H30-H36,脉络膜和视网膜疾患,H00-H59,眼和附器疾病,Other retinal disorders,0,1
+H36,分类于他处的疾病引起的视网膜疾患,H30-H36,脉络膜和视网膜疾患,H00-H59,眼和附器疾病,Retinal disorders in diseases classified elsewhere,0,1
+H40,青光眼,H40-H42,青光眼,H00-H59,眼和附器疾病,Glaucoma,0,1
+H42,分类于他处的疾病引起的青光眼,H40-H42,青光眼,H00-H59,眼和附器疾病,Glaucoma in diseases classified elsewhere,0,1
+H43,玻璃体疾患,H43-H45,玻璃体和眼球疾患,H00-H59,眼和附器疾病,Disorders of vitreous body,0,1
+H44,眼球疾患,H43-H45,玻璃体和眼球疾患,H00-H59,眼和附器疾病,Disorders of globe,0,1
+H45,分类于他处的疾病引起的玻璃体和眼球疾患,H43-H45,玻璃体和眼球疾患,H00-H59,眼和附器疾病,Disorders of vitreous body and globe in diseases classified elsewhere,0,1
+H46,视神经炎,H46-H48,视神经和视路疾患,H00-H59,眼和附器疾病,Optic neuritis,0,1
+H47,视[第二]神经和视路的其他疾患,H46-H48,视神经和视路疾患,H00-H59,眼和附器疾病,Other disorders of optic [2nd] nerve and visual pathways,0,1
+H48,分类于他处的疾病引起的视［第二］神经和视路疾患,H46-H48,视神经和视路疾患,H00-H59,眼和附器疾病,Disorders of optic [2nd] nerve and visual pathways in diseases classified elsewhere,0,1
+H49,麻痹性斜视,H49-H52,眼球外肌、双眼运动、调节和屈光疾患,H00-H59,眼和附器疾病,Paralytic strabismus,0,2
+H50,其他斜视,H49-H52,眼球外肌、双眼运动、调节和屈光疾患,H00-H59,眼和附器疾病,Other strabismus,0,0
+H51,双眼运动的其他疾患,H49-H52,眼球外肌、双眼运动、调节和屈光疾患,H00-H59,眼和附器疾病,Other disorders of binocular movement,0,0
+H52,屈光和调节疾患,H49-H52,眼球外肌、双眼运动、调节和屈光疾患,H00-H59,眼和附器疾病,Disorders of refraction and accommodation,0,0
+H53,视觉障碍,H53-H54,视觉障碍和盲,H00-H59,眼和附器疾病,Visual disturbances,0,0
+H54,"视力缺损,包括盲(双眼或单眼)",H53-H54,视觉障碍和盲,H00-H59,眼和附器疾病,Blindness and low vision,0,1
+H55,眼震和其他不规则眼运动,H55-H59,眼和附器的其他疾患,H00-H59,眼和附器疾病,Nystagmus and other irregular eye movements,0,1
+H57,眼和附器的其他疾患,H55-H59,眼和附器的其他疾患,H00-H59,眼和附器疾病,Other disorders of eye and adnexa,0,2
+H58,分类于他处的疾病引起的眼和附器的其他疾患,H55-H59,眼和附器的其他疾患,H00-H59,眼和附器疾病,Other disorders of eye and adnexa in diseases classified elsewhere,0,2
+H59,"眼和附器的操作后疾患,不可归类在他处者",H55-H59,眼和附器的其他疾患,H00-H59,眼和附器疾病,"Postprocedural disorders of eye and adnexa, not elsewhere classified",0,0
+H60,外耳炎,H60-H62,外耳疾病,H60-H95,耳和乳突疾病,Otitis externa,0,2
+H61,外耳的其他疾患,H60-H62,外耳疾病,H60-H95,耳和乳突疾病,Other disorders of external ear,0,2
+H62,分类于他处的疾病引起的外耳疾患,H60-H62,外耳疾病,H60-H95,耳和乳突疾病,Disorders of external ear in diseases classified elsewhere,0,2
+H65,非化脓性中耳炎,H65-H75,中耳和乳突疾病,H60-H95,耳和乳突疾病,Nonsuppurative otitis media,0,2
+H66,化脓性和未特指的中耳炎,H65-H75,中耳和乳突疾病,H60-H95,耳和乳突疾病,Suppurative and unspecified otitis media,0,2
+H67,分类于他处的疾病引起的中耳炎,H65-H75,中耳和乳突疾病,H60-H95,耳和乳突疾病,Otitis media in diseases classified elsewhere,0,0
+H68,咽鼓管炎和阻塞,H65-H75,中耳和乳突疾病,H60-H95,耳和乳突疾病,Eustachian salpingitis and obstruction,0,2
+H69,咽鼓管的其他疾患,H65-H75,中耳和乳突疾病,H60-H95,耳和乳突疾病,Other disorders of Eustachian tube,0,0
+H70,乳突炎和有关情况,H65-H75,中耳和乳突疾病,H60-H95,耳和乳突疾病,Mastoiditis and related conditions,0,2
+H71,中耳胆脂瘤,H65-H75,中耳和乳突疾病,H60-H95,耳和乳突疾病,Cholesteatoma of middle ear,0,0
+H72,鼓膜穿孔,H65-H75,中耳和乳突疾病,H60-H95,耳和乳突疾病,Perforation of tympanic membrane,0,0
+H73,鼓膜的其他疾患,H65-H75,中耳和乳突疾病,H60-H95,耳和乳突疾病,Other disorders of tympanic membrane,0,2
+H74,中耳和乳突的其他疾患,H65-H75,中耳和乳突疾病,H60-H95,耳和乳突疾病,Other disorders of middle ear and mastoid,0,0
+H75,分类于他处的疾病引起的中耳和乳突的其它疾患,H65-H75,中耳和乳突疾病,H60-H95,耳和乳突疾病,Other disorders of middle ear and mastoid in diseases classified elsewhere,0,0
+H80,耳硬化,H80-H83,内耳疾病,H60-H95,耳和乳突疾病,Otosclerosis,0,0
+H81,前庭功能疾患,H80-H83,内耳疾病,H60-H95,耳和乳突疾病,Disorders of vestibular function,0,2
+H82,分类于他处的疾病引起的眩晕综合症,H80-H83,内耳疾病,H60-H95,耳和乳突疾病,Vertiginous syndromes in diseases classified elsewhere,0,0
+H83,内耳的其他疾病,H80-H83,内耳疾病,H60-H95,耳和乳突疾病,Other diseases of inner ear,0,0
+H90,传导性和感音神经性听觉丧失,H90-H95,耳的其他疾患,H60-H95,耳和乳突疾病,Conductive and sensorineural hearing loss,0,1
+H91,其他听觉丧失,H90-H95,耳的其他疾患,H60-H95,耳和乳突疾病,Other hearing loss,0,2
+H92,耳痛和耳渗出液,H90-H95,耳的其他疾患,H60-H95,耳和乳突疾病,Otalgia and effusion of ear,0,0
+H93,"耳的其他疾患,不可归类在他处者",H90-H95,耳的其他疾患,H60-H95,耳和乳突疾病,"Other disorders of ear, not elsewhere classified",0,2
+H94,分类于他处的疾病引起的耳和乳突的其它疾患,H90-H95,耳的其他疾患,H60-H95,耳和乳突疾病,Other disorders of ear in diseases classified elsewhere,0,0
+H95,"耳和乳突的操作后疾患,不可归类在他处者",H90-H95,耳的其他疾患,H60-H95,耳和乳突疾病,"Postprocedural disorders of ear and mastoid process, not elsewhere classified",0,0
+I00,"风湿热,未提及心脏受累",I00-I02,急性风湿热,I00-I99,循环系统疾病,Rheumatic fever without mention of heart involvement,0,0
+I01,风湿热伴有心脏受累,I00-I02,急性风湿热,I00-I99,循环系统疾病,Rheumatic fever with heart involvement,0,0
+I02,风湿性舞蹈症,I00-I02,急性风湿热,I00-I99,循环系统疾病,Rheumatic chorea,0,0
+I05,风湿性二尖瓣疾病,I05-I09,慢性风湿性心脏病,I00-I99,循环系统疾病,Rheumatic mitral valve diseases,0,1
+I06,风湿性主动脉瓣疾病,I05-I09,慢性风湿性心脏病,I00-I99,循环系统疾病,Rheumatic aortic valve diseases,0,1
+I07,风湿性三尖瓣疾病,I05-I09,慢性风湿性心脏病,I00-I99,循环系统疾病,Rheumatic tricuspid valve diseases,0,1
+I08,多个心瓣膜疾病,I05-I09,慢性风湿性心脏病,I00-I99,循环系统疾病,Multiple valve diseases,0,1
+I09,其他风湿性心脏病,I05-I09,慢性风湿性心脏病,I00-I99,循环系统疾病,Other rheumatic heart diseases,0,1
+I10,特发性(原发性)高血压,I10-I15,高血压病,I00-I99,循环系统疾病,Essential (primary) hypertension,0,1
+I11,高血压心脏病,I10-I15,高血压病,I00-I99,循环系统疾病,Hypertensive heart disease,0,1
+I12,高血压肾脏病,I10-I15,高血压病,I00-I99,循环系统疾病,Hypertensive renal disease,0,1
+I13,高血压心脏和肾脏病,I10-I15,高血压病,I00-I99,循环系统疾病,Hypertensive heart and renal disease,0,1
+I15,继发性高血压,I10-I15,高血压病,I00-I99,循环系统疾病,Secondary hypertension,0,1
+I20,心绞痛,I20-I25,缺血性心脏病,I00-I99,循环系统疾病,Angina pectoris,0,1
+I21,急性心肌梗死,I20-I25,缺血性心脏病,I00-I99,循环系统疾病,Acute myocardial infarction,0,1
+I22,随后性心肌梗死,I20-I25,缺血性心脏病,I00-I99,循环系统疾病,Subsequent myocardial infarction,0,1
+I23,急性心肌梗死后的某些近期并发症,I20-I25,缺血性心脏病,I00-I99,循环系统疾病,Certain current complications following acute myocardial infarction,0,1
+I24,其他急性缺血性心脏病,I20-I25,缺血性心脏病,I00-I99,循环系统疾病,Other acute ischaemic heart diseases,0,1
+I25,慢性缺血性心脏病,I20-I25,缺血性心脏病,I00-I99,循环系统疾病,Chronic ischaemic heart disease,0,1
+I26,肺栓塞,I26-I28,肺源性心脏病和肺循环疾病,I00-I99,循环系统疾病,Pulmonary embolism,0,2
+I27,其他肺源性心脏病,I26-I28,肺源性心脏病和肺循环疾病,I00-I99,循环系统疾病,Other pulmonary heart diseases,0,1
+I28,肺血管的其他疾病,I26-I28,肺源性心脏病和肺循环疾病,I00-I99,循环系统疾病,Other diseases of pulmonary vessels,0,2
+I30,急性心包炎,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Acute pericarditis,0,0
+I31,心包的其他疾病,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Other diseases of pericardium,0,2
+I32,分类于他处的疾病引起的心包炎,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Pericarditis in diseases classified elsewhere,0,0
+I33,急性和亚急性心内膜炎,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Acute and subacute endocarditis,0,0
+I34,非风湿性二尖瓣疾患,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Nonrheumatic mitral valve disorders,0,1
+I35,非风湿性主动脉瓣疾患,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Nonrheumatic aortic valve disorders,0,1
+I36,非风湿性三尖瓣疾患,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Nonrheumatic tricuspid valve disorders,0,1
+I37,肺动脉瓣疾患,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Pulmonary valve disorders,0,1
+I38,瓣膜未特指的心内膜炎,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,"Endocarditis, valve unspecified",0,1
+I39,分类于他处的疾病引起的心内膜炎和心瓣膜疾患,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Endocarditis and heart valve disorders in diseases classified elsewhere,0,1
+I40,急性心肌炎,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Acute myocarditis,0,0
+I41,分类于他处的疾病引起的心肌炎,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Myocarditis in diseases classified elsewhere,0,0
+I42,心肌病,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Cardiomyopathy,0,1
+I43,分类于他处的疾病引起的心肌病,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Cardiomyopathy in diseases classified elsewhere,0,1
+I44,房室传导阻滞和左束支传导阻滞,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Atrioventricular and left bundle-branch block,0,1
+I45,其他传导疾患,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Other conduction disorders,0,1
+I46,心脏停搏,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Cardiac arrest,0,1
+I47,阵发性心动过速,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Paroxysmal tachycardia,0,1
+I48,心房纤颤和扑动,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Atrial fibrillation and flutter,0,1
+I49,其他心律失常,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Other cardiac arrhythmias,0,1
+I50,心力衰竭,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Heart failure,0,1
+I51,心脏病的并发症和不明确表述,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Complications and ill-defined descriptions of heart disease,0,1
+I52,分类于他处的疾病引起的其他心脏疾患,I30-I52,其他类型的心脏病,I00-I99,循环系统疾病,Other heart disorders in diseases classified elsewhere,0,1
+I60,蛛网膜下出血,I60-I69,脑血管病,I00-I99,循环系统疾病,Subarachnoid haemorrhage,0,1
+I61,脑内出血,I60-I69,脑血管病,I00-I99,循环系统疾病,Intracerebral haemorrhage,0,1
+I62,其他非创伤性颅内出血,I60-I69,脑血管病,I00-I99,循环系统疾病,Other nontraumatic intracranial haemorrhage,0,1
+I63,脑梗死,I60-I69,脑血管病,I00-I99,循环系统疾病,Cerebral infarction,0,1
+I64,"脑卒中,未特指为出血或梗死",I60-I69,脑血管病,I00-I99,循环系统疾病,"Stroke, not specified as haemorrhage or infarction",0,1
+I65,"入脑前动脉的闭塞和狭窄,未造成脑梗死",I60-I69,脑血管病,I00-I99,循环系统疾病,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",0,1
+I66,"大脑动脉的闭塞和狭窄,未造成脑梗死",I60-I69,脑血管病,I00-I99,循环系统疾病,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",0,1
+I67,其他脑血管病,I60-I69,脑血管病,I00-I99,循环系统疾病,Other cerebrovascular diseases,0,1
+I68,分类于他处的疾病引起的脑血管疾患,I60-I69,脑血管病,I00-I99,循环系统疾病,Cerebrovascular disorders in diseases classified elsewhere,0,1
+I69,脑血管病后遗症,I60-I69,脑血管病,I00-I99,循环系统疾病,Sequelae of cerebrovascular disease,0,1
+I70,动脉粥样硬化,I70-I79,动脉、小动脉和毛细血管疾病,I00-I99,循环系统疾病,Atherosclerosis,0,1
+I71,主动脉瘤和主动脉夹层,I70-I79,动脉、小动脉和毛细血管疾病,I00-I99,循环系统疾病,Aortic aneurysm and dissection,0,1
+I72,其他动脉瘤,I70-I79,动脉、小动脉和毛细血管疾病,I00-I99,循环系统疾病,Other aneurysm,0,1
+I73,其他周围血管疾病,I70-I79,动脉、小动脉和毛细血管疾病,I00-I99,循环系统疾病,Other peripheral vascular diseases,0,1
+I74,动脉栓塞和血栓形成,I70-I79,动脉、小动脉和毛细血管疾病,I00-I99,循环系统疾病,Arterial embolism and thrombosis,0,1
+I77,动脉和小动脉的其他疾患,I70-I79,动脉、小动脉和毛细血管疾病,I00-I99,循环系统疾病,Other disorders of arteries and arterioles,0,1
+I78,毛细血管疾病,I70-I79,动脉、小动脉和毛细血管疾病,I00-I99,循环系统疾病,Diseases of capillaries,0,2
+I79,分类于他处的疾病引起的动脉、小动脉和毛细血管疾患,I70-I79,动脉、小动脉和毛细血管疾病,I00-I99,循环系统疾病,"Disorders of arteries, arterioles and capillaries in diseases classified elsewhere",0,1
+I80,静脉炎和血栓性静脉炎,I80-I89,"静脉、淋巴管和淋巴结疾病,不可归类在他处者",I00-I99,循环系统疾病,Phlebitis and thrombophlebitis,0,0
+I81,门静脉血栓形成,I80-I89,"静脉、淋巴管和淋巴结疾病,不可归类在他处者",I00-I99,循环系统疾病,Portal vein thrombosis,0,0
+I82,其他静脉栓塞和血栓形成,I80-I89,"静脉、淋巴管和淋巴结疾病,不可归类在他处者",I00-I99,循环系统疾病,Other venous embolism and thrombosis,0,2
+I83,下肢静脉曲张,I80-I89,"静脉、淋巴管和淋巴结疾病,不可归类在他处者",I00-I99,循环系统疾病,Varicose veins of lower extremities,0,0
+I84,痔,I80-I89,"静脉、淋巴管和淋巴结疾病,不可归类在他处者",I00-I99,循环系统疾病,Haemorrhoids,0,2
+I85,食管静脉曲张,I80-I89,"静脉、淋巴管和淋巴结疾病,不可归类在他处者",I00-I99,循环系统疾病,Oesophageal varices,0,1
+I86,其他部位的静脉曲张,I80-I89,"静脉、淋巴管和淋巴结疾病,不可归类在他处者",I00-I99,循环系统疾病,Varicose veins of other sites,0,0
+I87,静脉的其他疾患,I80-I89,"静脉、淋巴管和淋巴结疾病,不可归类在他处者",I00-I99,循环系统疾病,Other disorders of veins,0,2
+I88,非特异性淋巴结炎,I80-I89,"静脉、淋巴管和淋巴结疾病,不可归类在他处者",I00-I99,循环系统疾病,Nonspecific lymphadenitis,0,2
+I89,淋巴管和淋巴结的其他非感染性疾患,I80-I89,"静脉、淋巴管和淋巴结疾病,不可归类在他处者",I00-I99,循环系统疾病,Other noninfective disorders of lymphatic vessels and lymph nodes,0,1
+I95,低血压,I95-I99,循环系统其他和未特指的疾患,I00-I99,循环系统疾病,Hypotension,0,2
+I97,"循环系统的操作后疾患,不可归类在他处者",I95-I99,循环系统其他和未特指的疾患,I00-I99,循环系统疾病,"Postprocedural disorders of circulatory system, not elsewhere classified",0,2
+I98,分类于他处的疾病引起的循环系统的其他疾患,I95-I99,循环系统其他和未特指的疾患,I00-I99,循环系统疾病,Other disorders of circulatory system in diseases classified elsewhere,0,2
+I99,循环系统其他和未特指的疾患,I95-I99,循环系统其他和未特指的疾患,I00-I99,循环系统疾病,Other and unspecified disorders of circulatory system,0,0
+J00,急性鼻咽炎[感冒],J00-J06,急性上呼吸道感染,J00-J99,呼吸系统疾病,Acute nasopharyngitis [common cold],0,0
+J01,急性鼻窦炎,J00-J06,急性上呼吸道感染,J00-J99,呼吸系统疾病,Acute sinusitis,0,0
+J02,急性咽炎,J00-J06,急性上呼吸道感染,J00-J99,呼吸系统疾病,Acute pharyngitis,0,0
+J03,急性扁桃体炎,J00-J06,急性上呼吸道感染,J00-J99,呼吸系统疾病,Acute tonsillitis,0,0
+J04,急性喉炎和气管炎,J00-J06,急性上呼吸道感染,J00-J99,呼吸系统疾病,Acute laryngitis and tracheitis,0,0
+J05,急性梗阻性喉炎[哮吼]和会厌炎,J00-J06,急性上呼吸道感染,J00-J99,呼吸系统疾病,Acute obstructive laryngitis [croup] and epiglottitis,0,0
+J06,多发性和未特指部位的急性上呼吸道感染,J00-J06,急性上呼吸道感染,J00-J99,呼吸系统疾病,Acute upper respiratory infections of multiple and unspecified sites,0,0
+J09,被标明的禽流感病毒引起的流行性感冒,J09-J18,流行性感冒和肺炎,J00-J99,呼吸系统疾病,Influenza due to identified avian influenza virus,0,0
+J10,被标明的其他流感病毒引起的流行性感冒,J09-J18,流行性感冒和肺炎,J00-J99,呼吸系统疾病,Influenza due to other identified influenza virus,0,0
+J11,"流行性感冒,病毒未标明",J09-J18,流行性感冒和肺炎,J00-J99,呼吸系统疾病,"Influenza, virus not identified",0,0
+J12,"病毒性肺炎,不可归类在他处者",J09-J18,流行性感冒和肺炎,J00-J99,呼吸系统疾病,"Viral pneumonia, not elsewhere classified",0,0
+J13,链球菌性肺炎,J09-J18,流行性感冒和肺炎,J00-J99,呼吸系统疾病,Pneumonia due to Streptococcus pneumoniae,0,0
+J14,流感嗜血杆菌性肺炎,J09-J18,流行性感冒和肺炎,J00-J99,呼吸系统疾病,Pneumonia due to Haemophilus influenzae,0,0
+J15,"细菌性肺炎,不可归类在他处者",J09-J18,流行性感冒和肺炎,J00-J99,呼吸系统疾病,"Bacterial pneumonia, not elsewhere classified",0,0
+J16,"其他传染性病原体引起的肺炎,不可归类在他处者",J09-J18,流行性感冒和肺炎,J00-J99,呼吸系统疾病,"Pneumonia due to other infectious organisms, not elsewhere classified",0,0
+J17,分类于他处的疾病引起的肺炎,J09-J18,流行性感冒和肺炎,J00-J99,呼吸系统疾病,Pneumonia in diseases classified elsewhere,0,0
+J18,"肺炎,病原体未特指",J09-J18,流行性感冒和肺炎,J00-J99,呼吸系统疾病,"Pneumonia, organism unspecified",0,2
+J20,急性支气管炎,J20-J22,其他急性下呼吸道感染,J00-J99,呼吸系统疾病,Acute bronchitis,0,0
+J21,急性细支气管炎,J20-J22,其他急性下呼吸道感染,J00-J99,呼吸系统疾病,Acute bronchiolitis,0,0
+J22,未特指的急性下呼吸道感染,J20-J22,其他急性下呼吸道感染,J00-J99,呼吸系统疾病,Unspecified acute lower respiratory infection,0,0
+J30,血管舒缩性和变应性鼻炎,J30-J39,上呼吸道的其他疾病,J00-J99,呼吸系统疾病,Vasomotor and allergic rhinitis,0,1
+J31,慢性鼻炎、鼻咽炎和咽炎,J30-J39,上呼吸道的其他疾病,J00-J99,呼吸系统疾病,"Chronic rhinitis, nasopharyngitis and pharyngitis",0,1
+J32,慢性鼻窦炎,J30-J39,上呼吸道的其他疾病,J00-J99,呼吸系统疾病,Chronic sinusitis,0,1
+J33,鼻息肉,J30-J39,上呼吸道的其他疾病,J00-J99,呼吸系统疾病,Nasal polyp,0,0
+J34,鼻和鼻窦的其他疾患,J30-J39,上呼吸道的其他疾病,J00-J99,呼吸系统疾病,Other disorders of nose and nasal sinuses,0,2
+J35,扁桃体和腺样体慢性疾病,J30-J39,上呼吸道的其他疾病,J00-J99,呼吸系统疾病,Chronic diseases of tonsils and adenoids,0,1
+J36,扁桃体周脓肿,J30-J39,上呼吸道的其他疾病,J00-J99,呼吸系统疾病,Peritonsillar abscess,0,0
+J37,慢性喉炎和喉气管炎,J30-J39,上呼吸道的其他疾病,J00-J99,呼吸系统疾病,Chronic laryngitis and laryngotracheitis,0,1
+J38,"声带和喉疾病,不可归类在他处者",J30-J39,上呼吸道的其他疾病,J00-J99,呼吸系统疾病,"Diseases of vocal cords and larynx, not elsewhere classified",0,2
+J39,上呼吸道的其他疾病,J30-J39,上呼吸道的其他疾病,J00-J99,呼吸系统疾病,Other diseases of upper respiratory tract,0,0
+J40,"支气管炎,未特指为急性或慢性",J40-J47,慢性下呼吸道疾病,J00-J99,呼吸系统疾病,"Bronchitis, not specified as acute or chronic",0,0
+J41,单纯性和粘液脓性慢性支气管炎,J40-J47,慢性下呼吸道疾病,J00-J99,呼吸系统疾病,Simple and mucopurulent chronic bronchitis,0,1
+J42,未特指的慢性支气管炎,J40-J47,慢性下呼吸道疾病,J00-J99,呼吸系统疾病,Unspecified chronic bronchitis,0,1
+J43,肺气肿,J40-J47,慢性下呼吸道疾病,J00-J99,呼吸系统疾病,Emphysema,0,1
+J44,其他慢性阻塞性肺病,J40-J47,慢性下呼吸道疾病,J00-J99,呼吸系统疾病,Other chronic obstructive pulmonary disease,0,1
+J45,哮喘,J40-J47,慢性下呼吸道疾病,J00-J99,呼吸系统疾病,Asthma,0,1
+J46,哮喘持续状态,J40-J47,慢性下呼吸道疾病,J00-J99,呼吸系统疾病,Status asthmaticus,0,1
+J47,支气管扩张(症),J40-J47,慢性下呼吸道疾病,J00-J99,呼吸系统疾病,Bronchiectasis,0,1
+J60,煤炭工肺尘埃沉着病,J60-J70,外部物质引起的肺部疾病,J00-J99,呼吸系统疾病,Coalworker's pneumoconiosis,0,1
+J61,石棉和其他矿物纤维引起的肺尘埃沉着病,J60-J70,外部物质引起的肺部疾病,J00-J99,呼吸系统疾病,Pneumoconiosis due to asbestos and other mineral fibres,0,1
+J62,含硅[矽]粉尘引起的肺尘埃沉着病,J60-J70,外部物质引起的肺部疾病,J00-J99,呼吸系统疾病,Pneumoconiosis due to dust containing silica,0,1
+J63,其他无机粉尘引起的肺尘埃沉着病,J60-J70,外部物质引起的肺部疾病,J00-J99,呼吸系统疾病,Pneumoconiosis due to other inorganic dusts,0,1
+J64,未特指的肺尘埃沉着病,J60-J70,外部物质引起的肺部疾病,J00-J99,呼吸系统疾病,Unspecified pneumoconiosis,0,1
+J65,肺尘埃沉着病伴结核,J60-J70,外部物质引起的肺部疾病,J00-J99,呼吸系统疾病,Pneumoconiosis associated with tuberculosis,0,1
+J66,特指的有机粉尘引起的气道疾病,J60-J70,外部物质引起的肺部疾病,J00-J99,呼吸系统疾病,Airway disease due to specific organic dust,0,1
+J67,有机粉尘引起的过敏性肺炎,J60-J70,外部物质引起的肺部疾病,J00-J99,呼吸系统疾病,Hypersensitivity pneumonitis due to organic dust,0,1
+J68,吸入化学制剂、气体、烟雾和蒸气引起的呼吸性情况,J60-J70,外部物质引起的肺部疾病,J00-J99,呼吸系统疾病,"Respiratory conditions due to inhalation of chemicals, gases, fumes and vapours",0,2
+J69,固体和液体引起的肺炎,J60-J70,外部物质引起的肺部疾病,J00-J99,呼吸系统疾病,Pneumonitis due to solids and liquids,0,0
+J70,其他外部物质引起的呼吸性情况,J60-J70,外部物质引起的肺部疾病,J00-J99,呼吸系统疾病,Respiratory conditions due to other external agents,0,2
+J80,成人型呼吸窘迫综合征,J80-J84,主要影响间质的其他呼吸性疾病,J00-J99,呼吸系统疾病,Adult respiratory distress syndrome,0,0
+J81,肺水肿,J80-J84,主要影响间质的其他呼吸性疾病,J00-J99,呼吸系统疾病,Pulmonary oedema,0,2
+J82,"肺嗜酸性粒细胞增多,不可归类在他处者",J80-J84,主要影响间质的其他呼吸性疾病,J00-J99,呼吸系统疾病,"Pulmonary eosinophilia, not elsewhere classified",0,0
+J84,其他间质性肺疾病,J80-J84,主要影响间质的其他呼吸性疾病,J00-J99,呼吸系统疾病,Other interstitial pulmonary diseases,0,2
+J85,肺和纵隔脓肿,J85-J86,下呼吸道化脓性和坏死性情况,J00-J99,呼吸系统疾病,Abscess of lung and mediastinum,0,0
+J86,脓胸,J85-J86,下呼吸道化脓性和坏死性情况,J00-J99,呼吸系统疾病,Pyothorax,0,0
+J90,"胸腔积液,不可归类在他处者",J90-J94,胸膜的其他疾病,J00-J99,呼吸系统疾病,"Pleural effusion, not elsewhere classified",0,0
+J91,分类于他处的疾病引起的胸腔积液,J90-J94,胸膜的其他疾病,J00-J99,呼吸系统疾病,Pleural effusion in conditions classified elsewhere,0,2
+J92,胸膜斑,J90-J94,胸膜的其他疾病,J00-J99,呼吸系统疾病,Pleural plaque,0,0
+J93,气胸,J90-J94,胸膜的其他疾病,J00-J99,呼吸系统疾病,Pneumothorax,0,0
+J94,其他胸膜情况,J90-J94,胸膜的其他疾病,J00-J99,呼吸系统疾病,Other pleural conditions,0,0
+J95,"操作后的呼吸性疾患,不可归类在他处者",J95-J99,呼吸系统的其他疾病,J00-J99,呼吸系统疾病,"Postprocedural respiratory disorders, not elsewhere classified",0,2
+J96,"呼吸衰竭,不可归类在他处者",J95-J99,呼吸系统的其他疾病,J00-J99,呼吸系统疾病,"Respiratory failure, not elsewhere classified",0,2
+J98,其他呼吸性疾患,J95-J99,呼吸系统的其他疾病,J00-J99,呼吸系统疾病,Other respiratory disorders,0,0
+J99,分类于他处的疾病引起的呼吸性疾患,J95-J99,呼吸系统的其他疾病,J00-J99,呼吸系统疾病,Respiratory disorders in diseases classified elsewhere,0,1
+K00,牙发育和出牙疾患,K00-K14,口腔、涎腺和颌疾病,K00-K93,消化系统疾病,Disorders of tooth development and eruption,0,0
+K01,埋伏牙和阻生牙,K00-K14,口腔、涎腺和颌疾病,K00-K93,消化系统疾病,Embedded and impacted teeth,0,0
+K02,龋(牙),K00-K14,口腔、涎腺和颌疾病,K00-K93,消化系统疾病,Dental caries,0,0
+K03,牙齿硬组织的其他疾病,K00-K14,口腔、涎腺和颌疾病,K00-K93,消化系统疾病,Other diseases of hard tissues of teeth,0,0
+K04,牙髓和根尖周组织疾病,K00-K14,口腔、涎腺和颌疾病,K00-K93,消化系统疾病,Diseases of pulp and periapical tissues,0,0
+K05,龈炎和牙周疾病,K00-K14,口腔、涎腺和颌疾病,K00-K93,消化系统疾病,Gingivitis and periodontal diseases,0,2
+K06,牙龈和无牙牙槽嵴的其他疾患,K00-K14,口腔、涎腺和颌疾病,K00-K93,消化系统疾病,Other disorders of gingiva and edentulous alveolar ridge,0,0
+K07,牙面畸形[包括错颌],K00-K14,口腔、涎腺和颌疾病,K00-K93,消化系统疾病,Dentofacial anomalies [including malocclusion],0,1
+K08,牙齿及支持结构的其他疾患,K00-K14,口腔、涎腺和颌疾病,K00-K93,消化系统疾病,Other disorders of teeth and supporting structures,0,2
+K09,"口区囊肿,不可归类在他处者",K00-K14,口腔、涎腺和颌疾病,K00-K93,消化系统疾病,"Cysts of oral region, not elsewhere classified",0,0
+K10,颌的其他疾病,K00-K14,口腔、涎腺和颌疾病,K00-K93,消化系统疾病,Other diseases of jaws,0,2
+K11,涎腺疾病,K00-K14,口腔、涎腺和颌疾病,K00-K93,消化系统疾病,Diseases of salivary glands,0,0
+K12,口炎和有关损害,K00-K14,口腔、涎腺和颌疾病,K00-K93,消化系统疾病,Stomatitis and related lesions,0,0
+K13,唇及口腔粘膜的其他疾病,K00-K14,口腔、涎腺和颌疾病,K00-K93,消化系统疾病,Other diseases of lip and oral mucosa,0,0
+K14,舌疾病,K00-K14,口腔、涎腺和颌疾病,K00-K93,消化系统疾病,Diseases of tongue,0,0
+K20,食管炎,K20-K31,食管、胃和十二指肠疾病,K00-K93,消化系统疾病,Oesophagitis,0,2
+K21,胃-食管反流性疾病,K20-K31,食管、胃和十二指肠疾病,K00-K93,消化系统疾病,Gastro-oesophageal reflux disease,0,1
+K22,食管的其他疾病,K20-K31,食管、胃和十二指肠疾病,K00-K93,消化系统疾病,Other diseases of oesophagus,0,2
+K23,分类于他处的疾病引起的食管疾患,K20-K31,食管、胃和十二指肠疾病,K00-K93,消化系统疾病,Disorders of oesophagus in diseases classified elsewhere,0,0
+K25,胃溃疡,K20-K31,食管、胃和十二指肠疾病,K00-K93,消化系统疾病,Gastric ulcer,0,2
+K26,十二指肠溃疡,K20-K31,食管、胃和十二指肠疾病,K00-K93,消化系统疾病,Duodenal ulcer,0,2
+K27,部位未特指的消化性溃疡,K20-K31,食管、胃和十二指肠疾病,K00-K93,消化系统疾病,"Peptic ulcer, site unspecified",0,2
+K28,胃空肠溃疡,K20-K31,食管、胃和十二指肠疾病,K00-K93,消化系统疾病,Gastrojejunal ulcer,0,2
+K29,胃炎和十二指肠炎,K20-K31,食管、胃和十二指肠疾病,K00-K93,消化系统疾病,Gastritis and duodenitis,0,2
+K30,消化不良,K20-K31,食管、胃和十二指肠疾病,K00-K93,消化系统疾病,Dyspepsia,0,0
+K31,胃和十二指肠的其他疾病,K20-K31,食管、胃和十二指肠疾病,K00-K93,消化系统疾病,Other diseases of stomach and duodenum,0,2
+K35,急性阑尾炎,K35-K38,阑尾疾病,K00-K93,消化系统疾病,Acute appendicitis,0,0
+K36,其他阑尾炎,K35-K38,阑尾疾病,K00-K93,消化系统疾病,Other appendicitis,0,0
+K37,未特指的阑尾炎,K35-K38,阑尾疾病,K00-K93,消化系统疾病,Unspecified appendicitis,0,0
+K38,阑尾的其他疾病,K35-K38,阑尾疾病,K00-K93,消化系统疾病,Other diseases of appendix,0,0
+K40,腹股沟疝,K40-K46,疝,K00-K93,消化系统疾病,Inguinal hernia,0,0
+K41,股疝,K40-K46,疝,K00-K93,消化系统疾病,Femoral hernia,0,0
+K42,脐疝,K40-K46,疝,K00-K93,消化系统疾病,Umbilical hernia,0,0
+K43,腹疝,K40-K46,疝,K00-K93,消化系统疾病,Ventral hernia,0,0
+K44,膈疝,K40-K46,疝,K00-K93,消化系统疾病,Diaphragmatic hernia,0,0
+K45,其他腹疝,K40-K46,疝,K00-K93,消化系统疾病,Other abdominal hernia,0,0
+K46,未特指的腹疝,K40-K46,疝,K00-K93,消化系统疾病,Unspecified abdominal hernia,0,0
+K50,克罗恩病[局限性肠炎],K50-K52,非感染性小肠炎和结肠炎,K00-K93,消化系统疾病,Crohn's disease [regional enteritis],0,1
+K51,溃疡性结肠炎,K50-K52,非感染性小肠炎和结肠炎,K00-K93,消化系统疾病,Ulcerative colitis,0,1
+K52,其他非感染性胃肠炎和结肠炎,K50-K52,非感染性小肠炎和结肠炎,K00-K93,消化系统疾病,Other noninfective gastroenteritis and colitis,0,2
+K55,肠血管疾患,K55-K64,肠的其他疾病,K00-K93,消化系统疾病,Vascular disorders of intestine,0,2
+K56,麻痹性肠梗阻和不伴有疝的肠梗阻,K55-K64,肠的其他疾病,K00-K93,消化系统疾病,Paralytic ileus and intestinal obstruction without hernia,0,0
+K57,肠憩室病,K55-K64,肠的其他疾病,K00-K93,消化系统疾病,Diverticular disease of intestine,0,1
+K58,肠易激综合征,K55-K64,肠的其他疾病,K00-K93,消化系统疾病,Irritable bowel syndrome,0,1
+K59,其他功能性肠疾患,K55-K64,肠的其他疾病,K00-K93,消化系统疾病,Other functional intestinal disorders,0,2
+K60,肛门及直肠区的裂和瘘,K55-K64,肠的其他疾病,K00-K93,消化系统疾病,Fissure and fistula of anal and rectal regions,0,0
+K61,肛门和直肠区脓肿,K55-K64,肠的其他疾病,K00-K93,消化系统疾病,Abscess of anal and rectal regions,0,0
+K62,肛门和直肠的其他疾病,K55-K64,肠的其他疾病,K00-K93,消化系统疾病,Other diseases of anus and rectum,0,0
+K63,肠的其他疾病,K55-K64,肠的其他疾病,K00-K93,消化系统疾病,Other diseases of intestine,0,0
+K64,痔疮和肛周静脉血栓形成,K55-K64,肠的其他疾病,K00-K93,消化系统疾病,Haemorrhoids and perianal venous thrombosis,0,0
+K65,腹膜炎,K65-K67,腹膜疾病,K00-K93,消化系统疾病,Peritonitis,0,0
+K66,腹膜的其他疾患,K65-K67,腹膜疾病,K00-K93,消化系统疾病,Other disorders of peritoneum,0,0
+K67,分类于他处的传染病引起的腹膜疾患,K65-K67,腹膜疾病,K00-K93,消化系统疾病,Disorders of peritoneum in infectious diseases classified elsewhere,0,0
+K70,酒精性肝病,K70-K77,肝疾病,K00-K93,消化系统疾病,Alcoholic liver disease,0,1
+K71,中毒性肝病,K70-K77,肝疾病,K00-K93,消化系统疾病,Toxic liver disease,0,2
+K72,"肝衰竭,不可归类在他处者",K70-K77,肝疾病,K00-K93,消化系统疾病,"Hepatic failure, not elsewhere classified",0,2
+K73,"慢性肝炎,不可归类在他处者",K70-K77,肝疾病,K00-K93,消化系统疾病,"Chronic hepatitis, not elsewhere classified",0,1
+K74,肝纤维化和肝硬变,K70-K77,肝疾病,K00-K93,消化系统疾病,Fibrosis and cirrhosis of liver,0,1
+K75,其他炎性肝脏疾病,K70-K77,肝疾病,K00-K93,消化系统疾病,Other inflammatory liver diseases,0,2
+K76,肝的其他疾病,K70-K77,肝疾病,K00-K93,消化系统疾病,Other diseases of liver,0,2
+K77,分类于他处的疾病引起的肝疾患,K70-K77,肝疾病,K00-K93,消化系统疾病,Liver disorders in diseases classified elsewhere,0,1
+K80,胆石症,K80-K87,胆囊、胆道和胰腺疾患,K00-K93,消化系统疾病,Cholelithiasis,0,2
+K81,胆囊炎,K80-K87,胆囊、胆道和胰腺疾患,K00-K93,消化系统疾病,Cholecystitis,0,0
+K82,胆囊的其他疾病,K80-K87,胆囊、胆道和胰腺疾患,K00-K93,消化系统疾病,Other diseases of gallbladder,0,2
+K83,胆道的其他疾病,K80-K87,胆囊、胆道和胰腺疾患,K00-K93,消化系统疾病,Other diseases of biliary tract,0,1
+K85,急性胰腺炎,K80-K87,胆囊、胆道和胰腺疾患,K00-K93,消化系统疾病,Acute pancreatitis,0,0
+K86,胰腺的其他疾病,K80-K87,胆囊、胆道和胰腺疾患,K00-K93,消化系统疾病,Other diseases of pancreas,0,2
+K87,分类于他处的疾病引起的胆囊、胆道和胰腺疾患,K80-K87,胆囊、胆道和胰腺疾患,K00-K93,消化系统疾病,"Disorders of gallbladder, biliary tract and pancreas in diseases classified elsewhere",0,0
+K90,肠吸收不良,K90-K93,消化系统的其他疾病,K00-K93,消化系统疾病,Intestinal malabsorption,0,2
+K91,"消化系统的操作后疾患,不可归类在他处者",K90-K93,消化系统的其他疾病,K00-K93,消化系统疾病,"Postprocedural disorders of digestive system, not elsewhere classified",0,2
+K92,消化系统的其他疾病,K90-K93,消化系统的其他疾病,K00-K93,消化系统疾病,Other diseases of digestive system,0,0
+K93,分类于他处的疾病引起的其他消化器官疾患,K90-K93,消化系统的其他疾病,K00-K93,消化系统疾病,Disorders of other digestive organs in diseases classified elsewhere,0,0
+L00,葡萄球菌性烫伤样皮肤综合征,L00-L08,皮肤和皮下组织的感染,L00-L99,皮肤和皮下组织疾病,Staphylococcal scalded skin syndrome,0,0
+L01,脓疱病,L00-L08,皮肤和皮下组织的感染,L00-L99,皮肤和皮下组织疾病,Impetigo,0,0
+L02,皮肤脓肿、疖和痈,L00-L08,皮肤和皮下组织的感染,L00-L99,皮肤和皮下组织疾病,"Cutaneous abscess, furuncle and carbuncle",0,0
+L03,蜂窝织炎,L00-L08,皮肤和皮下组织的感染,L00-L99,皮肤和皮下组织疾病,Cellulitis,0,0
+L04,急性淋巴结炎,L00-L08,皮肤和皮下组织的感染,L00-L99,皮肤和皮下组织疾病,Acute lymphadenitis,0,0
+L05,藏毛囊肿,L00-L08,皮肤和皮下组织的感染,L00-L99,皮肤和皮下组织疾病,Pilonidal cyst,0,0
+L08,皮肤和皮下组织其他局部感染,L00-L08,皮肤和皮下组织的感染,L00-L99,皮肤和皮下组织疾病,Other local infections of skin and subcutaneous tissue,0,0
+L10,天疱疮,L10-L14,大疱性疾患,L00-L99,皮肤和皮下组织疾病,Pemphigus,0,1
+L11,其他皮肤棘层松解性疾患,L10-L14,大疱性疾患,L00-L99,皮肤和皮下组织疾病,Other acantholytic disorders,0,0
+L12,类天疱疮,L10-L14,大疱性疾患,L00-L99,皮肤和皮下组织疾病,Pemphigoid,0,2
+L13,其他大疱性疾患,L10-L14,大疱性疾患,L00-L99,皮肤和皮下组织疾病,Other bullous disorders,0,1
+L14,分类于他处的疾病引起的大疱性疾患,L10-L14,大疱性疾患,L00-L99,皮肤和皮下组织疾病,Bullous disorders in diseases classified elsewhere,0,1
+L20,特应性皮炎,L20-L30,皮炎和湿疹,L00-L99,皮肤和皮下组织疾病,Atopic dermatitis,0,2
+L21,脂溢性皮炎,L20-L30,皮炎和湿疹,L00-L99,皮肤和皮下组织疾病,Seborrhoeic dermatitis,0,0
+L22,尿布皮炎,L20-L30,皮炎和湿疹,L00-L99,皮肤和皮下组织疾病,Diaper [napkin] dermatitis,0,0
+L23,变应性接触性皮炎,L20-L30,皮炎和湿疹,L00-L99,皮肤和皮下组织疾病,Allergic contact dermatitis,0,0
+L24,刺激性接触性皮炎,L20-L30,皮炎和湿疹,L00-L99,皮肤和皮下组织疾病,Irritant contact dermatitis,0,0
+L25,未特指的接触性皮炎,L20-L30,皮炎和湿疹,L00-L99,皮肤和皮下组织疾病,Unspecified contact dermatitis,0,0
+L26,剥脱性皮炎,L20-L30,皮炎和湿疹,L00-L99,皮肤和皮下组织疾病,Exfoliative dermatitis,0,0
+L27,内服物质引起的皮炎,L20-L30,皮炎和湿疹,L00-L99,皮肤和皮下组织疾病,Dermatitis due to substances taken internally,0,0
+L28,慢性单纯性苔癣和痒疹,L20-L30,皮炎和湿疹,L00-L99,皮肤和皮下组织疾病,Lichen simplex chronicus and prurigo,0,0
+L29,瘙痒(症),L20-L30,皮炎和湿疹,L00-L99,皮肤和皮下组织疾病,Pruritus,0,0
+L30,其他皮炎,L20-L30,皮炎和湿疹,L00-L99,皮肤和皮下组织疾病,Other dermatitis,0,2
+L40,银屑病[牛皮癣],L40-L45,丘疹鳞屑性疾患,L00-L99,皮肤和皮下组织疾病,Psoriasis,0,1
+L41,副银屑病[类银屑病],L40-L45,丘疹鳞屑性疾患,L00-L99,皮肤和皮下组织疾病,Parapsoriasis,0,1
+L42,玫瑰糠疹,L40-L45,丘疹鳞屑性疾患,L00-L99,皮肤和皮下组织疾病,Pityriasis rosea,0,1
+L43,扁平苔癣,L40-L45,丘疹鳞屑性疾患,L00-L99,皮肤和皮下组织疾病,Lichen planus,0,0
+L44,其他丘疹鳞屑性疾患,L40-L45,丘疹鳞屑性疾患,L00-L99,皮肤和皮下组织疾病,Other papulosquamous disorders,0,2
+L45,分类于他处的疾病引起的丘疹鳞屑性疾患,L40-L45,丘疹鳞屑性疾患,L00-L99,皮肤和皮下组织疾病,Papulosquamous disorders in diseases classified elsewhere,0,1
+L50,荨麻疹,L50-L54,荨麻疹和红斑,L00-L99,皮肤和皮下组织疾病,Urticaria,0,0
+L51,多形性红斑,L50-L54,荨麻疹和红斑,L00-L99,皮肤和皮下组织疾病,Erythema multiforme,0,0
+L52,结节性红斑,L50-L54,荨麻疹和红斑,L00-L99,皮肤和皮下组织疾病,Erythema nodosum,0,0
+L53,其他红斑性情况,L50-L54,荨麻疹和红斑,L00-L99,皮肤和皮下组织疾病,Other erythematous conditions,0,0
+L54,分类于他处的疾病引起的红斑,L50-L54,荨麻疹和红斑,L00-L99,皮肤和皮下组织疾病,Erythema in diseases classified elsewhere,0,0
+L55,晒斑[晒伤],L55-L59,与辐射有关的皮肤和皮下组织疾患,L00-L99,皮肤和皮下组织疾病,Sunburn,0,0
+L56,紫外线辐射引起的其他急性皮肤改变,L55-L59,与辐射有关的皮肤和皮下组织疾患,L00-L99,皮肤和皮下组织疾病,Other acute skin changes due to ultraviolet radiation,0,0
+L57,慢性暴露于非电离辐射下引起的皮肤改变,L55-L59,与辐射有关的皮肤和皮下组织疾患,L00-L99,皮肤和皮下组织疾病,Skin changes due to chronic exposure to nonionizing radiation,0,0
+L58,放射性皮炎,L55-L59,与辐射有关的皮肤和皮下组织疾患,L00-L99,皮肤和皮下组织疾病,Radiodermatitis,0,0
+L59,与辐射有关的皮肤和皮下组织其他疾患,L55-L59,与辐射有关的皮肤和皮下组织疾患,L00-L99,皮肤和皮下组织疾病,Other disorders of skin and subcutaneous tissue related to radiation,0,0
+L60,甲疾患,L60-L75,皮肤附件的疾患,L00-L99,皮肤和皮下组织疾病,Nail disorders,0,0
+L62,分类于他处的疾病引起的甲疾患,L60-L75,皮肤附件的疾患,L00-L99,皮肤和皮下组织疾病,Nail disorders in diseases classified elsewhere,0,0
+L63,斑秃,L60-L75,皮肤附件的疾患,L00-L99,皮肤和皮下组织疾病,Alopecia areata,0,0
+L64,雄激素性脱发,L60-L75,皮肤附件的疾患,L00-L99,皮肤和皮下组织疾病,Androgenic alopecia,0,0
+L65,其他非瘢痕性毛发缺失,L60-L75,皮肤附件的疾患,L00-L99,皮肤和皮下组织疾病,Other nonscarring hair loss,0,0
+L66,瘢痕性脱发[瘢痕性毛发缺失],L60-L75,皮肤附件的疾患,L00-L99,皮肤和皮下组织疾病,Cicatricial alopecia [scarring hair loss],0,0
+L67,毛色和毛干异常,L60-L75,皮肤附件的疾患,L00-L99,皮肤和皮下组织疾病,Hair colour and hair shaft abnormalities,0,0
+L68,多毛症,L60-L75,皮肤附件的疾患,L00-L99,皮肤和皮下组织疾病,Hypertrichosis,0,0
+L70,痤疮,L60-L75,皮肤附件的疾患,L00-L99,皮肤和皮下组织疾病,Acne,0,0
+L71,酒渣鼻,L60-L75,皮肤附件的疾患,L00-L99,皮肤和皮下组织疾病,Rosacea,0,1
+L72,皮肤和皮下组织毛囊囊肿,L60-L75,皮肤附件的疾患,L00-L99,皮肤和皮下组织疾病,Follicular cysts of skin and subcutaneous tissue,0,0
+L73,其他毛囊疾患,L60-L75,皮肤附件的疾患,L00-L99,皮肤和皮下组织疾病,Other follicular disorders,0,0
+L74,外分泌汗腺疾患,L60-L75,皮肤附件的疾患,L00-L99,皮肤和皮下组织疾病,Eccrine sweat disorders,0,2
+L75,顶(浆分)泌汗腺疾患,L60-L75,皮肤附件的疾患,L00-L99,皮肤和皮下组织疾病,Apocrine sweat disorders,0,2
+L80,白癜风,L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,Vitiligo,0,0
+L81,色素沉着的其他疾患,L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,Other disorders of pigmentation,0,0
+L82,脂溢性角化病,L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,Seborrhoeic keratosis,0,0
+L83,黑棘皮病,L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,Acanthosis nigricans,0,0
+L84,鸡眼和胼胝,L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,Corns and callosities,0,0
+L85,其他表皮肥厚,L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,Other epidermal thickening,0,0
+L86,分类于他处的疾病引起的皮肤角化病,L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,Keratoderma in diseases classified elsewhere,0,0
+L87,经表皮排除疾患,L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,Transepidermal elimination disorders,0,0
+L88,坏疽性脓皮症,L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,Pyoderma gangrenosum,0,0
+L89,受压区褥疮,L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,Decubitus ulcer,0,1
+L90,皮肤萎缩性疾患,L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,Atrophic disorders of skin,0,2
+L91,皮肤肥厚性疾患,L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,Hypertrophic disorders of skin,0,0
+L92,皮肤和皮下组织肉芽肿性疾患,L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,Granulomatous disorders of skin and subcutaneous tissue,0,0
+L93,红斑狼疮,L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,Lupus erythematosus,0,1
+L94,其他局限性结缔组织疾患,L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,Other localized connective tissue disorders,0,2
+L95,"局限于皮肤的血管炎,不可归类在他处者",L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,"Vasculitis limited to skin, not elsewhere classified",0,0
+L97,"下肢溃疡,不可归类在他处者",L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,"Ulcer of lower limb, not elsewhere classified",0,1
+L98,"皮肤和皮下组织的其他疾患,不可归类在他处者",L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",0,2
+L99,分类于他处的疾病引起的皮肤和皮下组织的其他疾患,L80-L99,皮肤和皮下组织的其他疾患,L00-L99,皮肤和皮下组织疾病,Other disorders of skin and subcutaneous tissue in diseases classified elsewhere,0,0
+M00,化脓性关节炎,M00-M03,感染性关节炎,M00-M99,肌肉骨骼系统和结缔组织疾病,Pyogenic arthritis,0,0
+M01,分类于他处的传染病和寄生虫病引起的关节的直接感染,M00-M03,感染性关节炎,M00-M99,肌肉骨骼系统和结缔组织疾病,Direct infections of joint in infectious and parasitic diseases classified elsewhere,0,0
+M02,反应性关节病,M00-M03,感染性关节炎,M00-M99,肌肉骨骼系统和结缔组织疾病,Reactive arthropathies,0,2
+M03,分类于他处的疾病引起的感染后和反应性关节病,M00-M03,感染性关节炎,M00-M99,肌肉骨骼系统和结缔组织疾病,Postinfective and reactive arthropathies in diseases classified elsewhere,0,0
+M05,血清反应阳性的类风湿性关节炎,M05-M14,炎性多关节病,M00-M99,肌肉骨骼系统和结缔组织疾病,Seropositive rheumatoid arthritis,0,1
+M06,其他类风湿性关节炎,M05-M14,炎性多关节病,M00-M99,肌肉骨骼系统和结缔组织疾病,Other rheumatoid arthritis,0,1
+M07,银屑病性和肠病性关节病,M05-M14,炎性多关节病,M00-M99,肌肉骨骼系统和结缔组织疾病,Psoriatic and enteropathic arthropathies,0,1
+M08,幼年型关节炎,M05-M14,炎性多关节病,M00-M99,肌肉骨骼系统和结缔组织疾病,Juvenile arthritis,0,1
+M09,分类于他处的疾病引起的幼年型关节炎,M05-M14,炎性多关节病,M00-M99,肌肉骨骼系统和结缔组织疾病,Juvenile arthritis in diseases classified elsewhere,0,1
+M10,痛风,M05-M14,炎性多关节病,M00-M99,肌肉骨骼系统和结缔组织疾病,Gout,0,1
+M11,其他结晶性关节病,M05-M14,炎性多关节病,M00-M99,肌肉骨骼系统和结缔组织疾病,Other crystal arthropathies,0,1
+M12,其他特指的关节病,M05-M14,炎性多关节病,M00-M99,肌肉骨骼系统和结缔组织疾病,Other specific arthropathies,0,2
+M13,其他关节炎,M05-M14,炎性多关节病,M00-M99,肌肉骨骼系统和结缔组织疾病,Other arthritis,0,1
+M14,分类于他处的其他疾病引起的关节病,M05-M14,炎性多关节病,M00-M99,肌肉骨骼系统和结缔组织疾病,Arthropathies in other diseases classified elsewhere,0,1
+M15,多关节病,M15-M19,关节病,M00-M99,肌肉骨骼系统和结缔组织疾病,Polyarthrosis,0,1
+M16,髋关节病,M15-M19,关节病,M00-M99,肌肉骨骼系统和结缔组织疾病,Coxarthrosis [arthrosis of hip],0,1
+M17,膝关节病,M15-M19,关节病,M00-M99,肌肉骨骼系统和结缔组织疾病,Gonarthrosis [arthrosis of knee],0,1
+M18,第一腕掌关节的关节病,M15-M19,关节病,M00-M99,肌肉骨骼系统和结缔组织疾病,Arthrosis of first carpometacarpal joint,0,1
+M19,其他关节病,M15-M19,关节病,M00-M99,肌肉骨骼系统和结缔组织疾病,Other arthrosis,0,1
+M20,手指和脚趾的后天性变形,M20-M25,其他关节疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Acquired deformities of fingers and toes,0,2
+M21,四肢其他后天性变形,M20-M25,其他关节疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Other acquired deformities of limbs,0,0
+M22,髌骨疾患,M20-M25,其他关节疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Disorders of patella,0,2
+M23,膝关节内紊乱,M20-M25,其他关节疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Internal derangement of knee,0,1
+M24,其他特指的关节紊乱,M20-M25,其他关节疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Other specific joint derangements,0,2
+M25,"其他关节疾患,不可归类在他处者",M20-M25,其他关节疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,"Other joint disorders, not elsewhere classified",0,2
+M30,结节性多动脉炎和有关情况,M30-M36,系统性结缔组织疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Polyarteritis nodosa and related conditions,0,1
+M31,其他坏死性血管病,M30-M36,系统性结缔组织疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Other necrotizing vasculopathies,0,1
+M32,系统性红斑狼疮,M30-M36,系统性结缔组织疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Systemic lupus erythematosus,0,1
+M33,皮多肌炎,M30-M36,系统性结缔组织疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Dermatopolymyositis,0,1
+M34,全身性硬皮病,M30-M36,系统性结缔组织疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Systemic sclerosis,0,1
+M35,结缔组织的其他系统性受累,M30-M36,系统性结缔组织疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Other systemic involvement of connective tissue,0,2
+M36,分类于他处的疾病引起的系统性结缔组织疾患,M30-M36,系统性结缔组织疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Systemic disorders of connective tissue in diseases classified elsewhere,0,1
+M40,脊柱后凸和脊柱前凸,M40-M43,变形性背部病,M00-M99,肌肉骨骼系统和结缔组织疾病,Kyphosis and lordosis,0,1
+M41,脊柱侧弯[脊柱侧凸],M40-M43,变形性背部病,M00-M99,肌肉骨骼系统和结缔组织疾病,Scoliosis,0,1
+M42,脊柱骨软骨病,M40-M43,变形性背部病,M00-M99,肌肉骨骼系统和结缔组织疾病,Spinal osteochondrosis,0,1
+M43,其他变形性背部病,M40-M43,变形性背部病,M00-M99,肌肉骨骼系统和结缔组织疾病,Other deforming dorsopathies,0,2
+M45,强直性脊柱炎,M45-M49,脊椎病,M00-M99,肌肉骨骼系统和结缔组织疾病,Ankylosing spondylitis,0,1
+M46,其他炎性脊椎病,M45-M49,脊椎病,M00-M99,肌肉骨骼系统和结缔组织疾病,Other inflammatory spondylopathies,0,1
+M47,脊椎关节强硬,M45-M49,脊椎病,M00-M99,肌肉骨骼系统和结缔组织疾病,Spondylosis,0,1
+M48,其他脊椎病,M45-M49,脊椎病,M00-M99,肌肉骨骼系统和结缔组织疾病,Other spondylopathies,0,2
+M49,分类于他处的疾病引起的脊椎病,M45-M49,脊椎病,M00-M99,肌肉骨骼系统和结缔组织疾病,Spondylopathies in diseases classified elsewhere,0,1
+M50,颈椎间盘疾患,M50-M54,其他背部病,M00-M99,肌肉骨骼系统和结缔组织疾病,Cervical disc disorders,0,2
+M51,其他椎间盘疾患,M50-M54,其他背部病,M00-M99,肌肉骨骼系统和结缔组织疾病,Other intervertebral disc disorders,0,2
+M53,"其他背部病,不可归类在他处者",M50-M54,其他背部病,M00-M99,肌肉骨骼系统和结缔组织疾病,"Other dorsopathies, not elsewhere classified",0,0
+M54,背痛,M50-M54,其他背部病,M00-M99,肌肉骨骼系统和结缔组织疾病,Dorsalgia,0,0
+M60,肌炎,M60-M63,肌肉疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Myositis,0,0
+M61,肌肉钙化和骨化,M60-M63,肌肉疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Calcification and ossification of muscle,0,0
+M62,肌肉其他疾患,M60-M63,肌肉疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Other disorders of muscle,0,0
+M63,分类于他处的疾病引起的肌肉疾患,M60-M63,肌肉疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Disorders of muscle in diseases classified elsewhere,0,0
+M65,滑膜炎和腱鞘炎,M65-M68,滑膜和肌腱疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Synovitis and tenosynovitis,0,0
+M66,滑膜和肌腱的自发性破裂,M65-M68,滑膜和肌腱疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Spontaneous rupture of synovium and tendon,0,0
+M67,滑膜和肌腱的其他疾患,M65-M68,滑膜和肌腱疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Other disorders of synovium and tendon,0,0
+M68,分类于他处的疾病引起的滑膜和肌腱疾患,M65-M68,滑膜和肌腱疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Disorders of synovium and tendon in diseases classified elsewhere,0,0
+M70,与使用、过度使用和压迫有关的软组织疾患,M70-M79,其他软组织疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,"Soft tissue disorders related to use, overuse and pressure",0,0
+M71,其他粘液囊病,M70-M79,其他软组织疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Other bursopathies,0,0
+M72,成纤维细胞疾患,M70-M79,其他软组织疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Fibroblastic disorders,0,0
+M73,分类于他处的疾病引起的软组织疾患,M70-M79,其他软组织疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Soft tissue disorders in diseases classified elsewhere,0,0
+M75,肩损害,M70-M79,其他软组织疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Shoulder lesions,0,0
+M76,下肢(不包括足)肌腱端病,M70-M79,其他软组织疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,"Enthesopathies of lower limb, excluding foot",0,0
+M77,其他肌腱端病,M70-M79,其他软组织疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Other enthesopathies,0,0
+M79,"其他软组织疾患,不可归类在他处者",M70-M79,其他软组织疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,"Other soft tissue disorders, not elsewhere classified",0,0
+M80,骨质疏松伴有病理性骨折,M80-M85,骨密度和结构的疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Osteoporosis with pathological fracture,0,0
+M81,骨质疏松不伴有病理性骨折,M80-M85,骨密度和结构的疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Osteoporosis without pathological fracture,0,1
+M82,分类于他处的疾病引起的骨质疏松,M80-M85,骨密度和结构的疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Osteoporosis in diseases classified elsewhere,0,1
+M83,成人骨软化症,M80-M85,骨密度和结构的疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Adult osteomalacia,0,1
+M84,骨连续性疾患,M80-M85,骨密度和结构的疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Disorders of continuity of bone,0,0
+M85,骨密度和结构的其他疾患,M80-M85,骨密度和结构的疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Other disorders of bone density and structure,0,0
+M86,骨髓炎,M86-M90,其他骨病,M00-M99,肌肉骨骼系统和结缔组织疾病,Osteomyelitis,0,1
+M87,骨坏死,M86-M90,其他骨病,M00-M99,肌肉骨骼系统和结缔组织疾病,Osteonecrosis,0,1
+M88,骨佩吉特病[畸形性骨炎],M86-M90,其他骨病,M00-M99,肌肉骨骼系统和结缔组织疾病,Paget's disease of bone [osteitis deformans],0,1
+M89,骨的其他疾患,M86-M90,其他骨病,M00-M99,肌肉骨骼系统和结缔组织疾病,Other disorders of bone,0,2
+M90,分类于他处的疾病引起的骨病,M86-M90,其他骨病,M00-M99,肌肉骨骼系统和结缔组织疾病,Osteopathies in diseases classified elsewhere,0,2
+M91,幼年型髋关节和骨盆骨软骨病,M91-M94,软骨病,M00-M99,肌肉骨骼系统和结缔组织疾病,Juvenile osteochondrosis of hip and pelvis,0,1
+M92,其他幼年型骨软骨病,M91-M94,软骨病,M00-M99,肌肉骨骼系统和结缔组织疾病,Other juvenile osteochondrosis,0,1
+M93,其他骨软骨病,M91-M94,软骨病,M00-M99,肌肉骨骼系统和结缔组织疾病,Other osteochondropathies,0,1
+M94,软骨的其他疾患,M91-M94,软骨病,M00-M99,肌肉骨骼系统和结缔组织疾病,Other disorders of cartilage,0,0
+M95,肌肉骨骼系统和结缔组织的其他后天性变形,M95-M99,肌肉骨骼系统和结缔组织的其他疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,Other acquired deformities of musculoskeletal system and connective tissue,0,0
+M96,"操作后肌肉骨骼疾患,不可归类在他处者",M95-M99,肌肉骨骼系统和结缔组织的其他疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,"Postprocedural musculoskeletal disorders, not elsewhere classified",0,2
+M99,"生物力学损害,不可归类在他处者",M95-M99,肌肉骨骼系统和结缔组织的其他疾患,M00-M99,肌肉骨骼系统和结缔组织疾病,"Biomechanical lesions, not elsewhere classified",0,0
+N00,急性肾炎综合征,N00-N08,肾小球疾病,N00-N99,泌尿生殖系统疾病,Acute nephritic syndrome,0,0
+N01,急进型肾炎综合征,N00-N08,肾小球疾病,N00-N99,泌尿生殖系统疾病,Rapidly progressive nephritic syndrome,0,0
+N02,复发性和持续性血尿,N00-N08,肾小球疾病,N00-N99,泌尿生殖系统疾病,Recurrent and persistent haematuria,0,1
+N03,"慢性肾炎综合征	",N00-N08,肾小球疾病,N00-N99,泌尿生殖系统疾病,Chronic nephritic syndrome,0,1
+N04,"肾病综合征	",N00-N08,肾小球疾病,N00-N99,泌尿生殖系统疾病,Nephrotic syndrome,0,1
+N05,"未特指的肾炎综合征	",N00-N08,肾小球疾病,N00-N99,泌尿生殖系统疾病,Unspecified nephritic syndrome,0,1
+N06,"孤立性蛋白尿伴有特指的形态学损害	",N00-N08,肾小球疾病,N00-N99,泌尿生殖系统疾病,Isolated proteinuria with specified morphological lesion,0,1
+N07,"遗传性肾病,不可归类在他处者	",N00-N08,肾小球疾病,N00-N99,泌尿生殖系统疾病,"Hereditary nephropathy, not elsewhere classified",0,1
+N08,分类于他处的疾病引起的肾小球疾患,N00-N08,肾小球疾病,N00-N99,泌尿生殖系统疾病,Glomerular disorders in diseases classified elsewhere,0,1
+N10,"急性肾小管-间质肾炎	",N10-N16,"肾小管-间质疾病		",N00-N99,泌尿生殖系统疾病,Acute tubulo-interstitial nephritis,0,0
+N11,"慢性肾小管-间质肾炎	",N10-N16,"肾小管-间质疾病		",N00-N99,泌尿生殖系统疾病,Chronic tubulo-interstitial nephritis,0,2
+N12,"肾小管-间质肾炎,未特指急性或慢性	",N10-N16,"肾小管-间质疾病		",N00-N99,泌尿生殖系统疾病,"Tubulo-interstitial nephritis, not specified as acute or chronic",0,0
+N13,"梗阻性和反流性尿路病	",N10-N16,"肾小管-间质疾病		",N00-N99,泌尿生殖系统疾病,Obstructive and reflux uropathy,0,0
+N14,"药物和重金属诱发的肾小管-间质和肾小管情况	",N10-N16,"肾小管-间质疾病		",N00-N99,泌尿生殖系统疾病,Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions,0,1
+N15,"其他肾小管-间质疾病	",N10-N16,"肾小管-间质疾病		",N00-N99,泌尿生殖系统疾病,Other renal tubulo-interstitial diseases,0,2
+N16,分类于他处的疾病引起的肾小管-间质疾患,N10-N16,"肾小管-间质疾病		",N00-N99,泌尿生殖系统疾病,Renal tubulo-interstitial disorders in diseases classified elsewhere,0,1
+N17,"急性肾衰竭	",N17-N19,"肾衰竭		",N00-N99,泌尿生殖系统疾病,Acute renal failure,0,0
+N18,"慢性肾病	",N17-N19,"肾衰竭		",N00-N99,泌尿生殖系统疾病,Chronic renal failure,0,1
+N19,"未特指的肾衰竭	",N17-N19,"肾衰竭		",N00-N99,泌尿生殖系统疾病,Unspecified renal failure,0,1
+N20,"肾和输尿管结石	",N20-N23,"尿石病		",N00-N99,泌尿生殖系统疾病,Calculus of kidney and ureter,0,0
+N21,"下泌尿道结石	",N20-N23,"尿石病		",N00-N99,泌尿生殖系统疾病,Calculus of lower urinary tract,0,0
+N22,分类于他处的疾病引起的泌尿道结石,N20-N23,"尿石病		",N00-N99,泌尿生殖系统疾病,Calculus of urinary tract in diseases classified elsewhere,0,0
+N23,"未特指的肾绞痛	",N20-N23,"尿石病		",N00-N99,泌尿生殖系统疾病,Unspecified renal colic,0,0
+N25,"肾小管功能损害所致的疾患	",N25-N29,"肾和输尿管的其他疾患		",N00-N99,泌尿生殖系统疾病,Disorders resulting from impaired renal tubular function,0,1
+N26,"未特指的肾挛缩	",N25-N29,"肾和输尿管的其他疾患		",N00-N99,泌尿生殖系统疾病,Unspecified contracted kidney,0,1
+N27,"原因不明的小肾	",N25-N29,"肾和输尿管的其他疾患		",N00-N99,泌尿生殖系统疾病,Small kidney of unknown cause,0,0
+N28,"肾和输尿管的其他疾患,不可归类在他处者	",N25-N29,"肾和输尿管的其他疾患		",N00-N99,泌尿生殖系统疾病,"Other disorders of kidney and ureter, not elsewhere classified",0,2
+N29,分类于他处的疾病引起的肾和输尿管的其他疾患,N25-N29,"肾和输尿管的其他疾患		",N00-N99,泌尿生殖系统疾病,Other disorders of kidney and ureter in diseases classified elsewhere,0,0
+N30,"膀胱炎	",N30-N39,"泌尿系统的其他疾病		",N00-N99,泌尿生殖系统疾病,Cystitis,0,2
+N31,"膀胱神经肌肉功能不良,不可归类在他处者	",N30-N39,"泌尿系统的其他疾病		",N00-N99,泌尿生殖系统疾病,"Neuromuscular dysfunction of bladder, not elsewhere classified",0,1
+N32,"膀胱的其他疾患	",N30-N39,"泌尿系统的其他疾病		",N00-N99,泌尿生殖系统疾病,Other disorders of bladder,0,1
+N33,"尿道炎和尿道综合征	",N30-N39,"泌尿系统的其他疾病		",N00-N99,泌尿生殖系统疾病,Bladder disorders in diseases classified elsewhere,0,1
+N34,"尿道炎和尿道综合征	",N30-N39,"泌尿系统的其他疾病		",N00-N99,泌尿生殖系统疾病,Urethritis and urethral syndrome,0,0
+N35,"尿道狭窄	",N30-N39,"泌尿系统的其他疾病		",N00-N99,泌尿生殖系统疾病,Urethral stricture,0,0
+N36,"尿道的其他疾患	",N30-N39,"泌尿系统的其他疾病		",N00-N99,泌尿生殖系统疾病,Other disorders of urethra,0,2
+N37,分类于他处的疾病引起的尿道疾患,N30-N39,"泌尿系统的其他疾病		",N00-N99,泌尿生殖系统疾病,Urethral disorders in diseases classified elsewhere,0,0
+N39,"泌尿系统的其他疾患	",N30-N39,"泌尿系统的其他疾病		",N00-N99,泌尿生殖系统疾病,Other disorders of urinary system,0,2
+N40,"前列腺增生	",N40-N51,"男性生殖器官疾病		",N00-N99,泌尿生殖系统疾病,Hyperplasia of prostate,1,1
+N41,"前列腺炎性疾病	",N40-N51,"男性生殖器官疾病		",N00-N99,泌尿生殖系统疾病,Inflammatory diseases of prostate,1,2
+N42,"前列腺的其他疾患	",N40-N51,"男性生殖器官疾病		",N00-N99,泌尿生殖系统疾病,Other disorders of prostate,1,2
+N43,"鞘膜积液和精子囊肿	",N40-N51,"男性生殖器官疾病		",N00-N99,泌尿生殖系统疾病,Hydrocele and spermatocele,1,0
+N44,"睾丸扭转	",N40-N51,"男性生殖器官疾病		",N00-N99,泌尿生殖系统疾病,Torsion of testis,1,0
+N45,"睾丸炎和附睾炎	",N40-N51,"男性生殖器官疾病		",N00-N99,泌尿生殖系统疾病,Orchitis and epididymitis,1,0
+N46,"男性不育症	",N40-N51,"男性生殖器官疾病		",N00-N99,泌尿生殖系统疾病,Male infertility,1,0
+N47,"包皮过长、包茎和嵌顿包茎	",N40-N51,"男性生殖器官疾病		",N00-N99,泌尿生殖系统疾病,"Redundant prepuce, phimosis and paraphimosis",1,2
+N48,"阴茎的其他疾患	",N40-N51,"男性生殖器官疾病		",N00-N99,泌尿生殖系统疾病,Other disorders of penis,1,1
+N49,"男性生殖器官炎性疾患,不可归类在他处者	",N40-N51,"男性生殖器官疾病		",N00-N99,泌尿生殖系统疾病,"Inflammatory disorders of male genital organs, not elsewhere classified",1,0
+N50,"男性生殖器官的其他疾患	",N40-N51,"男性生殖器官疾病		",N00-N99,泌尿生殖系统疾病,Other disorders of male genital organs,1,2
+N51,分类于他处的疾病引起的男性生殖器官疾患,N40-N51,"男性生殖器官疾病		",N00-N99,泌尿生殖系统疾病,Disorders of male genital organs in diseases classified elsewhere,1,0
+N60,"良性乳腺发育不良	",N60-N64,"乳房疾患		",N00-N99,泌尿生殖系统疾病,Benign mammary dysplasia,2,2
+N61,"乳房炎性疾患	",N60-N64,"乳房疾患		",N00-N99,泌尿生殖系统疾病,Inflammatory disorders of breast,2,0
+N62,"乳房肥大	",N60-N64,"乳房疾患		",N00-N99,泌尿生殖系统疾病,Hypertrophy of breast,2,0
+N63,"未特指的乳房肿块	",N60-N64,"乳房疾患		",N00-N99,泌尿生殖系统疾病,Unspecified lump in breast,2,0
+N64,"乳房的其他疾患	",N60-N64,"乳房疾患		",N00-N99,泌尿生殖系统疾病,Other disorders of breast,2,0
+N70,"输卵管炎和卵巢炎	",N70-N77,"女性盆腔器官炎性疾病		",N00-N99,泌尿生殖系统疾病,Salpingitis and oophoritis,2,2
+N71,"子宫炎性疾病,除外宫颈	",N70-N77,"女性盆腔器官炎性疾病		",N00-N99,泌尿生殖系统疾病,"Inflammatory disease of uterus, except cervix",2,2
+N72,"宫颈炎性疾病	",N70-N77,"女性盆腔器官炎性疾病		",N00-N99,泌尿生殖系统疾病,Inflammatory disease of cervix uteri,2,0
+N73,"其他女性盆腔炎性疾病	",N70-N77,"女性盆腔器官炎性疾病		",N00-N99,泌尿生殖系统疾病,Other female pelvic inflammatory diseases,2,2
+N74,分类于他处的疾病引起的女性盆腔炎性疾患,N70-N77,"女性盆腔器官炎性疾病		",N00-N99,泌尿生殖系统疾病,Female pelvic inflammatory disorders in diseases classified elsewhere,2,0
+N75,"前庭大腺[巴多林腺]疾病	",N70-N77,"女性盆腔器官炎性疾病		",N00-N99,泌尿生殖系统疾病,Diseases of Bartholin's gland,2,0
+N76,"阴道和外阴的其他炎症	",N70-N77,"女性盆腔器官炎性疾病		",N00-N99,泌尿生殖系统疾病,Other inflammation of vagina and vulva,2,0
+N77,分类于他处的疾病引起的外阴阴道溃疡和炎症,N70-N77,"女性盆腔器官炎性疾病		",N00-N99,泌尿生殖系统疾病,Vulvovaginal ulceration and inflammation in diseases classified elsewhere,2,0
+N80,"子宫内膜异位症	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,Endometriosis,2,1
+N81,"女性生殖器脱垂	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,Female genital prolapse,2,1
+N82,"累及女性生殖道的瘘	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,Fistulae involving female genital tract,2,1
+N83,"卵巢、输卵管和阔韧带的非炎性疾患	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,"Noninflammatory disorders of ovary, fallopian tube and broad ligament",2,0
+N84,"女性生殖道息肉	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,Polyp of female genital tract,2,0
+N85,"子宫其他非炎性疾患,除外宫颈	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,"Other noninflammatory disorders of uterus, except cervix",2,2
+N86,"宫颈糜烂和外翻	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,Erosion and ectropion of cervix uteri,2,0
+N87,"宫颈发育不良	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,Dysplasia of cervix uteri,2,0
+N88,"宫颈其他非炎性疾患	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,Other noninflammatory disorders of cervix uteri,2,0
+N89,"阴道的其他非炎性疾患	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,Other noninflammatory disorders of vagina,2,2
+N90,"外阴和会阴的其他非炎性疾患	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,Other noninflammatory disorders of vulva and perineum,2,2
+N91,"无月经、月经过少和月经稀少	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,"Absent, scanty and rare menstruation",2,1
+N92,"月经过多、月经频繁和月经不规则	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,"Excessive, frequent and irregular menstruation",2,1
+N93,"其他异常的子宫和阴道出血	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,Other abnormal uterine and vaginal bleeding,2,1
+N94,"与女性生殖器官和月经周期有关的疼痛和其他情况	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,Pain and other conditions associated with female genital organs and menstrual cycle,2,2
+N95,"绝经期和其他围绝经期的疾患	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,Menopausal and other perimenopausal disorders,2,1
+N96,"习惯性流产	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,Habitual aborter,2,0
+N97,"女性不孕症	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,Female infertility,2,1
+N98,"与人工授精有关的并发症	",N80-N98,"女性生殖道非炎性疾患		",N00-N99,泌尿生殖系统疾病,Complications associated with artificial fertilization,2,0
+N99,"泌尿生殖系统的操作后疾患,不可归类在他处者	",N99,"泌尿生殖系统的其他疾患		",N00-N99,泌尿生殖系统疾病,"Postprocedural disorders of genitourinary system, not elsewhere classified",0,2
+O00,"异位妊娠	",O00-O08,"流产结局的妊娠		",O00-O99,妊娠、分娩和产褥期,Ectopic pregnancy,2,0
+O01,"葡萄胎[水泡状胎块]	",O00-O08,"流产结局的妊娠		",O00-O99,妊娠、分娩和产褥期,Hydatidiform mole,2,0
+O02,"受孕的其他异常产物	",O00-O08,"流产结局的妊娠		",O00-O99,妊娠、分娩和产褥期,Other abnormal products of conception,2,0
+O03,"自然流产	",O00-O08,"流产结局的妊娠		",O00-O99,妊娠、分娩和产褥期,Spontaneous abortion,2,0
+O04,"医疗性流产	",O00-O08,"流产结局的妊娠		",O00-O99,妊娠、分娩和产褥期,Medical abortion,2,0
+O05,"其他流产	",O00-O08,"流产结局的妊娠		",O00-O99,妊娠、分娩和产褥期,Other abortion,2,0
+O06,"未特指的流产	",O00-O08,"流产结局的妊娠		",O00-O99,妊娠、分娩和产褥期,Unspecified abortion,2,0
+O07,"企图流产失败	",O00-O08,"流产结局的妊娠		",O00-O99,妊娠、分娩和产褥期,Failed attempted abortion,2,0
+O08,"流产、异位妊娠和葡萄胎妊娠后的并发症	",O00-O08,"流产结局的妊娠		",O00-O99,妊娠、分娩和产褥期,Complications following abortion and ectopic and molar pregnancy,2,0
+O10,"原有的高血压并发于妊娠、分娩和产褥期	",O10-O16,"妊娠、分娩和产褥期的水肿、蛋白尿和高血压疾患		",O00-O99,妊娠、分娩和产褥期,"Pre-existing hypertension complicating pregnancy, childbirth and the puerperium",2,1
+O11,"原有高血压性疾患,并发蛋白尿	",O10-O16,"妊娠、分娩和产褥期的水肿、蛋白尿和高血压疾患		",O00-O99,妊娠、分娩和产褥期,Pre-existing hypertensive disorder with superimposed proteinuria,2,1
+O12,"妊娠[妊娠引起的]水肿和蛋白尿不伴有高血压	",O10-O16,"妊娠、分娩和产褥期的水肿、蛋白尿和高血压疾患		",O00-O99,妊娠、分娩和产褥期,Gestational [pregnancy-induced] oedema and proteinuria without hypertension,2,0
+O13,"妊娠[妊娠引起的]高血压,不伴有有意义的蛋白尿	",O10-O16,"妊娠、分娩和产褥期的水肿、蛋白尿和高血压疾患		",O00-O99,妊娠、分娩和产褥期,Gestational [pregnancy-induced] hypertension without significant proteinuria,2,0
+O14,"妊娠[妊娠引起的]高血压,伴有有意义的蛋白尿	",O10-O16,"妊娠、分娩和产褥期的水肿、蛋白尿和高血压疾患		",O00-O99,妊娠、分娩和产褥期,Gestational [pregnancy-induced] hypertension with significant proteinuria,2,0
+O15,"子痫	",O10-O16,"妊娠、分娩和产褥期的水肿、蛋白尿和高血压疾患		",O00-O99,妊娠、分娩和产褥期,Eclampsia,2,0
+O16,"未特指的孕产妇高血压	",O10-O16,"妊娠、分娩和产褥期的水肿、蛋白尿和高血压疾患		",O00-O99,妊娠、分娩和产褥期,Unspecified maternal hypertension,2,1
+O20,"妊娠早期出血	",O20-O29,"主要与妊娠有关的其他孕产妇疾患		",O00-O99,妊娠、分娩和产褥期,Haemorrhage in early pregnancy,2,0
+O21,"妊娠期剧吐	",O20-O29,"主要与妊娠有关的其他孕产妇疾患		",O00-O99,妊娠、分娩和产褥期,Excessive vomiting in pregnancy,2,0
+O22,"妊娠期静脉并发症	",O20-O29,"主要与妊娠有关的其他孕产妇疾患		",O00-O99,妊娠、分娩和产褥期,Venous complications in pregnancy,2,0
+O23,"妊娠期泌尿生殖道的感染	",O20-O29,"主要与妊娠有关的其他孕产妇疾患		",O00-O99,妊娠、分娩和产褥期,Infections of genitourinary tract in pregnancy,2,0
+O24,"妊娠期糖尿病	",O20-O29,"主要与妊娠有关的其他孕产妇疾患		",O00-O99,妊娠、分娩和产褥期,Diabetes mellitus in pregnancy,2,2
+O25,"妊娠期营养不良	",O20-O29,"主要与妊娠有关的其他孕产妇疾患		",O00-O99,妊娠、分娩和产褥期,Malnutrition in pregnancy,2,0
+O26,"为主要与妊娠有关的其他情况给予的孕产妇医疗	",O20-O29,"主要与妊娠有关的其他孕产妇疾患		",O00-O99,妊娠、分娩和产褥期,Maternal care for other conditions predominantly related to pregnancy,2,0
+O28,"孕产妇产前筛查的异常所见	",O20-O29,"主要与妊娠有关的其他孕产妇疾患		",O00-O99,妊娠、分娩和产褥期,Abnormal findings on antenatal screening of mother,2,0
+O29,"妊娠期间麻醉的并发症	",O20-O29,"主要与妊娠有关的其他孕产妇疾患		",O00-O99,妊娠、分娩和产褥期,Complications of anaesthesia during pregnancy,2,0
+O30,"多胎妊娠	",O30-O48,"与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗		",O00-O99,妊娠、分娩和产褥期,Multiple gestation,2,0
+O31,"特发于多胎妊娠的并发症	",O30-O48,"与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗		",O00-O99,妊娠、分娩和产褥期,Complications specific to multiple gestation,2,0
+O32,"为已知或可疑胎儿先露异常给予的孕产妇医疗	",O30-O48,"与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗		",O00-O99,妊娠、分娩和产褥期,Maternal care for known or suspected malpresentation of fetus,2,0
+O33,"为已知或可疑胎盆不称给予的孕产妇医疗	",O30-O48,"与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗		",O00-O99,妊娠、分娩和产褥期,Maternal care for known or suspected disproportion,2,0
+O34,"为已知或可疑盆腔器官异常给予的孕产妇医疗	",O30-O48,"与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗		",O00-O99,妊娠、分娩和产褥期,Maternal care for known or suspected abnormality of pelvic organs,2,0
+O35,"为已知或可疑胎儿异常和损害给予的孕产妇医疗	",O30-O48,"与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗		",O00-O99,妊娠、分娩和产褥期,Maternal care for known or suspected fetal abnormality and damage,2,0
+O36,"为其他已知或可疑的胎儿问题给予的孕产妇医疗	",O30-O48,"与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗		",O00-O99,妊娠、分娩和产褥期,Maternal care for other known or suspected fetal problems,2,0
+O40,"羊水过多	",O30-O48,"与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗		",O00-O99,妊娠、分娩和产褥期,Polyhydramnios,2,0
+O41,"羊水和胎膜的其他疾患	",O30-O48,"与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗		",O00-O99,妊娠、分娩和产褥期,Other disorders of amniotic fluid and membranes,2,0
+O42,"胎膜早破	",O30-O48,"与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗		",O00-O99,妊娠、分娩和产褥期,Premature rupture of membranes,2,0
+O43,"胎盘疾患	",O30-O48,"与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗		",O00-O99,妊娠、分娩和产褥期,Placental disorders,2,0
+O44,"前置胎盘	",O30-O48,"与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗		",O00-O99,妊娠、分娩和产褥期,Placenta praevia,2,0
+O45,"胎盘早期剥离	",O30-O48,"与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗		",O00-O99,妊娠、分娩和产褥期,Premature separation of placenta [abruptio placentae],2,0
+O46,"产前出血,不可归类在他处者	",O30-O48,"与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗		",O00-O99,妊娠、分娩和产褥期,"Antepartum haemorrhage, not elsewhere classified",2,0
+O47,"假临产	",O30-O48,"与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗		",O00-O99,妊娠、分娩和产褥期,False labour,2,0
+O48,"过期妊娠	",O30-O48,"与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗		",O00-O99,妊娠、分娩和产褥期,Prolonged pregnancy,2,0
+O60,"早产	",O60-O75,"产程和分娩的并发症		",O00-O99,妊娠、分娩和产褥期,Preterm labour,2,0
+O61,"引产失败	",O60-O75,"产程和分娩的并发症		",O00-O99,妊娠、分娩和产褥期,Failed induction of labour,2,0
+O62,"产力异常	",O60-O75,"产程和分娩的并发症		",O00-O99,妊娠、分娩和产褥期,Abnormalities of forces of labour,2,0
+O63,"滞产	",O60-O75,"产程和分娩的并发症		",O00-O99,妊娠、分娩和产褥期,Long labour,2,0
+O64,"胎儿的胎位不正和先露异常引起的梗阻性分娩	",O60-O75,"产程和分娩的并发症		",O00-O99,妊娠、分娩和产褥期,Obstructed labour due to malposition and malpresentation of fetus,2,0
+O65,"母体骨盆异常引起的梗阻性分娩	",O60-O75,"产程和分娩的并发症		",O00-O99,妊娠、分娩和产褥期,Obstructed labour due to maternal pelvic abnormality,2,0
+O66,"其他梗阻性分娩	",O60-O75,"产程和分娩的并发症		",O00-O99,妊娠、分娩和产褥期,Other obstructed labour,2,0
+O67,"产程和分娩并发产时出血,不可归他处者	",O60-O75,"产程和分娩的并发症		",O00-O99,妊娠、分娩和产褥期,"Labour and delivery complicated by intrapartum haemorrhage, not elsewhere classified",2,0
+O68,"产程和分娩并发胎儿应激反应	",O60-O75,"产程和分娩的并发症		",O00-O99,妊娠、分娩和产褥期,Labour and delivery complicated by fetal stress [distress],2,0
+O69,"产程和分娩并发脐带并发症	",O60-O75,"产程和分娩的并发症		",O00-O99,妊娠、分娩和产褥期,Labour and delivery complicated by umbilical cord complications,2,0
+O70,"分娩时会阴裂伤	",O60-O75,"产程和分娩的并发症		",O00-O99,妊娠、分娩和产褥期,Perineal laceration during delivery,2,0
+O71,"其他产科创伤	",O60-O75,"产程和分娩的并发症		",O00-O99,妊娠、分娩和产褥期,Other obstetric trauma,2,0
+O72,"产后出血	",O60-O75,"产程和分娩的并发症		",O00-O99,妊娠、分娩和产褥期,Postpartum haemorrhage,2,0
+O73,"胎盘和胎膜滞留不伴有出血	",O60-O75,"产程和分娩的并发症		",O00-O99,妊娠、分娩和产褥期,"Retained placenta and membranes, without haemorrhage",2,0
+O74,"产程和分娩期间麻醉的并发症	",O60-O75,"产程和分娩的并发症		",O00-O99,妊娠、分娩和产褥期,Complications of anaesthesia during labour and delivery,2,0
+O75,"产程和分娩的其他并发症,不可归类在他处者	",O60-O75,"产程和分娩的并发症		",O00-O99,妊娠、分娩和产褥期,"Other complications of labour and delivery, not elsewhere classified",2,0
+O80,"单胎顺产	",O80-O84,分娩,O00-O99,妊娠、分娩和产褥期,Single spontaneous delivery,2,0
+O81,"借助产钳和真空吸引器的单胎分娩	",O80-O84,分娩,O00-O99,妊娠、分娩和产褥期,Single delivery by forceps and vacuum extractor,2,0
+O82,"经剖宫产术的单胎分娩	",O80-O84,分娩,O00-O99,妊娠、分娩和产褥期,Single delivery by caesarean section,2,0
+O83,"其他助产的单胎分娩	",O80-O84,分娩,O00-O99,妊娠、分娩和产褥期,Other assisted single delivery,2,0
+O84,"多胎分娩	",O80-O84,分娩,O00-O99,妊娠、分娩和产褥期,Multiple delivery,2,0
+O85,"产褥期脓毒病	",O85-O92,"主要与产褥期有关的并发症		",O00-O99,妊娠、分娩和产褥期,Puerperal sepsis,2,0
+O86,"其他产褥感染	",O85-O92,"主要与产褥期有关的并发症		",O00-O99,妊娠、分娩和产褥期,Other puerperal infections,2,0
+O87,"产褥期的静脉并发症	",O85-O92,"主要与产褥期有关的并发症		",O00-O99,妊娠、分娩和产褥期,Venous complications in the puerperium,2,0
+O88,"产科栓塞	",O85-O92,"主要与产褥期有关的并发症		",O00-O99,妊娠、分娩和产褥期,Obstetric embolism,2,0
+O89,"产褥期中麻醉的并发症	",O85-O92,"主要与产褥期有关的并发症		",O00-O99,妊娠、分娩和产褥期,Complications of anaesthesia during the puerperium,2,0
+O90,"产褥期的并发症,不可归类在他处者	",O85-O92,"主要与产褥期有关的并发症		",O00-O99,妊娠、分娩和产褥期,"Complications of the puerperium, not elsewhere classified",2,2
+O91,"与分娩有关的乳房感染	",O85-O92,"主要与产褥期有关的并发症		",O00-O99,妊娠、分娩和产褥期,Infections of breast associated with childbirth,2,0
+O92,"与分娩有关的乳房和哺乳的其他疾患	",O85-O92,"主要与产褥期有关的并发症		",O00-O99,妊娠、分娩和产褥期,Other disorders of breast and lactation associated with childbirth,2,0
+O94,妊娠、分娩和产褥期并发症的后遗症,O94-O99,"其他产科情况,不可归类在他处者		",O00-O99,妊娠、分娩和产褥期,"Sequelae of complication of pregnancy, childbirth and the puerperium",2,0
+O95,未特指原因的产科死亡,O94-O99,"其他产科情况,不可归类在他处者		",O00-O99,妊娠、分娩和产褥期,Obstetric death of unspecified cause,2,0
+O96,"任何产科原因的死亡,发生于分娩后42天以上至一年内",O94-O99,"其他产科情况,不可归类在他处者		",O00-O99,妊娠、分娩和产褥期,Death from any obstetric cause occurring more than 42 days but less than one year after delivery,2,0
+O97,直接产科原因后遗症的死亡,O94-O99,"其他产科情况,不可归类在他处者		",O00-O99,妊娠、分娩和产褥期,Death from sequelae of direct obstetric causes,2,0
+O98,"可归类在他处的孕产妇的传染病和寄生虫病并发于妊娠、分娩和产褥期	",O94-O99,"其他产科情况,不可归类在他处者		",O00-O99,妊娠、分娩和产褥期,"Maternal infectious and parasitic diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",2,0
+O99,"可归类在他处的孕产妇的其他疾病并发于妊娠、分娩和产褥期	",O94-O99,"其他产科情况,不可归类在他处者		",O00-O99,妊娠、分娩和产褥期,"Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",2,2
+P00,"胎儿和新生儿受母体情况影响,这些情况可能与本次妊娠无关",P00-P04,胎儿和新生儿受母体因素及妊娠、产程和分娩并发症的影响,P00-P96,起源于围生期的某些情况,Fetus and newborn affected by maternal conditions that may be unrelated to present pregnancy,0,0
+P01,胎儿和新生儿受母体妊娠并发症的影响,P00-P04,胎儿和新生儿受母体因素及妊娠、产程和分娩并发症的影响,P00-P96,起源于围生期的某些情况,Fetus and newborn affected by maternal complications of pregnancy,0,0
+P02,胎儿和新生儿受胎盘、脐带和胎膜的并发症的影响,P00-P04,胎儿和新生儿受母体因素及妊娠、产程和分娩并发症的影响,P00-P96,起源于围生期的某些情况,"Fetus and newborn affected by complications of placenta, cord and membranes",0,0
+P03,胎儿和新生儿受产程和分娩的其他并发症的影响,P00-P04,胎儿和新生儿受母体因素及妊娠、产程和分娩并发症的影响,P00-P96,起源于围生期的某些情况,Fetus and newborn affected by other complications of labour and delivery,0,0
+P04,胎儿和新生儿受经胎盘或母乳传播的有害物质的影响,P00-P04,胎儿和新生儿受母体因素及妊娠、产程和分娩并发症的影响,P00-P96,起源于围生期的某些情况,Fetus and newborn affected by noxious influences transmitted via placenta or breast milk,0,2
+P05,胎儿生长缓慢和胎儿营养不良,P05-P08,与妊娠期长短和胎儿生长有关的疾患,P00-P96,起源于围生期的某些情况,Slow fetal growth and fetal malnutrition,0,0
+P07,"与孕期短和低出生体重有关的疾患,不可归类在他处者",P05-P08,与妊娠期长短和胎儿生长有关的疾患,P00-P96,起源于围生期的某些情况,"Disorders related to short gestation and low birth weight, not elsewhere classified",0,0
+P08,与孕期长和高出生体重有关的疾患,P05-P08,与妊娠期长短和胎儿生长有关的疾患,P00-P96,起源于围生期的某些情况,Disorders related to long gestation and high birth weight,0,0
+P10,产伤引起的颅内撕裂和出血,P10-P15,产伤,P00-P96,起源于围生期的某些情况,Intracranial laceration and haemorrhage due to birth injury,0,0
+P11,中枢神经系统的其他产伤,P10-P15,产伤,P00-P96,起源于围生期的某些情况,Other birth injuries to central nervous system,0,0
+P12,头皮产伤,P10-P15,产伤,P00-P96,起源于围生期的某些情况,Birth injury to scalp,0,0
+P13,骨骼产伤,P10-P15,产伤,P00-P96,起源于围生期的某些情况,Birth injury to skeleton,0,0
+P14,周围神经系统产伤,P10-P15,产伤,P00-P96,起源于围生期的某些情况,Birth injury to peripheral nervous system,0,0
+P15,其他产伤,P10-P15,产伤,P00-P96,起源于围生期的某些情况,Other birth injuries,0,0
+P20,子宫内低氧症,P20-P29,特发于围生期的呼吸和心血管疾患,P00-P96,起源于围生期的某些情况,Intrauterine hypoxia,0,0
+P21,出生窒息,P20-P29,特发于围生期的呼吸和心血管疾患,P00-P96,起源于围生期的某些情况,Birth asphyxia,0,0
+P22,新生儿呼吸窘迫,P20-P29,特发于围生期的呼吸和心血管疾患,P00-P96,起源于围生期的某些情况,Respiratory distress of newborn,0,0
+P23,先天性肺炎,P20-P29,特发于围生期的呼吸和心血管疾患,P00-P96,起源于围生期的某些情况,Congenital pneumonia,0,0
+P24,新生儿吸入综合征,P20-P29,特发于围生期的呼吸和心血管疾患,P00-P96,起源于围生期的某些情况,Neonatal aspiration syndromes,0,0
+P25,起源于围生期的间质肺气肿及有关情况,P20-P29,特发于围生期的呼吸和心血管疾患,P00-P96,起源于围生期的某些情况,Interstitial emphysema and related conditions originating in the perinatal period,0,0
+P26,起源于围生期的肺出血,P20-P29,特发于围生期的呼吸和心血管疾患,P00-P96,起源于围生期的某些情况,Pulmonary haemorrhage originating in the perinatal period,0,0
+P27,起源于围生期的慢性呼吸性疾病,P20-P29,特发于围生期的呼吸和心血管疾患,P00-P96,起源于围生期的某些情况,Chronic respiratory disease originating in the perinatal period,0,0
+P28,起源于围生期的其他呼吸性情况,P20-P29,特发于围生期的呼吸和心血管疾患,P00-P96,起源于围生期的某些情况,Other respiratory conditions originating in the perinatal period,0,0
+P29,起源于围生期的心血管疾患,P20-P29,特发于围生期的呼吸和心血管疾患,P00-P96,起源于围生期的某些情况,Cardiovascular disorders originating in the perinatal period,0,2
+P35,先天性病毒性疾病,P35-P39,特发于围生期的感染,P00-P96,起源于围生期的某些情况,Congenital viral diseases,0,2
+P36,新生儿细菌性脓毒症,P35-P39,特发于围生期的感染,P00-P96,起源于围生期的某些情况,Bacterial sepsis of newborn,0,0
+P37,其他先天性传染病和寄生虫病,P35-P39,特发于围生期的感染,P00-P96,起源于围生期的某些情况,Other congenital infectious and parasitic diseases,0,0
+P38,新生儿脐炎伴或不伴轻度出血,P35-P39,特发于围生期的感染,P00-P96,起源于围生期的某些情况,Omphalitis of newborn with or without mild haemorrhage,0,0
+P39,特发于围生期的其他感染,P35-P39,特发于围生期的感染,P00-P96,起源于围生期的某些情况,Other infections specific to the perinatal period,0,0
+P50,胎儿失血,P50-P61,胎儿和新生儿出血性和血液学疾患,P00-P96,起源于围生期的某些情况,Fetal blood loss,0,0
+P51,新生儿脐带出血,P50-P61,胎儿和新生儿出血性和血液学疾患,P00-P96,起源于围生期的某些情况,Umbilical haemorrhage of newborn,0,0
+P52,胎儿和新生儿颅内非创伤性出血,P50-P61,胎儿和新生儿出血性和血液学疾患,P00-P96,起源于围生期的某些情况,Intracranial nontraumatic haemorrhage of fetus and newborn,0,0
+P53,胎儿和新生儿出血性疾病,P50-P61,胎儿和新生儿出血性和血液学疾患,P00-P96,起源于围生期的某些情况,Haemorrhagic disease of fetus and newborn,0,0
+P54,新生儿其他出血,P50-P61,胎儿和新生儿出血性和血液学疾患,P00-P96,起源于围生期的某些情况,Other neonatal haemorrhages,0,0
+P55,胎儿和新生儿的溶血性疾病,P50-P61,胎儿和新生儿出血性和血液学疾患,P00-P96,起源于围生期的某些情况,Haemolytic disease of fetus and newborn,0,0
+P56,溶血性疾病引起的胎儿水肿,P50-P61,胎儿和新生儿出血性和血液学疾患,P00-P96,起源于围生期的某些情况,Hydrops fetalis due to haemolytic disease,0,0
+P57,核黄疸,P50-P61,胎儿和新生儿出血性和血液学疾患,P00-P96,起源于围生期的某些情况,Kernicterus,0,0
+P58,其他过度溶血引起的新生儿黄疸,P50-P61,胎儿和新生儿出血性和血液学疾患,P00-P96,起源于围生期的某些情况,Neonatal jaundice due to other excessive haemolysis,0,0
+P59,其他和未特指原因所致的新生儿黄疸,P50-P61,胎儿和新生儿出血性和血液学疾患,P00-P96,起源于围生期的某些情况,Neonatal jaundice from other and unspecified causes,0,0
+P60,胎儿和新生儿播散性血管内凝血,P50-P61,胎儿和新生儿出血性和血液学疾患,P00-P96,起源于围生期的某些情况,Disseminated intravascular coagulation of fetus and newborn,0,0
+P61,其他围生期血液疾患,P50-P61,胎儿和新生儿出血性和血液学疾患,P00-P96,起源于围生期的某些情况,Other perinatal haematological disorders,0,0
+P70,特发于胎儿和新生儿的暂时性碳水化合物代谢紊乱,P70-P78,特发于胎儿和新生儿的暂时性内分泌和代谢疾患,P00-P96,起源于围生期的某些情况,Transitory disorders of carbohydrate metabolism specific to fetus and newborn,0,2
+P71,暂时性新生儿钙和镁代谢紊乱,P70-P78,特发于胎儿和新生儿的暂时性内分泌和代谢疾患,P00-P96,起源于围生期的某些情况,Transitory neonatal disorders of calcium and magnesium metabolism,0,0
+P72,新生儿其他暂时性内分泌疾患,P70-P78,特发于胎儿和新生儿的暂时性内分泌和代谢疾患,P00-P96,起源于围生期的某些情况,Other transitory neonatal endocrine disorders,0,0
+P74,新生儿其他暂时性电解质和代谢紊乱,P70-P78,特发于胎儿和新生儿的暂时性内分泌和代谢疾患,P00-P96,起源于围生期的某些情况,Other transitory neonatal electrolyte and metabolic disturbances,0,0
+P75,胎粪性肠梗阻,P70-P78,特发于胎儿和新生儿的暂时性内分泌和代谢疾患,P00-P96,起源于围生期的某些情况,Meconium ileus,0,0
+P76,新生儿其他肠梗阻,P70-P78,特发于胎儿和新生儿的暂时性内分泌和代谢疾患,P00-P96,起源于围生期的某些情况,Other intestinal obstruction of newborn,0,0
+P77,胎儿和新生儿的坏死性小肠结肠炎,P70-P78,特发于胎儿和新生儿的暂时性内分泌和代谢疾患,P00-P96,起源于围生期的某些情况,Necrotizing enterocolitis of fetus and newborn,0,0
+P78,其他围生期的消化系统疾患,P70-P78,特发于胎儿和新生儿的暂时性内分泌和代谢疾患,P00-P96,起源于围生期的某些情况,Other perinatal digestive system disorders,0,0
+P80,新生儿低温症,P80-P83,累及胎儿和新生儿体被和体温调节的情况,P00-P96,起源于围生期的某些情况,Hypothermia of newborn,0,0
+P81,新生儿其他体温调节障碍,P80-P83,累及胎儿和新生儿体被和体温调节的情况,P00-P96,起源于围生期的某些情况,Other disturbances of temperature regulation of newborn,0,0
+P83,特发于胎儿和新生儿体被的其他情况,P80-P83,累及胎儿和新生儿体被和体温调节的情况,P00-P96,起源于围生期的某些情况,Other conditions of integument specific to fetus and newborn,0,0
+P90,新生儿惊厥,P90-P96,起源于围生期的其他疾患,P00-P96,起源于围生期的某些情况,Convulsions of newborn,0,0
+P91,新生儿的其他大脑障碍,P90-P96,起源于围生期的其他疾患,P00-P96,起源于围生期的某些情况,Other disturbances of cerebral status of newborn,0,0
+P92,新生儿喂养问题,P90-P96,起源于围生期的其他疾患,P00-P96,起源于围生期的某些情况,Feeding problems of newborn,0,0
+P93,胎儿和新生儿用药引起的反应和中毒,P90-P96,起源于围生期的其他疾患,P00-P96,起源于围生期的某些情况,Reactions and intoxications due to drugs administered to fetus and newborn,0,0
+P94,新生儿肌张力疾患,P90-P96,起源于围生期的其他疾患,P00-P96,起源于围生期的某些情况,Disorders of muscle tone of newborn,0,0
+P95,未特指原因的胎儿死亡,P90-P96,起源于围生期的其他疾患,P00-P96,起源于围生期的某些情况,Fetal death of unspecified cause,0,0
+P96,起源于围生期的其他情况,P90-P96,起源于围生期的其他疾患,P00-P96,起源于围生期的某些情况,Other conditions originating in the perinatal period,0,0
+Q00,无脑儿和类似畸形,Q00-Q07,神经系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Anencephaly and similar malformations,0,1
+Q01,脑膨出,Q00-Q07,神经系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Encephalocele,0,1
+Q02,小头畸形,Q00-Q07,神经系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Microcephaly,0,1
+Q03,先天性脑积水,Q00-Q07,神经系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital hydrocephalus,0,1
+Q04,脑的其他先天性畸形,Q00-Q07,神经系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of brain,0,1
+Q05,脊柱裂,Q00-Q07,神经系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Spina bifida,0,1
+Q06,脊髓的其他先天性畸形,Q00-Q07,神经系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of spinal cord,0,1
+Q07,神经系统其他先天性畸形,Q00-Q07,神经系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of nervous system,0,1
+Q10,眼睑、泪器和眼眶先天性畸形,Q10-Q18,眼、耳、面和颈部先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,"Congenital malformations of eyelid, lacrimal apparatus and orbit",0,1
+Q11,无眼、小眼和巨眼畸形,Q10-Q18,眼、耳、面和颈部先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,"Anophthalmos, microphthalmos and macrophthalmos",0,1
+Q12,先天性晶状体畸形,Q10-Q18,眼、耳、面和颈部先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital lens malformations,0,1
+Q13,眼前段先天性畸形,Q10-Q18,眼、耳、面和颈部先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital malformations of anterior segment of eye,0,1
+Q14,先天性眼后段畸形,Q10-Q18,眼、耳、面和颈部先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital malformations of posterior segment of eye,0,1
+Q15,眼的其他先天性畸形,Q10-Q18,眼、耳、面和颈部先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of eye,0,1
+Q16,引起听力缺陷的耳先天性畸形,Q10-Q18,眼、耳、面和颈部先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital malformations of ear causing impairment of hearing,0,1
+Q17,耳的其他先天性畸形,Q10-Q18,眼、耳、面和颈部先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of ear,0,1
+Q18,面和颈部的其他先天性畸形,Q10-Q18,眼、耳、面和颈部先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of face and neck,0,1
+Q20,心腔和心连接的先天性畸形,Q20-Q28,循环系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital malformations of cardiac chambers and connections,0,1
+Q21,心间隔先天性畸形,Q20-Q28,循环系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital malformations of cardiac septa,0,1
+Q22,肺动脉瓣和三尖瓣先天性畸形,Q20-Q28,循环系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital malformations of pulmonary and tricuspid valves,0,1
+Q23,主动脉瓣和二尖瓣先天性畸形,Q20-Q28,循环系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital malformations of aortic and mitral valves,0,1
+Q24,心脏的其他先天性畸形,Q20-Q28,循环系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of heart,0,1
+Q25,大动脉先天性畸形,Q20-Q28,循环系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital malformations of great arteries,0,1
+Q26,大静脉先天性畸形,Q20-Q28,循环系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital malformations of great veins,0,1
+Q27,周围循环系统的其他先天性畸形,Q20-Q28,循环系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of peripheral vascular system,0,1
+Q28,循环系统的其他先天性畸形,Q20-Q28,循环系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of circulatory system,0,1
+Q30,鼻先天性畸形,Q30-Q34,呼吸系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital malformations of nose,0,1
+Q31,喉先天性畸形,Q30-Q34,呼吸系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital malformations of larynx,0,1
+Q32,气管和支气管先天性畸形,Q30-Q34,呼吸系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital malformations of trachea and bronchus,0,1
+Q33,肺先天性畸形,Q30-Q34,呼吸系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital malformations of lung,0,1
+Q34,呼吸系统的其他先天性畸形,Q30-Q34,呼吸系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of respiratory system,0,1
+Q35,腭裂,Q35-Q37,唇裂和腭裂,Q00-Q99,先天性畸形、变形和染色体异常,Cleft palate,0,1
+Q36,唇裂,Q35-Q37,唇裂和腭裂,Q00-Q99,先天性畸形、变形和染色体异常,Cleft lip,0,1
+Q37,腭裂伴唇裂,Q35-Q37,唇裂和腭裂,Q00-Q99,先天性畸形、变形和染色体异常,Cleft palate with cleft lip,0,1
+Q38,舌、口和咽的其他先天性畸形,Q38-Q45,消化系统的其他先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,"Other congenital malformations of tongue, mouth and pharynx",0,1
+Q39,食管先天性畸形,Q38-Q45,消化系统的其他先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital malformations of oesophagus,0,1
+Q40,上消化道的其他先天性畸形,Q38-Q45,消化系统的其他先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of upper alimentary tract,0,1
+Q41,小肠先天性缺如、闭锁和狭窄,Q38-Q45,消化系统的其他先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,"Congenital absence, atresia and stenosis of small intestine",0,1
+Q42,大肠先天性缺如、闭锁和狭窄,Q38-Q45,消化系统的其他先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,"Congenital absence, atresia and stenosis of large intestine",0,1
+Q43,肠的其他先天性畸形,Q38-Q45,消化系统的其他先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of intestine,0,1
+Q44,胆囊、胆管和肝先天性畸形,Q38-Q45,消化系统的其他先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,"Congenital malformations of gallbladder, bile ducts and liver",0,1
+Q45,消化系统的其他先天性畸形,Q38-Q45,消化系统的其他先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of digestive system,0,1
+Q50,卵巢、输卵管和阔韧带先天性畸形,Q50-Q56,生殖器官先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,"Congenital malformations of ovaries, fallopian tubes and broad ligaments",2,1
+Q51,子宫和宫颈先天性畸形,Q50-Q56,生殖器官先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital malformations of uterus and cervix,2,1
+Q52,女性生殖器的其他先天性畸形,Q50-Q56,生殖器官先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of female genitalia,2,1
+Q53,睾丸未降,Q50-Q56,生殖器官先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Undescended testicle,1,1
+Q54,尿道下裂,Q50-Q56,生殖器官先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Hypospadias,1,1
+Q55,男性生殖器官的其他先天性畸形,Q50-Q56,生殖器官先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of male genital organs,1,1
+Q56,性别不清和假两性畸形,Q50-Q56,生殖器官先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Indeterminate sex and pseudohermaphroditism,0,1
+Q60,肾缺如和肾的其他萎缩性缺陷,Q60-Q64,泌尿系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Renal agenesis and other reduction defects of kidney,0,1
+Q61,囊性肾病,Q60-Q64,泌尿系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Cystic kidney disease,0,1
+Q62,肾盂的先天性梗阻性缺陷和输尿管先天性畸形,Q60-Q64,泌尿系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital obstructive defects of renal pelvis and congenital malformations of ureter,0,1
+Q63,肾的其他先天性畸形,Q60-Q64,泌尿系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of kidney,0,1
+Q64,泌尿系统的其他先天性畸形,Q60-Q64,泌尿系统先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of urinary system,0,1
+Q65,髋先天性变形,Q65-Q79,肌肉骨骼系统先天性畸形和变形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital deformities of hip,0,1
+Q66,足先天性变形,Q65-Q79,肌肉骨骼系统先天性畸形和变形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital deformities of feet,0,1
+Q67,头、面、脊柱和胸的先天性肌肉骨骼变形,Q65-Q79,肌肉骨骼系统先天性畸形和变形,Q00-Q99,先天性畸形、变形和染色体异常,"Congenital musculoskeletal deformities of head, face, spine and chest",0,1
+Q68,肌肉骨骼的其他先天性变形,Q65-Q79,肌肉骨骼系统先天性畸形和变形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital musculoskeletal deformities,0,1
+Q69,多指[趾]畸形,Q65-Q79,肌肉骨骼系统先天性畸形和变形,Q00-Q99,先天性畸形、变形和染色体异常,Polydactyly,0,1
+Q70,并指[趾]畸形,Q65-Q79,肌肉骨骼系统先天性畸形和变形,Q00-Q99,先天性畸形、变形和染色体异常,Syndactyly,0,1
+Q71,上肢短小缺陷,Q65-Q79,肌肉骨骼系统先天性畸形和变形,Q00-Q99,先天性畸形、变形和染色体异常,Reduction defects of upper limb,0,1
+Q72,下肢短小缺陷,Q65-Q79,肌肉骨骼系统先天性畸形和变形,Q00-Q99,先天性畸形、变形和染色体异常,Reduction defects of lower limb,0,1
+Q73,未特指四肢的短小缺陷,Q65-Q79,肌肉骨骼系统先天性畸形和变形,Q00-Q99,先天性畸形、变形和染色体异常,Reduction defects of unspecified limb,0,1
+Q74,四肢的其他先天性畸形,Q65-Q79,肌肉骨骼系统先天性畸形和变形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of limb(s),0,1
+Q75,颅和面骨的其他先天性畸形,Q65-Q79,肌肉骨骼系统先天性畸形和变形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of skull and face bones,0,1
+Q76,脊柱及胸廓先天性畸形,Q65-Q79,肌肉骨骼系统先天性畸形和变形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital malformations of spine and bony thorax,0,1
+Q77,骨软骨发育不良伴管状骨和脊柱的发育缺陷,Q65-Q79,肌肉骨骼系统先天性畸形和变形,Q00-Q99,先天性畸形、变形和染色体异常,Osteochondrodysplasia with defects of growth of tubular bones and spine,0,1
+Q78,其他骨软骨发育不良,Q65-Q79,肌肉骨骼系统先天性畸形和变形,Q00-Q99,先天性畸形、变形和染色体异常,Other osteochondrodysplasias,0,1
+Q79,"肌肉骨骼系统先天性畸形,不可归类在他处者",Q65-Q79,肌肉骨骼系统先天性畸形和变形,Q00-Q99,先天性畸形、变形和染色体异常,"Congenital malformations of the musculoskeletal system, not elsewhere classified",0,1
+Q80,先天性鱼鳞病,Q80-Q89,其他先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital ichthyosis,0,1
+Q81,大疱性表皮松解症,Q80-Q89,其他先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Epidermolysis bullosa,0,1
+Q82,皮肤的其他先天性畸形,Q80-Q89,其他先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of skin,0,1
+Q83,乳房先天性畸形,Q80-Q89,其他先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Congenital malformations of breast,2,1
+Q84,体被的其他先天性畸形,Q80-Q89,其他先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other congenital malformations of integument,0,1
+Q85,"斑痣性错构瘤病,不可归类在他处者",Q80-Q89,其他先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,"Phakomatoses, not elsewhere classified",0,1
+Q86,"已知的外源性原因引起的先天性畸形综合征,不可归类在他处者",Q80-Q89,其他先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,"Congenital malformation syndromes due to known exogenous causes, not elsewhere classified",0,1
+Q87,影响多系统的其他特指先天性畸形综合征,Q80-Q89,其他先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,Other specified congenital malformation syndromes affecting multiple systems,0,1
+Q89,"其他先天性畸形,不可归类在他处者",Q80-Q89,其他先天性畸形,Q00-Q99,先天性畸形、变形和染色体异常,"Other congenital malformations, not elsewhere classified",0,1
+Q90,唐氏综合征[先天愚型],Q90-Q99,"染色体异常,不可归类在他处者",Q00-Q99,先天性畸形、变形和染色体异常,Down's syndrome,0,1
+Q91,爱德华兹综合征和帕套综合征,Q90-Q99,"染色体异常,不可归类在他处者",Q00-Q99,先天性畸形、变形和染色体异常,Edwards' syndrome and Patau's syndrome,0,1
+Q92,"常染色体其他三体性和部分三体型,不可归类在他处者",Q90-Q99,"染色体异常,不可归类在他处者",Q00-Q99,先天性畸形、变形和染色体异常,"Other trisomies and partial trisomies of the autosomes, not elsewhere classified",0,1
+Q93,"常染色体的单体性和缺失,不可归类在他处者",Q90-Q99,"染色体异常,不可归类在他处者",Q00-Q99,先天性畸形、变形和染色体异常,"Monosomies and deletions from the autosomes, not elsewhere classified",0,1
+Q95,"平衡重排和结构标记,不可归类在他处者",Q90-Q99,"染色体异常,不可归类在他处者",Q00-Q99,先天性畸形、变形和染色体异常,"Balanced rearrangements and structural markers, not elsewhere classified",0,1
+Q96,"特纳综合征[性腺发育障碍症][45,X综合征]",Q90-Q99,"染色体异常,不可归类在他处者",Q00-Q99,先天性畸形、变形和染色体异常,Turner's syndrome,2,1
+Q97,"其他的性染色体异常,女性表型,不可归类在他处者",Q90-Q99,"染色体异常,不可归类在他处者",Q00-Q99,先天性畸形、变形和染色体异常,"Other sex chromosome abnormalities, female phenotype, not elsewhere classified",2,1
+Q98,"其他的性染色体异常,男性表型,不可归类在他处者",Q90-Q99,"染色体异常,不可归类在他处者",Q00-Q99,先天性畸形、变形和染色体异常,"Other sex chromosome abnormalities, male phenotype, not elsewhere classified",1,1
+Q99,"其他染色体异常,不可归类在他处者",Q90-Q99,"染色体异常,不可归类在他处者",Q00-Q99,先天性畸形、变形和染色体异常,"Other chromosome abnormalities, not elsewhere classified",0,1
+R00,心脏搏动异常,R00-R09,累及循环和呼吸系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Abnormalities of heart beat,0,0
+R01,心脏杂音和其他心音,R00-R09,累及循环和呼吸系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Cardiac murmurs and other cardiac sounds,0,0
+R02,"坏疽,不可归类在他处者",R00-R09,累及循环和呼吸系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,"Gangrene, not elsewhere classified",0,0
+R03,"血压读数异常,无诊断者",R00-R09,累及循环和呼吸系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,"Abnormal blood-pressure reading, without diagnosis",0,0
+R04,呼吸道出血,R00-R09,累及循环和呼吸系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Haemorrhage from respiratory passages,0,0
+R05,咳嗽,R00-R09,累及循环和呼吸系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Cough,0,0
+R06,呼吸异常,R00-R09,累及循环和呼吸系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Abnormalities of breathing,0,0
+R07,咽痛和胸痛,R00-R09,累及循环和呼吸系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Pain in throat and chest,0,0
+R09,累及循环和呼吸系统的其他症状和体征,R00-R09,累及循环和呼吸系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Other symptoms and signs involving the circulatory and respiratory systems,0,0
+R10,腹部和盆腔痛,R10-R19,累及消化系统和腹部的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Abdominal and pelvic pain,0,0
+R11,恶心和呕吐,R10-R19,累及消化系统和腹部的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Nausea and vomiting,0,0
+R12,胃灼热,R10-R19,累及消化系统和腹部的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Heartburn,0,0
+R13,吞咽困难,R10-R19,累及消化系统和腹部的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Dysphagia,0,0
+R14,胃肠气胀及有关情况,R10-R19,累及消化系统和腹部的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Flatulence and related conditions,0,0
+R15,大便失禁,R10-R19,累及消化系统和腹部的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Faecal incontinence,0,0
+R16,"肝大和脾大,不可归类在他处者",R10-R19,累及消化系统和腹部的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,"Hepatomegaly and splenomegaly, not elsewhere classified",0,0
+R17,未特指的黄疸,R10-R19,累及消化系统和腹部的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Unspecified jaundice,0,0
+R18,腹水,R10-R19,累及消化系统和腹部的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Ascites,0,2
+R19,累及消化系统和腹部的其他症状和体征,R10-R19,累及消化系统和腹部的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Other symptoms and signs involving the digestive system and abdomen,0,0
+R20,皮肤感觉障碍,R20-R23,累及皮肤和皮下组织的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Disturbances of skin sensation,0,0
+R21,皮疹和其他非特异性斑疹,R20-R23,累及皮肤和皮下组织的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Rash and other nonspecific skin eruption,0,0
+R22,皮肤和皮下组织的局部肿胀、肿物和肿块,R20-R23,累及皮肤和皮下组织的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,"Localized swelling, mass and lump of skin and subcutaneous tissue",0,0
+R23,其他皮肤改变,R20-R23,累及皮肤和皮下组织的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Other skin changes,0,0
+R25,异常的不随意运动,R25-R29,累及神经和肌肉骨骼系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Abnormal involuntary movements,0,0
+R26,异常的步态和移动,R25-R29,累及神经和肌肉骨骼系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Abnormalities of gait and mobility,0,2
+R27,其他协调缺乏,R25-R29,累及神经和肌肉骨骼系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Other lack of coordination,0,0
+R29,累及神经和肌肉骨骼系统的其他症状和体征,R25-R29,累及神经和肌肉骨骼系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Other symptoms and signs involving the nervous and musculoskeletal systems,0,0
+R30,与排尿有关的疼痛,R30-R39,累及泌尿系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Pain associated with micturition,0,0
+R31,未特指的血尿,R30-R39,累及泌尿系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Unspecified haematuria,0,0
+R32,未特指的尿失禁,R30-R39,累及泌尿系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Unspecified urinary incontinence,0,1
+R33,尿潴留,R30-R39,累及泌尿系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Retention of urine,0,0
+R34,无尿和少尿,R30-R39,累及泌尿系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Anuria and oliguria,0,0
+R35,多尿,R30-R39,累及泌尿系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Polyuria,0,0
+R36,尿道排出物,R30-R39,累及泌尿系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Urethral discharge,0,0
+R39,累及泌尿系统的其他症状和体征,R30-R39,累及泌尿系统的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Other symptoms and signs involving the urinary system,0,2
+R40,嗜眠、木僵和昏迷,R40-R46,累及认知、知觉、情绪状态和行为的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,"Somnolence, stupor and coma",0,2
+R41,累及认知功能和意识的其他症状和体征,R40-R46,累及认知、知觉、情绪状态和行为的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Other symptoms and signs involving cognitive functions and awareness,0,2
+R42,头晕和眩晕,R40-R46,累及认知、知觉、情绪状态和行为的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Dizziness and giddiness,0,0
+R43,嗅觉和味觉障碍,R40-R46,累及认知、知觉、情绪状态和行为的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Disturbances of smell and taste,0,0
+R44,累及一般感觉和知觉的其他症状和体征,R40-R46,累及认知、知觉、情绪状态和行为的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Other symptoms and signs involving general sensations and perceptions,0,0
+R45,累及情绪状态的症状和体征,R40-R46,累及认知、知觉、情绪状态和行为的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Symptoms and signs involving emotional state,0,2
+R46,累及外貌与行为的症状和体征,R40-R46,累及认知、知觉、情绪状态和行为的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Symptoms and signs involving appearance and behaviour,0,0
+R47,"言语障碍,不可归类在他处者",R47-R49,累及言语和语音的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,"Speech disturbances, not elsewhere classified",0,2
+R48,"诵读困难和其他符号识别功能障碍,不可归类在他处者",R47-R49,累及言语和语音的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,"Dyslexia and other symbolic dysfunctions, not elsewhere classified",0,2
+R49,语音障碍,R47-R49,累及言语和语音的症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Voice disturbances,0,0
+R50,其他和原因不明的发热,R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Fever of other and unknown origin,0,0
+R51,头痛,R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Headache,0,0
+R52,"疼痛,不可归类在他处者",R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,"Pain, not elsewhere classified",0,0
+R53,不适和疲劳,R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Malaise and fatigue,0,2
+R54,衰老,R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Senility,0,1
+R55,晕厥和虚脱,R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Syncope and collapse,0,0
+R56,"惊厥,不可归类在他处者",R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,"Convulsions, not elsewhere classified",0,0
+R57,"休克,不可归类在他处者",R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,"Shock, not elsewhere classified",0,0
+R58,"出血,不可归类在他处者",R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,"Haemorrhage, not elsewhere classified",0,0
+R59,淋巴结增大,R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Enlarged lymph nodes,0,0
+R60,"水肿,不可归类在他处者",R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,"Oedema, not elsewhere classified",0,0
+R61,多汗症,R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Hyperhidrosis,0,0
+R62,未达到预期正常生理发育水平,R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Lack of expected normal physiological development,0,0
+R63,有关食物和液体摄取的症状和体征,R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Symptoms and signs concerning food and fluid intake,0,0
+R64,恶病质,R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Cachexia,0,0
+R65,全身炎症反应综合征,R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Systemic Inflammatory Response Syndrome [SIRS],0,0
+R68,其他的一般症状和体征,R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Other general symptoms and signs,0,0
+R69,原因不知和原因未特指的发病,R50-R69,一般症状和体征,R00-R99,症状、体征和临床与实验室异常所见,Unknown and unspecified causes of morbidity,0,0
+R70,红细胞沉降率升高和血浆粘滞度异常,R70-R79,血液检查的异常所见。无诊断者,R00-R99,症状、体征和临床与实验室异常所见,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,0,0
+R71,红细胞异常,R70-R79,血液检查的异常所见。无诊断者,R00-R99,症状、体征和临床与实验室异常所见,Abnormality of red blood cells,0,0
+R72,"白细胞异常,不可归类在他处者",R70-R79,血液检查的异常所见。无诊断者,R00-R99,症状、体征和临床与实验室异常所见,"Abnormality of white blood cells, not elsewhere classified",0,0
+R73,血糖水平升高,R70-R79,血液检查的异常所见。无诊断者,R00-R99,症状、体征和临床与实验室异常所见,Elevated blood glucose level,0,0
+R74,血清酶水平异常,R70-R79,血液检查的异常所见。无诊断者,R00-R99,症状、体征和临床与实验室异常所见,Abnormal serum enzyme levels,0,0
+R75,人类免疫缺陷病毒[HlV]的实验室证据,R70-R79,血液检查的异常所见。无诊断者,R00-R99,症状、体征和临床与实验室异常所见,Laboratory evidence of human immunodeficiency virus [HIV],0,0
+R76,其他血清免疫学异常所见,R70-R79,血液检查的异常所见。无诊断者,R00-R99,症状、体征和临床与实验室异常所见,Other abnormal immunological findings in serum,0,0
+R77,血浆蛋白的其他异常,R70-R79,血液检查的异常所见。无诊断者,R00-R99,症状、体征和临床与实验室异常所见,Other abnormalities of plasma proteins,0,0
+R78,血中发现通常不出现的药物和其他物质,R70-R79,血液检查的异常所见。无诊断者,R00-R99,症状、体征和临床与实验室异常所见,"Findings of drugs and other substances, not normally found in blood",0,0
+R79,血液化学的其他异常所见,R70-R79,血液检查的异常所见。无诊断者,R00-R99,症状、体征和临床与实验室异常所见,Other abnormal findings of blood chemistry,0,0
+R80,孤立性蛋白尿,R80-R82,"尿检查的异常所见,无诊断者",R00-R99,症状、体征和临床与实验室异常所见,Isolated proteinuria,0,0
+R81,糖尿,R80-R82,"尿检查的异常所见,无诊断者",R00-R99,症状、体征和临床与实验室异常所见,Glycosuria,0,0
+R82,尿的其他异常所见,R80-R82,"尿检查的异常所见,无诊断者",R00-R99,症状、体征和临床与实验室异常所见,Other abnormal findings in urine,0,0
+R83,脑脊液的异常所见,R83-R89,"其他体液、体内物质和组织检查的异常所见,无诊断者",R00-R99,症状、体征和临床与实验室异常所见,Abnormal findings in cerebrospinal fluid,0,0
+R84,呼吸器官和胸腔标本的异常所见,R83-R89,"其他体液、体内物质和组织检查的异常所见,无诊断者",R00-R99,症状、体征和临床与实验室异常所见,Abnormal findings in specimens from respiratory organs and thorax,0,0
+R85,消化器官和腹腔标本的异常所见,R83-R89,"其他体液、体内物质和组织检查的异常所见,无诊断者",R00-R99,症状、体征和临床与实验室异常所见,Abnormal findings in specimens from digestive organs and abdominal cavity,0,2
+R86,男性生殖器官标本的异常所见,R83-R89,"其他体液、体内物质和组织检查的异常所见,无诊断者",R00-R99,症状、体征和临床与实验室异常所见,Abnormal findings in specimens from male genital organs,1,0
+R87,女性生殖器官标本的异常所见,R83-R89,"其他体液、体内物质和组织检查的异常所见,无诊断者",R00-R99,症状、体征和临床与实验室异常所见,Abnormal findings in specimens from female genital organs,2,2
+R89,其他器官、系统和组织标本的异常所见,R83-R89,"其他体液、体内物质和组织检查的异常所见,无诊断者",R00-R99,症状、体征和临床与实验室异常所见,"Abnormal findings in specimens from other organs, systems and tissues",0,0
+R90,中枢神经系统诊断性影像检查的异常所见,R90-R94,"诊断性影像和功能检查的异常所见,无诊断者",R00-R99,症状、体征和临床与实验室异常所见,Abnormal findings on diagnostic imaging of central nervous system,0,0
+R91,肺诊断性影像检查的异常所见,R90-R94,"诊断性影像和功能检查的异常所见,无诊断者",R00-R99,症状、体征和临床与实验室异常所见,Abnormal findings on diagnostic imaging of lung,0,0
+R92,乳房诊断性影像检查的异常所见,R90-R94,"诊断性影像和功能检查的异常所见,无诊断者",R00-R99,症状、体征和临床与实验室异常所见,Abnormal findings on diagnostic imaging of breast,2,0
+R93,其他身体结构诊断性影像检查的异常所见,R90-R94,"诊断性影像和功能检查的异常所见,无诊断者",R00-R99,症状、体征和临床与实验室异常所见,Abnormal findings on diagnostic imaging of other body structures,0,2
+R94,功能检查的异常结果,R90-R94,"诊断性影像和功能检查的异常所见,无诊断者",R00-R99,症状、体征和临床与实验室异常所见,Abnormal results of function studies,0,0
+R95,婴儿猝死综合征,R95-R99,原因不明确和原因不知的死亡,R00-R99,症状、体征和临床与实验室异常所见,Sudden infant death syndrome,0,0
+R96,"其他猝死,原因不知",R95-R99,原因不明确和原因不知的死亡,R00-R99,症状、体征和临床与实验室异常所见,"Other sudden death, cause unknown",0,0
+R98,无人在场的死亡,R95-R99,原因不明确和原因不知的死亡,R00-R99,症状、体征和临床与实验室异常所见,Unattended death,0,0
+R99,其他原因不明确和未特指原因的死亡,R95-R99,原因不明确和原因不知的死亡,R00-R99,症状、体征和临床与实验室异常所见,Other ill-defined and unspecified causes of mortality,0,0

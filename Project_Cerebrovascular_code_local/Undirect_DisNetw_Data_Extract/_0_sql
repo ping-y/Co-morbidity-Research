@@ -1,0 +1,39 @@
+
+Create table YP_2024 as
+select
+    SFZH
+    , ALL_DISEASE
+    , NL
+    , XB
+    , XZZ_XZQH2
+    , CY_DATE
+    , RN
+from BA_CD_MULTI
+where FLAGS=6
+and SUBSTR(TO_CHAR(XZZ_XZQH2),1,4) in ('5120', '5132', '5133', '5134', '5101', '5103', '5104', '5105', '5106', '5107', '5108', '5109', '5110', '5111', '5113', '5114', '5115', '5116', '5117', '5118', '5119')
+and SUBSTR(TO_CHAR(DEPT_ADRRESSCODE2),1,4) in ('5120', '5132', '5133', '5134', '5101', '5103', '5104', '5105', '5106', '5107', '5108', '5109', '5110', '5111', '5113', '5114', '5115', '5116', '5117', '5118', '5119')
+and CY_DATE>=TO_DATE(‘2015-01-01′,’YYYY-MM-DD’) and CY_DATE<=TO_DATE(‘2020-12-31′,’YYYY-MM-DD’)
+and len(SFZH)=32
+;
+
+
+
+Create table DEPTADDR_YLJG_RYDATE_admission as
+select
+    DEPT_ADRRESSCODE2
+    , YLJGID
+    , RY_DATE
+    , COUNT(SFZH) as admission_num
+from BA_CD_MULTI
+where FLAGS=6
+and SUBSTR(TO_CHAR(XZZ_XZQH2),1,4) in ('5120', '5132', '5133', '5134', '5101', '5103', '5104', '5105', '5106', '5107', '5108', '5109', '5110', '5111', '5113', '5114', '5115', '5116', '5117', '5118', '5119')
+and SUBSTR(TO_CHAR(DEPT_ADRRESSCODE2),1,4) in ('5120', '5132', '5133', '5134', '5101', '5103', '5104', '5105', '5106', '5107', '5108', '5109', '5110', '5111', '5113', '5114', '5115', '5116', '5117', '5118', '5119')
+and CY_DATE>=TO_DATE(‘2015-01-01′,’YYYY-MM-DD’) and CY_DATE<=TO_DATE(‘2020-12-31′,’YYYY-MM-DD’)
+and len(SFZH)=32
+group by DEPT_ADRRESSCODE2
+    , YLJGID
+    , RY_DATE
+order by DEPT_ADRRESSCODE2
+    , YLJGID
+    , RY_DATE
+;

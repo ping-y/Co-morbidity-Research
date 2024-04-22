@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="map_js/echarts.min.js"></script>
+        <script type="text/javascript" src="map_js/maps/si4_chuan1_countries_yangping.js"></script>
+
+</head>
+<body>
+    <div id="6b2e77ab2bd64dc596507059c69773ad" class="chart-container" style="width:700px; height:700px;"></div>
+    <script>
+        var chart_6b2e77ab2bd64dc596507059c69773ad = echarts.init(
+            document.getElementById('6b2e77ab2bd64dc596507059c69773ad'), 'white', {renderer: 'canvas'});
+        var option_6b2e77ab2bd64dc596507059c69773ad = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "color": [
+        "#c23531",
+        "#2f4554",
+        "#61a0a8",
+        "#d48265",
+        "#749f83",
+        "#ca8622",
+        "#bda29a",
+        "#6e7074",
+        "#546570",
+        "#c4ccd3",
+        "#f05b72",
+        "#ef5b9c",
+        "#f47920",
+        "#905a3d",
+        "#fab27b",
+        "#2a5caa",
+        "#444693",
+        "#726930",
+        "#b2d235",
+        "#6d8346",
+        "#ac6767",
+        "#1d953f",
+        "#6950a1",
+        "#918597"
+    ],
+    "series": [
+        {
+            "type": "map",
+            "name": "\u56db\u5ddd-\u533a\u53bf",
+            "label": {
+                "show": false,
+                "position": "top",
+                "margin": 8
+            },
+            "mapType": "\u56db\u5ddd-\u533a\u53bf",
+            "data": [
+                {
+                    "name": "\u9526\u6c5f\u533a",
+                    "value": 22123
+                },
+                {
+                    "name": "\u9752\u7f8a\u533a",
+                    "value": 31735
+                },
+                {
+                    "name": "\u91d1\u725b\u533a",
+                    "value": 39317
+                },
+                {
+                    "name": "\u6b66\u4faf\u533a",
+                    "value": 36575
+                },
+                {
+                    "name": "\u6210\u534e\u533a",
+                    "value": 43570
+                },
+                {
+                    "name": "\u9f99\u6cc9\u9a7f\u533a",
+                    "value": 24569
+                },
+                {
+                    "name": "\u9752\u767d\u6c5f\u533a",
+                    "value": 12818
+                },
+                {
+                    "name": "\u65b0\u90fd\u533a",
+                    "value": 28295
+                },
+                {
+                    "name": "\u6e29\u6c5f\u533a",
+                    "value": 11788
+                },
+                {
+                    "name": "\u53cc\u6d41\u533a",
+                    "value": 21733
+                },
+                {
+                    "name": "\u90eb\u90fd\u533a",
+                    "value": 17709
+                },
+                {
+                    "name": "\u91d1\u5802\u53bf",
+                    "value": 19206
+                },
+                {
+                    "name": "\u5927\u9091\u53bf",
+                    "value": 9136
+                },
+                {
+                    "name": "\u84b2\u6c5f\u53bf",
+                    "value": 5687
+                },
+                {
+                    "name": "\u65b0\u6d25\u533a",
+                    "value": 14820
+                },
+                {
+                    "name": "\u90fd\u6c5f\u5830\u5e02",
+                    "value": 15620
+                },
+                {
+                    "name": "\u5f6d\u5dde\u5e02",
+                    "value": 16790
+                },
+                {
+                    "name": "\u909b\u5d03\u5e02",
+                    "value": 9757
+                },
+                {
+                    "name": "\u5d07\u5dde\u5e02",
+                    "value": 12894
+                },
+                {
+                    "name": "\u7b80\u9633\u5e02",
+                    "value": 9674
+                }
+            ],
+            "roam": true,
+            "aspectScale": 0.75,
+            "nameProperty": "name",
+            "selectedMode": false,
+            "zoom": 1,
+            "mapValueCalculation": "sum",
+            "showLegendSymbol": false,
+            "emphasis": {},
+            "rippleEffect": {
+                "show": true,
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "\u56db\u5ddd-\u533a\u53bf"
+            ],
+            "selected": {
+                "\u56db\u5ddd-\u533a\u53bf": true
+            },
+            "show": true,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "formatter": "{b}<br/>{c} (p / km2)",
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5
+    },
+    "title": [
+        {
+            "text": "\u56db\u5ddd\u7701 2017\u5e74",
+            "padding": 5,
+            "itemGap": 10
+        }
+    ],
+    "visualMap": {
+        "show": true,
+        "type": "piecewise",
+        "min": 0,
+        "max": 59594,
+        "text": [
+            "High",
+            "Low"
+        ],
+        "inRange": {
+            "color": [
+                "lightskyblue",
+                "white",
+                "red"
+            ]
+        },
+        "calculable": true,
+        "inverse": false,
+        "splitNumber": 5,
+        "orient": "vertical",
+        "showLabel": true,
+        "itemWidth": 20,
+        "itemHeight": 14,
+        "borderWidth": 0
+    }
+};
+        chart_6b2e77ab2bd64dc596507059c69773ad.setOption(option_6b2e77ab2bd64dc596507059c69773ad);
+    </script>
+</body>
+</html>
